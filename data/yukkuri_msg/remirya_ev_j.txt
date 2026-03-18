@@ -2,56 +2,56 @@
 [ScareRapist]
 	<normal>
 		<baby>
-			うーっ！れいぱーだー！！！
-			うーっ！たしゅけりょぉぉぉ！！！
-			うーっ！ろりっこん！のへんたいだぁぁ！
-			うーっ！さきゅやっ！たちゅけりょぉ！！！
-			うー、、こわいよぉおお！！！
-			う～っ！う～っ！
-			うぅ～ あっちいぐんだどぉ！！！
-			おまえぎらいぃ！あっぢいげぇ！！！
+			Uu~! Ich'sh a Wabew~!!!
+			Uu~! Helb me, blease~~!!!
+			Uu~! Wowicon! You'we a pewvewd~!!!
+			Uu~! Shagyuyaa! Helb meeee!!!
+			Uu... It's shcawy~~!!!
+			U~! U~
+			Uuu~ I'm going away dadooo~~!!!
+			I hache you! Ich hurchsh!!!
 			<damage>
-				うー、、やめちぇにぇ？やめちぇにぇ？
-				うー、、さきゅや、、たしゅけりょぉぉ、、、
-				うー、、れいぽぅはゆっきゅりできにゃい、、、
-				う～っ、、う～っ、、
-				あっぢいげぇ、、、
+				Uu~... Shchob ich, bleashe? Bleashe shchob!
+				Uu~... Shaguya... Helb me, bleashe...
+				Uu~... Wapew can'ch chage ich eajy...
+				Uu~~... Uu~~...
+				Ich hurchsh~~
 			</damage>
 		</baby>
 		<child>
-			うーっ！れいぱーだー！！！
-			うーっ！たしゅけりょぉぉぉ！！！
-			うーっ！ろりっこん！のへんたいだぁぁ！
-			う～っ！%nameには、はやすぎりゅどぉ！
-			うーっ！さきゅやっ！たちゅけりょぉ！！！
-			うー、、こわいよぉおお！！！
-			う～っ！う～っ！
-			うぅ～ あっちいぐんだどぉ！！！
-			おまえぎらいぃ！あっぢいげぇ！！！
+			Uu~! Ich'sh a Wabew~!!!
+			Uu~! Helb me, blease~~!!!
+			Uu~! Wowicon! You'we a pewvewd~!!!
+			U~! Ich'sh choo shoon cho wefwesh fow %name~
+			Uu~! Shagyuyaa! Helb meeee!!!
+			Uu... It's shcawy~~!!!
+			U~! U~
+			Uuu~ I'm going away dadooo~~!!!
+			I hache you! Ich hurchsh!!!
 			<damage>
-				うー、、ごめんなちゃい やめちぇにぇ、、、
-				うー、、やべでぇ？やべでぇ？
-				うー、、やめちぇにぇ？やめちぇにぇ？
-				うー、、さきゅや、、たしゅけりょぉぉ、、、
-				うー、、れいぽぅはゆっきゅりできにゃい、、、
-				う～っ、、うう～っ、、
-				あっぢいげぇ、、、
+				Uu~! I'm sho showwy, bleashe shchob~~~
+				Uu~? Shchob ich?
+				Uu~? Shchob ich, bleashe? Bleashe shchob?
+				Uu~... Shaguya... Helb me, bleashe...
+				Uu~... Wapew can'ch chage ich eajy...
+				Uu~~... Uu~~...
+				Ich hurchsh~~
 			</damage>
 		</child>
 		<adult>
-			うーっ！れいぱーだー！
-			うーっ！さくやー！ たすけてぇぇ！！！
-			うーっ！さくやー！ たすけてぇぇ！！！
-			うーっ！めーりーん！ たすけてぇぇ！！！
-			うーっ！%name、すっきりー！したくないぃぃ！
-			う～っ！う～っ！
-			うぅ～ あっちいぐんだどぉ！！！
-			おまえぎらいぃ！あっぢいげぇ！！！
+			Uu~! It's a Raper!
+			Uu~! Sakuya! Help meeeee!!!
+			Uu~! Sakuya! Help meeeee!!!
+			Uu~! Meirin! Help meeeee!!!
+			Uu~! %name doesn't want to be refreeeeesh!!!
+			Uu~! Uu~!
+			Uu~ I'm going away dadooo!!
+			I hate you! It hurts!!!
 			<damage>
-				うー、、おねがいじばず、やめでぐだざいぃ、、、
-				うー、、%nameはにげるど、、ゆっくりしないでにげるど、、
-				う～っ、、う～っ、、
-				あっぢいげぇ、、、
+				Uu~... Blease, stob id blease~~...
+				Uu~... %name is running away doo.. running away without daking it eajy dooo,,
+				Uu~... Uu~...
+				It hurds~~~
 			</damage>
 		</adult>
 	</normal>
@@ -67,8 +67,8 @@
 			%dummy 
 		</child>
 		<adult>
-			うー！%nameをおこらせたんだどぉ～！
-			かりすま☆に はむかうなだどぉ～！
+			Uu~! You made %name upset, dado~!
+			Don't fight back Charisma☆, dado~!
 		</adult>
 	</normal>
 [/AttackRapist]
@@ -83,9 +83,9 @@
 			%dummy 
 		</child>
 		<adult>
-			かりすま☆%nameにつづくんだどぉ～！
-			れいぱーをやっつけるんだどぉ～！
-			うーっ！みんなでせいっさい！するどー！
+			Follow Charisma☆%name dadooo~!
+			Let's defeat the evil Raper dadoo~!
+			Uu~! Let's all punish them! Let's do it doo~!
 		</adult>
 	</normal>
 [/CounterRapist]
@@ -94,42 +94,42 @@
 [HateYukkuri]
 	<normal>
 		<baby>
-			う～？えれがんと☆じゃないんだどぉ～♪
-			う～っ？ゆっきゅりちてにゃい ゆっくりがいりゅどー！
-			うーっ？おかじゃりのにゃい ゆっくりがいりゅどー！
+			Uu~? Ich'sh nod ewegand☆ dado~♪
+			Uu~? Dhere ish a Yugguwi who can'ch chage ich eajy doo!
+			Uu~? Dhere'sh a Yugguwi widhouch a hach doo!
 		</baby>
 		<child>
-			う～？えれがんと☆じゃないんだどぉ～♪
-			う～っ？ゆっきゅりできにゃい ゆっくりがいりゅどー！
-			うーっ？あのゆっくり おぼうしもっちぇないどー！
+			Uu~? Ich'sh nod ewegand☆ dado~♪
+			Uu~? Dhere ish a Yugguwi who can'ch chage ich eajy doo!
+			Uu~? Dhere'sh a Yugguwi widhouch a hach doo!
 		</child>
 		<adult>
-			う～？えれがんと☆じゃないんだどぉ～♪
-			う～っ？ゆっくりできない ゆっくりがいるどー！
-			うーっ？おぼうしがない ゆっくりがいるどー！
+			Uu~? It's not elegant☆ dado~♪
+			Uu~? There is a Yukkuri who can't take it easy doo!
+			Uu~? There's a Yukkuri without a hat doo!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うーっ！ゆっきゅりしにぇー！
-			う～！う～！ゆっきゅりしてにゃい！
-			あっちいくんだどぉー！
-			う～？えれがんと☆じゃないんだどぉ～♪
-			うぅ～？おしおきだどぉ～♪
+			Uu~! Dwop dead eajy~!
+			Uu~! Uu~! Blease be gentleDwop dead eajy~!
+			Go away dado~!
+			Uu~? Ich'sh nod ewegand☆ dado~♪
+			Uu~? Chime fow bunishmend, dadoo~♪
 		</baby>
 		<child>
-			う～！きゃわいくにゃい ゆっくりは ゆっきゅりしにぇー！
-			うーっ！おかじゃりがない ゆっくりは ゆっきゅりしにぇー！
-			う～？えれがんと☆じゃないんだどぉ～♪
-			あっちいくんだどぉー！
-			うぅ～？おしおきだどぉ～♪
+			Uu~! Dwop dead eajy~!
+			Uu~! Uu~! Blease be gentleDwop dead eajy~!
+			Uu~? Ich'sh nod ewegand☆ dado~♪
+			Go away dado~!
+			Uu~? Chime fow bunishmend, dadoo~♪
 		</child>
 		<adult>
-			うーっ！ゆっくりしてないゆっくりは ゆっくりしねー！
-			うーっ！おぼうしのないゆっくりは ゆっくりしねー！
-			あっちいくんだどぉー！
-			う～？えれがんと☆じゃないんだどぉ～♪
-			うぅ～？おしおきだどぉ～♪
+			Uu~! Yukkuri who can't take it easy drop dead easy!
+			Uu~! Yukkuri without a hat should drop dead easy!
+			Go away dado~!
+			Uu~? It's not elegant☆ dado~♪
+			Uu~? Time for punishment, dadoo~♪
 		</adult>
 	</rude>
 [/HateYukkuri]
@@ -138,13 +138,13 @@
 [EngageUnunSlave]
 	<normal>
 		<baby>
-			ゆっくちできにゃいゆっくりはうんうんどれいにしゅるどー！
+			Yugguwi who can'ch chage ich eajy wiww become poo-poo shlabe doo-!
 		</baby>
 		<child>
-			ゆっくちできにゃいゆっくりはうんうんどれいにしゅるどー！
+			Yugguwi who can'ch chage ich eajy wiww become poo-poo shlabe doo-!
 		</child>
 		<adult>
-			ゆっくりできないゆっくりはうんうんどれいにするどー！
+			Yukkuri who can't take it easy will become poo-poo slave doo-!
 		</adult>
 	</normal>
 [/EngageUnunSlave]
@@ -153,17 +153,17 @@
 [ConcernAboutPartner]
 	<normal>
 		<baby>
-			う～、、う～、、
-			しっかりするんだどぉぉ、、、
+			Uu~,,,, Uu~~~
+			Hang in dhewe dadoo~...
 		</baby>
 		<child>
-			う～、、う～、、
-			しっかりするんだどぉぉ、、、
+			Uu~,,,, Uu~~~
+			Hang in dhewe dadoo~...
 		</child>
 		<adult>
-			%partner、だいじょうなんだどぉ～？
-			%partner、しっかりするんだどぉ～！
-			%partner、あんこさんはいちゃだめなんだどぉ！
+			%partner, are you okay dadoo~?
+			%partner, hang in there dadoo~!
+			%partner, don't throw up Mister bean paste dadoo!
 		</adult>
 	</normal>
 
@@ -173,17 +173,17 @@
 [ConcernAboutChild]
 	<normal>
 		<baby>
-			う～、、う～、、
-			しっかりするんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Hang in dhewe dadoo~...
 		</baby>
 		<child>
-			う～、、う～、、
-			しっかりするんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Hang in dhewe dadoo~...
 		</child>
 		<adult>
-			うぅ～ だいじょうぶなんだどぉ～？
-			おちび～、しっかりするんだどぉ～！
-			おちび～、あんこさんはいちゃだめなんだどぉ！
+			Uu~ are you okay dadoo~?
+			Little one~, hang in there dadoo~!
+			Little one~, don't throw up Mister bean paste dadoo~!
 		</adult>
 	</normal>
 [/ConcernAboutChild]
@@ -192,19 +192,19 @@
 [ConcernAboutFather]
 	<normal>
 		<baby>
-			ぴゃぴゃ、だいじょうぶ？
-			ぴゃぴゃ、ゆっきゅりしちぇにぇ？
-			ぴゃぴゃ、あんこしゃん はいちゃだめだどぉ！
+			Dyadya, awe you ogay dadoo~?
+			Dyadya, chage id easy?
+			Dyadya~, don'ch thwow ub Mishchew bean pashche dadoo~!
 		</baby>
 		<child>
-			ぴゃぴゃ、だいじょうぶ？
-			ぴゃぴゃ、ゆっきゅりしちぇにぇ？
-			ぴゃぴゃ、あんこしゃん はいちゃだめだどぉ！
+			Dwaddie, awe you ogay dadoo~?
+			Dwaddie, chage id easy?
+			Dwaddie, don'ch thwow ub Mishchew bean pashche dadoo~!
 		</child>
 		<adult>
-			ぱぱ、だいじょうぶ？
-			ぱぱ、しっかりするど！
-			ぱぱ、あんこさん はいちゃだめだど！
+			Dad, are you okay dadoo~?
+			Dad~, hang in there dadoo~!
+			Dad~, don't throw up Mister bean paste dadoo~!
 		</adult>
 	</normal>
 [/ConcernAboutFather]
@@ -213,19 +213,19 @@
 [ConcernAboutMother]
 	<normal>
 		<baby>
-			まんま、だいじょうぶ？
-			まんま、ゆっきゅりしちぇにぇ？
-			まんま、あんこしゃん はいちゃだめだどぉ！
+			Myamya, awe you ogay dadoo~?
+			Myamya, chage id easy?
+			Myamya~, don'ch thwow ub Mishchew bean pashche dadoo~!
 		</baby>
 		<child>
-			まんま、だいじょうぶ？
-			まんま、ゆっきゅりしちぇにぇ？
-			まんま、あんこしゃん はいちゃだめだどぉ！
+			Mommy, awe you ogay dadoo~?
+			Mommy, chage id easy?
+			Mommy, don'ch thwow ub Mishchew bean pashche dadoo~!
 		</child>
 		<adult>
-			まま、だいじょうぶ？
-			まま、しっかりするど！
-			まま、あんこさん はいちゃだめだど！
+			Mom, are you okay dadoo~?
+			Mom~, hang in there dadoo~!
+			Mom~, don't throw up Mister bean paste dadoo~!
 		</adult>
 	</normal>
 [/ConcernAboutMother]
@@ -234,19 +234,19 @@
 [ConcernAboutEldersister]
 	<normal>
 		<baby>
-			う～、、う～、、
-			おねぇしゃん、ゆっきゅり！ゆっきゅりするんだどぉ！
-			、ゆっきゅりよくなるんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Big shishdew, eajy! Chage id eajy doo~!
+			, Gech beddew eajy dadoo~,,,
 		</baby>
 		<child>
-			う～、、う～、、
-			おねぇしゃん、ゆっきゅり！ゆっきゅりするんだどぉ！
-			、ゆっきゅりよくなるんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Big shishdew, eajy! Chage id eajy doo~!
+			, Gech beddew eajy dadoo~,,,
 		</child>
 		<adult>
-			%partner、だいじょうぶかどぉ～？
-			%partner、しっかりするんだどぉ！
-			%partner、あんこさんはいちゃだめなんだどぉぉ！
+			%partner, are you okay dadoo~?
+			%partner, hang in there dadoo~!
+			%partner, don't throw up Mister bean paste dadoo!
 		</adult>
 	</normal>
 [/ConcernAboutEldersister]
@@ -255,19 +255,19 @@
 [ConcernAboutSister]
 	<normal>
 		<baby>
-			う～、、う～、、
-			いもうちょ、ゆっきゅり！ゆっきゅりするんだどぉ！
-			、ゆっきゅりよくなるんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Liddle shishdew, eajy! Chage id eajy doo~!
+			, Gech beddew eajy dadoo~,,,
 		</baby>
 		<child>
-			う～、、う～、、
-			いもうちょ、ゆっきゅり！ゆっきゅりするんだどぉ！
-			、ゆっきゅりよくなるんだどぉ、、、
+			Uu~,,,, Uu~~~
+			Liddle shishdew, eajy! Chage id eajy doo~!
+			, Gech beddew eajy dadoo~,,,
 		</child>
 		<adult>
-			%partner、だいじょうぶかどぉ～？
-			%partner、しっかりするんだどぉ！
-			%partner、あんこさんはいちゃだめなんだどぉ！
+			%partner, Are you okay~?
+			%partner, You have to stay strong~!
+			%partner, Sweet-sweets are not for sharing~!
 		</adult>
 	</normal>
 [/ConcernAboutSister]
@@ -276,37 +276,37 @@
 [TreatChildByPeropero]
 	<normal>
 		<baby>
-			うぅ～、ぺりょぺりょ、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
+			Uu~, ligg-ligg,,, liddle one, chage id eajy and ged beddew shoon, ogay?
+			Uu~, liddle one,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
 		</baby>
 		<child>
-			うぅ～、ぺりょぺりょ、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameのおちびがこんなめに、、、
+			Uu~, ligg-ligg,,, liddle one, chage id eajy and ged beddew shoon, ogay?
+			Uu~, liddle one,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben to %name'sh liddle one...?
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、おちび、ゆっくりげんきになってね？
-			うぅ～、ぺーろぺーろ、、どぼじで%nameのおちびがこんなめに、、、
-			うぅ～、おちび、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
+			Uu~, lick-lick,,, little one, take it easy and get better soon, okay?
+			Uu~, lick-lick,,, why did this happen to %name's little one...?
+			Uu~, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うぅ～、ぺりょぺりょ、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameのおちびがきょんなめに、、、
+			Uu~, ligg-ligg,,, liddle one, chage id eajy and ged beddew shoon, ogay?
+			Uu~, liddle one,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben to %name'sh liddle one...?
 		</baby>
 		<child>
-			うぅ～、ぺりょぺりょ、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameのおちびがこんなめに、、、
+			Uu~, ligg-ligg,,, liddle one, chage id eajy and ged beddew shoon, ogay?
+			Uu~, liddle one,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben to %name'sh liddle one...?
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、おちび、ゆっくりげんきになってね？
-			うぅ～、おちび、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
-			うぅ～、ぺーろぺーろ、、くそどれいははやくおちびをたすけてね、、、
-			うぅ～、ぺーろぺーろ、、どぼじで%nameのおちびがこんなめに、、、
-			うぅ～、ぺーろぺーろ、、おちびのしかえしをしてあげるど、、、
+			Uu~, lick-lick,,, little one, take it easy and get better soon, okay?
+			Uu~, little one, take it easy and heal with %name's lick-lick...
+			Uu~, lick-lick,,, shitty slave, hurry up and help the little one,,,
+			Uu~, lick-lick,,, why did this happen to %name's little one...?
+			Uu~, lick-lick,,, I'll get revenge for you little one~~
 		</adult>
 	</rude>
 [/TreatChildByPeropero]
@@ -315,37 +315,37 @@
 [TreatPartnerByPeropero]
 	<normal>
 		<baby>
-			うぅ～、ぺりょぺりょ、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
+			Uu~, ligg-ligg,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
 		</baby>
 		<child>
-			うぅ～、ぺりょぺりょ、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameの%partnerがこんなめに、、、
+			Uu~, ligg-ligg,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben cho %name'sh %partner,,,
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、%partner、ゆっくりげんきになってね？
-			うぅ～、ぺーろぺーろ、、どぼじで%nameの%partnerがこんなめに、、、
-			うぅ～、%partner、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
+			Uu~, lick-lick,,, %partner, take it easy and get better soon, okay?
+			Uu~, lick-lick,,, why did this happen to %name's %partner,,,
+			Uu~, %partner, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うぅ～、ぺりょぺりょ、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameの%partnerがきょんなめに、、、
+			Uu~, ligg-ligg,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben cho %name'sh %partner,,,
 		</baby>
 		<child>
-			うぅ～、ぺりょぺりょ、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			うぅ～、ぺーりょぺーりょ、、どぼじで%nameの%partnerがこんなめに、、、
+			Uu~, ligg-ligg,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner,,, chake ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Uu~, ligg-ligg,,, why did dhish habben cho %name'sh %partner,,,
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、%partner、ゆっくりげんきになってね？
-			うぅ～、%partner、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
-			うぅ～、ぺーろぺーろ、、くそどれいははやく%partnerをたすけてね、、、
-			ぺーろぺーろ、、どぼじで%nameの%partnerがこんなめに、、、
-			うぅ～、ぺーろぺーろ、、%partnerのしかえしをしてあげるど、、、
+			Uu~, lick-lick,,, %partner, take it easy and get better soon, okay?
+			Uu~, %partner, take it easy and heal with %name's lick-lick...
+			Uu~, lick-lick,,, shitty slave, hurry up and help %partner,,,
+			lick-lick,,, why did this happen to %name's %partner,,,
+			Uu~, lick-lick,,, I'll get revenge for %partner~~
 		</adult>
 	</rude>
 [/TreatPartnerByPeropero]
@@ -354,38 +354,38 @@
 [TreatFatherByPeropero]
 	<normal>
 		<baby>
-			ぺりょぺりょ、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇにぇ？
+			Ligg-ligg,,, pyapya, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, pyapya,,, chage ich eajy and heal widh %name'sh eajy ligg-ligg...
+			ligg-ligg,,, chage ich eajy, okay?
 		</baby>
 		<child>
-			ぺりょぺりょ、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇね？
+			Ligg-ligg,,, dwaddie, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, dwaddie,,, chage ich eajy and heal widh %name'sh eajy ligg-ligg...
+			ligg-ligg,,, chage ich eajy, okay?
 		</child>
 		<adult>
-			ぺーろぺーろ、、、ゆっくりよくなってね？
-			うぅ～、%nameのぺーろぺーろで ゆっくりなおってね、、、
+			lick-lick,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぺりょぺりょ、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			ぺーりょぺーりょ、、、ゆっくりしちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、どぼじで、ぱぱ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇ、、、
+			Ligg-ligg,,, pyapya, chage ich eajy ged beddew shoon, ogay?
+			ligg-ligg,,, chage ich eajy, okay?
+			Uu~, pyapya,,, chage ich eajy and heal widh %name'sh eajy ligg-ligg...
+			Ligg-ligg,,, why pyapya,,,
+			ligg-ligg,,, chage ich eajy,,,
 		</baby>
 		<child>
-			ぺりょぺりょ、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			ぺーりょぺーりょ、、、どぼじで、ぱぱ、、、
-			うぅ～、ぱぱ、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇね？
+			Ligg-ligg,,, dwaddie, chage ich eajy and ged beddew shoon, ogay?
+			Ligg-ligg,,, why dwaddie,,,
+			Uu~, dwaddie,,, chage ich eajy and heal widh %name'sh eajy ligg-ligg...
+			ligg-ligg,,, chage ich eajy, okay?
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、、ゆっくりよくなってね？
-			うぅ～、%nameのぺーろぺーろで ゆっくりなおってね、、、
-			ぺーろぺーろ、、、このくつっじょくははたしてみせるど、、、
+			lick-lick,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's lick-lick...
+			Lick-lick,,, I'll definitely avenge this humiliation doo,,,
 		</adult> 
 	</rude>
 [/TreatFatherByPeropero]
@@ -394,36 +394,36 @@
 [TreatMotherByPeropero]
 	<normal>
 		<baby>
-			ぺりょぺりょ、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇにぇ？
+			lick-lick,,, myamya, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, myamya, chage ich eajy and heal widh %name'sh ligg-ligg...
+			Ligg-ligg,,, Chage ich eajy?
 		</baby>
 		<child>
-			ぺりょぺりょ、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、ゆっくりしちぇね？
+			lick-lick,,, mommy, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, mommy, chage ich eajy and heal widh %name'sh ligg-ligg...
+			Ligg-ligg,,, Chage ich eajy?
 		</child>
 		<adult>
-			うぅ～、ぺーろぺーろ、、、ゆっくりよくなってね？
-			うぅ～、%nameのぺーろぺーろで ゆっくりなおってね、、、
+			lick-lick,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うぅ～、ぺりょぺりょ、、、まんまゆっきゅりよくなっちぇにぇ？
-			ぺーりょぺーりょ、、、まんま、ゆっくり、ゆっくりしちぇにぇ？
-			うぅ～、まんま、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
+			Uu~, ligg-ligg,,, myamya, chage ich eajy and get beddew shoon, ogay?
+			Ligg-ligg,,, myamya, chage ich eajy, chage ich eajy, ogay?
+			Uu~, myamya,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
 		</baby>
 		<child>
-			うぅ～、ぺりょぺりょ、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのぺりょぺりょで ゆっきゅりなおっちぇにぇ、、、
-			ぺーりょぺーりょ、、、まんま、ゆっくり、ゆっくりしちぇね？
+			Uu~, ligg-ligg,,, mommy, chage ich eajy and get beddew shoon, ogay?
+			Uu~, mommy,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
+			Ligg-ligg,,, mommy, chage ich eajy, chage ich eajy, ogay?
 		</child>
 		<adult>
-			ぺーろぺーろ、、、ゆっくりよくなってね？
-			うぅ～、%nameのぺーろぺーろで ゆっくりなおってね、、、
-			ぺーりょぺーりょ、、、ゆっくり、ゆっくりしてね？
-			うぅ～、ぺーろぺーろ、、、ぜったいにこうかいさせてみせるど、、、
+			lick-lick,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's lick-lick...
+			Lick-lick,,, take it easy, take it easy, okay?
+			Uu, Lick-lick,,, I'll definitely avenge this humiliation doo,,,
 		</adult> 
 	</rude>
 [/TreatMotherByPeropero]
@@ -432,37 +432,37 @@
 [TreatElderSisterByPeropero]
 	<normal>
 		<baby>
-			ぺりょぺりょ、、おねえしゃ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
+			Uu~, ligg-ligg,,, big shishdew, chage ich eajy and get beddew shoon, ogay?
+			Uu~, big shishdew,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
 		</baby>
 		<child>
-			ぺりょぺりょ、、おねえしゃん、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃん、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのおねえしゃんがこんなめに、、、
+			Uu~, ligg-ligg,,, big shishdew, chage ich eajy and get beddew shoon, ogay?
+			Uu~, big shishdew,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
+			lick-lick,,, why did dhish habben cho %name'sh big shishdew,,,
 		</child>
 		<adult>
-			ぺーろぺーろ、、おねえちゃん、ゆっくりげんきになってね？
-			ぺーろぺーろ、、どぼじで%nameのおねえちゃんがこんなめに、、、
-			うぅ～、おねえちゃん、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
+			lick-lick,,, big sister, take it easy and get better soon, okay?
+			Uu~, lick-lick,,, why did this happen to %name's big sister,,,
+			Uu~, big sister, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぺりょぺりょ、、おねえしゃ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのおねえしゃがきょんなめに、、、
+			Uu~, ligg-ligg,,, big shishdew, chage ich eajy and get beddew shoon, ogay?
+			Uu~, big shishdew,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
+			lick-lick,,, why did dhish habben cho %name'sh big shishdew,,,
 		</baby>
 		<child>
-			ぺりょぺりょ、、おねえしゃん、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃん、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのおねえしゃんがこんなめに、、、
+			Uu~, ligg-ligg,,, big shishdew, chage ich eajy and get beddew shoon, ogay?
+			Uu~, big shishdew,,, chage ich eajy and heal widh %name'sh ligg-ligg,,,
+			lick-lick,,, why did dhish habben cho %name'sh big shishdew,,,
 		</child>
 		<adult>
-			ぺーろぺーろ、、おねえしゃん、ゆっくりげんきになってね？
-			うぅ～、おねえしゃん、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
-			ぺーろぺーろ、、くそどれいははやくおねえしゃんをたすけてね、、、
-			うぅ～、ぺーろぺーろ、、どぼじで%nameのおねえしゃんがこんなめに、、、
-			ぺーろぺーろ、、おねえしゃんのしかえしをしてあげるど、、、
+			lick-lick,,, big sister, take it easy and get better soon, okay?
+			Uu~, big sister, take it easy and heal with %name's lick-lick...
+			Uu~, lick-lick,,, shitty slave, hurry up and help big sister,,,
+			Uu~, lick-lick,,, why did this happen to %name's big sister,,,
+			lick-lick,,, I'll get revenge for big sister~~
 		</adult>
 	</rude>
 [/TreatElderSisterByPeropero]
@@ -471,37 +471,37 @@
 [TreatSisterByPeropero]
 	<normal>
 		<baby>
-			ぺりょぺりょ、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
+			ligg-ligg,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh ligg-ligg...
 		</baby>
 		<child>
-			ぺりょぺりょ、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのいもうちょがこんなめに、、、
+			ligg-ligg,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh ligg-ligg...
+			ligg-ligg,,, why did dhish habben cho %name'sh liddle shishdew,,,
 		</child>
 		<adult>
-			ぺーろぺーろ、、いもうと、ゆっくりげんきになってね？
-			ぺーろぺーろ、、どぼじで%nameのいもうとがこんなめに、、、
-			うぅ～、いもうと、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
+			lick-lick,,, little sister, take it easy and get better soon, okay?
+			lick-lick,,, why did this happen to %name's little sister,,,
+			Uu~, little sister, take it easy and heal with %name's lick-lick...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぺりょぺりょ、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのいもうちょがきょんなめに、、、
+			ligg-ligg,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh ligg-ligg...
+			ligg-ligg,,, why did dhish habben cho %name'sh liddle shishdew,,,
 		</baby>
 		<child>
-			ぺりょぺりょ、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのぺりょぺりょで ゆっきゅりげんきになっちぇにぇ、、
-			ぺーりょぺーりょ、、どぼじで%nameのいもうちょがこんなめに、、、
+			ligg-ligg,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh ligg-ligg...
+			ligg-ligg,,, why did dhish habben cho %name'sh liddle shishdew,,,
 		</child>
 		<adult>
-			ぺーろぺーろ、、いもうと、ゆっくりげんきになってね？
-			うぅ～、いもうと、、%nameのぺーろぺーろで ゆっくりげんきになってね、、
-			ぺーろぺーろ、、くそどれいははやくいもうとをたすけてね、、、
-			うぅ～、ぺーろぺーろ、、どぼじで%nameのいもうとがこんなめに、、、
-			ぺーろぺーろ、、いもうとのしかえしをしてあげるど、、、
+			lick-lick,,, little sister, take it easy and get better soon, okay?
+			Uu~, little sister, take it easy and heal with %name's lick-lick...
+			lick-lick,,, shitty slave, hurry up and help little sister,,,
+			Uu~, lick-lick,,, why did this happen to %name's little sister,,,
+			lick-lick,,, I'll get revenge for little sister~~
 		</adult>
 	</rude>
 [/TreatSisterByPeropero]
@@ -510,37 +510,37 @@
 [TreatChildBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
+			Wub-wub,,, liddle one, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle one, chage ich eajy and heal widh %name'sh wub-wub...
 		</baby>
 		<child>
-			しゅりしゅり、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおちびがこんなめに、、、
+			Wub-wub,,, liddle one, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle one, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle one,,,
 		</child>
 		<adult>
-			すーりすーり、、おちび、ゆっくりげんきになってね？
-			すーりすーり、、どぼじで%nameのおちびがこんなめに、、、
-			うぅ～、おちび、、%nameのすーりすーりで ゆっくりげんきになってね、、
+			Rub-rub,,, little one, take it easy and get better soon, okay?
+			Rub-rub,,, why did this happen to %name's little one,,,
+			Uu~, little one, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおちびがきょんなめに、、、
+			Wub-wub,,, liddle one, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle one, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle one,,,
 		</baby>
 		<child>
-			しゅりしゅり、、おちび、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おちび、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおちびがこんなめに、、、
+			Wub-wub,,, liddle one, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle one, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle one,,,
 		</child>
 		<adult>
-			すーりすーり、、おちび、ゆっくりげんきになってね？
-			うぅ～、おちび、、%nameのすーりすーりで ゆっくりげんきになってね、、
-			すーりすーり、、くそどれいははやくおちびをたすけてね、、、
-			すーりすーり、、どぼじで%nameのおちびがこんなめに、、、
-			すーりすーり、、おちびのしかえしをしてあげるど、、、
+			rub-rub,,, little one, take it easy and get better soon, okay?
+			Uu~, little one, take it easy and heal with %name's rub-rub...
+			rub-rub,,, shitty slave, hurry up and help the little one,,,
+			rub-rub,,, why did this happen to %name's little one,,,
+			rub-rub,,, I'll get revenge for the little one~~
 		</adult>
 	</rude>
 [/TreatChildBySurisuri]
@@ -549,37 +549,37 @@
 [TreatPartnerBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
+			Wub-wub,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner, chage ich eajy and heal widh %name'sh wub-wub...
 		</baby>
 		<child>
-			しゅりしゅり、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameの%partnerがこんなめに、、、
+			Wub-wub,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh %partner,,,
 		</child>
 		<adult>
-			すーりすーり、、%partner、ゆっくりげんきになってね？
-			すーりすーり、、どぼじで%nameの%partnerがこんなめに、、、
-			うぅ～、%partner、、%nameのすーりすーりで ゆっくりげんきになってね、、
+			Rub-rub,,, %partner, take it easy and get better soon, okay?
+			Rub-rub,,, why did this happen to %name's %partner,,,
+			Uu~, %partner, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameの%partnerがきょんなめに、、、
+			Wub-wub,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh %partner,,,
 		</baby>
 		<child>
-			しゅりしゅり、、%partner、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、%partner、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameの%partnerがこんなめに、、、
+			Wub-wub,,, %partner, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, %partner, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh %partner,,,
 		</child>
 		<adult>
-			すーりすーり、、%partner、ゆっくりげんきになってね？
-			うぅ～、%partner、、%nameのすーりすーりで ゆっくりげんきになってね、、
-			すーりすーり、、くそどれいははやく%partnerをたすけてね、、、
-			すーりすーり、、どぼじで%nameの%partnerがこんなめに、、、
-			すーりすーり、、%partnerのしかえしをしてあげるど、、、
+			rub-rub,,, %partner, take it easy and get better soon, okay?
+			Uu~, %partner, take it easy and heal with %name's rub-rub...
+			rub-rub,,, shitty slave, hurry up and help %partner,,,
+			rub-rub,,, why did this happen to %name's %partner,,,
+			rub-rub,,, I'll get revenge for %partner~~、
 		</adult>
 	</rude>
 [/TreatPartnerBySurisuri]
@@ -588,38 +588,38 @@
 [TreatFatherBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇにぇ？
+			Wub-wub,,, pyapya, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, pyapya,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			Wub-wub,,, chage ich eajy, okay?
 		</baby>
 		<child>
-			しゅりしゅり、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇね？
+			Wub-wub,,, dwaddie, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, dwaddie,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			Wub-wub,,, chage ich eajy, okay?
 		</child>
 		<adult>
-			すーりすーり、、、ゆっくりよくなってね？
-			うぅ～、%nameのすーりすーりで ゆっくりなおってね、、、
+			rub-rub,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			しゅーりしゅーり、、、ゆっくりしちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇ、、、
-			しゅーりしゅーり、、、どぼじで、ぱぱ、、、
+			wub-wub,,, pyapya, chage ich eajy ged beddew shoon, ogay?
+			wub-wub,,, chage ich eajy, okay?
+			Uu~, pyapya,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			wub-wub,,, why pyapya,,,
+			wub-wub,,, chage ich eajy,,,
 		</baby>
 		<child>
-			しゅりしゅり、、、ぱぱゆっきゅりよくなっちぇにぇ？
-			うぅ～、ぱぱ、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、どぼじで、ぱぱ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇね？
+			wub-wub,,, dwaddie, chage ich eajy and ged beddew shoon, ogay?
+			wub-wub,,, why dwaddie,,,
+			Uu~, dwaddie,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			wub-wub,,, chage ich eajy, okay?
 		</child>
 		<adult>
-			すーりすーり、、、ゆっくりよくなってね？
-			うぅ～、%nameのすーりすーりで ゆっくりなおってね、、、
-			すーりすーり、、、このくつっじょくははたしてみせるど、、、
+			Rub-rub,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's rub-rub...
+			Rub-rub,,, I'll definitely avenge this humiliation doo,,,
 		</adult> 
 	</rude>
 [/TreatFatherBySurisuri]
@@ -628,36 +628,36 @@
 [TreatMotherBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇにぇ？
+			Wub-wub,,, myamya, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, myamya,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			Wub-wub,,, chage ich eajy, okay?
 		</baby>
 		<child>
-			しゅりしゅり、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、ゆっくりしちぇね？
+			Wub-wub,,, mommy, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, mommy,,, chage ich eajy and heal widh %name'sh eajy wub-wub...
+			Wub-wub,,, chage ich eajy, okay?
 		</child>
 		<adult>
-			すーりすーり、、、ゆっくりよくなってね？
-			うぅ～、%nameのすーりすーりで ゆっくりなおってね、、、
+			rub-rub,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、、まんまゆっきゅりよくなっちぇにぇ？
-			しゅーりしゅーり、、、まんま、ゆっくり、ゆっくりしちぇにぇ？
-			うぅ～、まんま、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
+			Uu~, wub-wub,,, myamya, chage ich eajy and get beddew shoon, ogay?
+			wub-wub,,, myamya, chage ich eajy, chage ich eajy, ogay?
+			Uu~, myamya,,, chage ich eajy and heal widh %name'sh wub-wub,,,
 		</baby>
 		<child>
-			しゅりしゅり、、、まんまゆっきゅりよくなっちぇにぇ？
-			うぅ～、まんま、、、%nameのしゅりしゅりで ゆっきゅりなおっちぇにぇ、、、
-			しゅーりしゅーり、、、まんま、ゆっくり、ゆっくりしちぇね？
+			Uu~, wub-wub,,, mommy, chage ich eajy and get beddew shoon, ogay?
+			Uu~, mommy,,, chage ich eajy and heal widh %name'sh wub-wub,,,
+			wub-wub,,, mommy, chage ich eajy, chage ich eajy, ogay?
 		</child>
 		<adult>
-			すーりすーり、、、ゆっくりよくなってね？
-			うぅ～、%nameのすーりすーりで ゆっくりなおってね、、、
-			すーりすーり、、、ゆっくり、ゆっくりしてね？
-			すーりすーり、、、ぜったいにこうかいさせてみせるど、、、
+			rub-rub,,, take it easy and get better soon, okay?
+			Uu~, take it easy and heal with %name's rub-rub...
+			rub-rub,,, take it easy, take it easy, okay?
+			Uu, rub-rub,,, I'll definitely avenge this humiliation doo,,,
 		</adult> 
 	</rude>
 [/TreatMotherBySurisuri]
@@ -666,37 +666,37 @@
 [TreatElderSisterBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、おねえしゃ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、）
+			Wub-wub,,, big shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, big shishdew, chage ich eajy and heal widh %name'sh wub-wub...
 		</baby>
 		<child>
-			しゅりしゅり、、おねえしゃん、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃん、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおねえしゃんがこんなめに、、、
+			Wub-wub,,, big shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, big shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh big shishdew,,,
 		</child>
 		<adult>
-			すーりすーり、、おねえちゃん、ゆっくりげんきになってね？
-			すーりすーり、、どぼじで%nameのおねえちゃんがこんなめに、、、
-			うぅ～、おねえちゃん、、%nameのすーりすーりで ゆっくりげんきになってね、、
+			Rub-rub,,, big sister, take it easy and get better soon, okay?
+			Rub-rub,,, why did this happen to %name's big sister,,,
+			Uu~, big sister, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、おねえしゃ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおねえしゃがきょんなめに、、、
+			Wub-wub,,, big shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, big shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh big shishdew,,,、
 		</baby>
 		<child>
-			しゅりしゅり、、おねえしゃん、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、おねえしゃん、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのおねえしゃんがこんなめに、、、
+			Wub-wub,,, big shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, big shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh big shishdew,,,
 		</child>
 		<adult>
-			すーりすーり、、おねえしゃん、ゆっくりげんきになってね？
-			うぅ～、おねえしゃん、、%nameのすーりすーりで ゆっくりげんきになってね、、
-			すーりすーり、、くそどれいははやくおねえしゃんをたすけてね、、、
-			すーりすーり、、どぼじで%nameのおねえしゃんがこんなめに、、、
-			すーりすーり、、おねえしゃんのしかえしをしてあげるど、、、
+			rub-rub,,, big sister, take it easy and get better soon, okay?
+			Uu~, big sister, take it easy and heal with %name's rub-rub...
+			rub-rub,,, shitty slave, hurry up and help big sister,,,
+			rub-rub,,, why did this happen to %name's big sister,,,
+			rub-rub,,, I'll get revenge for big sister~~、
 		</adult>
 	</rude>
 [/TreatElderSisterBySurisuri]
@@ -705,37 +705,37 @@
 [TreatSisterBySurisuri]
 	<normal>
 		<baby>
-			しゅりしゅり、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
+			Wub-wub,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh wub-wub...
 		</baby>
 		<child>
-			しゅりしゅり、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのいもうちょがこんなめに、、、
+			Wub-wub,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle shishdew,,,
 		</child>
 		<adult>
-			すーりすーり、、いもうと、ゆっくりげんきになってね？
-			すーりすーり、、どぼじで%nameのいもうとがこんなめに、、、
-			うぅ～、いもうと、、%nameのすーりすーりで ゆっくりげんきになってね、、
+			Rub-rub,,, little sister, take it easy and get better soon, okay?
+			Rub-rub,,, why did this happen to %name's little sister,,,
+			Uu~, little sister, take it easy and heal with %name's rub-rub...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しゅりしゅり、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのいもうちょがきょんなめに、、、
+			Wub-wub,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle shishdew,,,、
 		</baby>
 		<child>
-			しゅりしゅり、、いもうちょ、ゆっきゅりげんきになっちぇにぇ？
-			うぅ～、いもうちょ、、%nameのしゅりしゅりで ゆっきゅりげんきになっちぇにぇ、、
-			しゅーりしゅーり、、どぼじで%nameのいもうちょがこんなめに、、、
+			Wub-wub,,, liddle shishdew, chage ich eajy and ged beddew shoon, ogay?
+			Uu~, liddle shishdew, chage ich eajy and heal widh %name'sh wub-wub...
+			Wub-wub,,, why did dhis habben cho %name'sh liddle shishdew,,,
 		</child>
 		<adult>
-			すーりすーり、、いもうと、ゆっくりげんきになってね？
-			うぅ～、いもうと、、%nameのすーりすーりで ゆっくりげんきになってね、、
-			すーりすーり、、くそどれいははやくいもうとをたすけてね、、、
-			すーりすーり、、どぼじで%nameのいもうとがこんなめに、、、
-			すーりすーり、、いもうとのしかえしをしてあげるど、、、
+			rub-rub,,, little sister, take it easy and get better soon, okay?
+			Uu~, little sister, take it easy and heal with %name's rub-rub...
+			rub-rub,,, shitty slave, hurry up and help little sister,,,
+			rub-rub,,, why did this happen to %name's little sister,,,
+			rub-rub,,, I'll get revenge for little sister~~、
 		</adult>
 	</rude>
 [/TreatSisterBySurisuri]
@@ -744,18 +744,18 @@
 [LookForParents]
 	<normal>
 		<baby>
-			ゆぅーー？まんまーぢょきょぉぉーーー？
-			まんまーぢょきょいっちゃぢょぉーーー？
-			まんまーぢょきょいっちゃっちゃぢょぉーーー？
-			うー？？
-			ゆゆーん？
+			Yuu? Myamyaa whewe awe youuu?
+			Myamyaa whewe did you go dooo?
+			Myamyaa whewe did you vanish cho dooo?
+			Uu??
+			Yuyu-n?
 		</baby>
 		<child>
-			ゆぅーー？まんまーどきょぉぉーーー？
-			まんまーどこいったどぉーーー？
-			まんまーどこいっちゃっちゃどぉーーー？
-			うー？？
-			ゆゆーん？
+			Yuu? momyyy whewe awe youuu?
+			Momyyy whewe did you go dooo?
+			Momyyy whewe did you vanish cho dooo?
+			Uu??
+			Yuyu-n?
 		</child>
 		<adult>
 			%dummy
@@ -767,29 +767,29 @@
 [RootForPartner]
 	<normal>
 		<baby>
-			がんばるんだどぉ！
-			おちびもがんばるんだどぉ！
-			%nameがついてるんだどぉー！
-			もうひといきだどぉー！
-			うーっ！がんばるんだどー！
-			う～っ！ゆっきゅりうまれてきょい！
+			Keep going dadoo~!
+			Liddle one, do youw beshch choo dadoo~!
+			%name is wighch hewe widh you dadoo!
+			Jusch a liddle mowe cho go dadoo~!
+			Uu~! Keep going, dado~!
+			Uu~! Chage ich eajy and be bown shoon!
 		</baby>
 		<child>
-			がんばるんだどぉ！
-			おちびもがんばるんだどぉ！
-			%nameがついてるんだどぉー！
-			もうひといきだどぉー！
-			うーっ！がんばるんだどー！
-			う～っ！ゆっきゅりうまれてきょい！
+			Keep going dadoo~!
+			Liddle one, do youw beshch choo dadoo~!
+			%name is wighch hewe widh you dadoo!
+			Jusch a liddle mowe cho go dadoo~!
+			Uu~! Keep going, dado~!
+			Uu~! Chage ich eajy and be bown shoon!
 		</child>
 		<adult>
-			%partner、もうすこしなんだどぉ！がんばるんだどぉ！
-			おちびもがんばるんだどぉぉ！
-			%nameがついてるんだどぉー！
-			うぁ☆うぁ☆ もうひといきだどぉー！
-			うー！%partner、がんばれー！
-			うぅー！%nameがついてるどー！がんばれー！
-			うー！%nameと%partnerのおちび ゆっくり、すぐにうまれてくるんだどー！
+			%partner, you're almost there dadoo! Keep going dadoo!
+			Little one, do your best too dadoo~!
+			%name is right here with you dadoo!
+			Uwa☆Uwa☆ Just a little more to go dadoo~!
+			Uu! %partner, keep going!
+			Uuu! With %name helping you, you can do it~! Keep going~!
+			Uu! %name and %partner's little one, take it easy and be born soon dadoo!
 		</adult>
 	</normal>
 [/RootForPartner]
@@ -798,19 +798,19 @@
 [FirstGreeting]
 	<normal>
 		<baby>
-			うー！うー！
-			ゆっきゅりちていくんだどぉ！
-			%nameのおちび！ゆっきゅりちちぇいっちぇにぇ！
+			Uu! Uu~!
+			Take it easy dadooo~!
+			%name's little one! Take it easy!
 		</baby>
 		<child>
-			%nameのおちび！ゆっきゅりちちぇいっちぇにぇ！
-			うー！うー！
-			ゆっきゅりしていくんだどぉ！
+			%name's little one! Take it easy!
+			Uu! Uu~!
+			Take it easy dadooo~!
 		</child>
 		<adult>
-			%nameのおちび！ゆっくりしていってね
-			うー！うー！
-			ゆっくりしていくんだどぉー！
+			%name's little one! Take it easy!
+			Uu! Uu~!
+			Take it easy dadooo~!
 		</adult>
 	</normal>
 [/FirstGreeting]
@@ -818,195 +818,195 @@
 # ゆっくりしているすぃーを見て
 [YukkuringSui]
 	<normal>
-		うっうーっ☆
-		えれがんと☆なんだどぉー！
+		Uu~ Uu~☆
+		Elegant☆ dadoo!
 	</normal>
 [/YukkuringSui]
 
 # すぃーを欲しがる
 [WantingSui]
 	<normal>
-		%nameも すぃーがほしいんだどぉ！
-		さくやぁー！ %nameのすぃーはどこにあるんだどぉ？
+		%name also wants a suii!
+		Sakuyaaa! Where are %name's suii dadoo?
 	</normal>
 [/WantingSui]
 
 # すぃーを欲しがっているゆっくりのパートナー
 [WantingSuiPartner]
 	<normal>
-		%partnerのための すぃーをよういするんだどぉ！
-		%partnerがすぃーを ごしょもうなんだどぉー！
+		I'm preparing the suii for %partner dadoo!
+		%partner desires a suii dadoo!
 	</normal>
 [/WantingSuiPartner]
 
 # すぃーを欲しがっているゆっくりの親
 [WantingSuiParent]
 	<normal>
-		おちびのために すぃーをよういするんだどぉ！
-		おちびがすぃーを ごしょもうなんだどぉー！
+		I'm preparing the suii for the little one dadoo!
+		The little one desires a suii dadoo!
 	</normal>
 [/WantingSuiParent]
 
 # すぃーを見つける
 [FindSui]
 	<normal>
-		すぃー があるんだどぉ♪
+		There's a sui, dadoo~!
 	</normal>
 [/FindSui]
 
 # すぃーを自分のものにする
 [GetSui]
 	<normal>
-		こうまかんにもってかえるんだどぉー！
+		I'm taking the suii back to the Scarlet Devil Mansion!
 	</normal>
 [/GetSui]
 
 # 自分のすぃーにのりにいく
 [FindGetSui]
 	<normal>
-		%nameのかりすま☆どらいびんぐ てくにっくをみせてやるど♪
+		I'll show you %name's charisma☆driving technique doo♪
 	</normal>
 [/FindGetSui]
 
 # 自分以外のすぃーにのりにいく
 [FindGetSuiOtner]
 	<normal>
-		%nameを えすこーと☆するんだどぉぉ♪
+		Escort☆ %name dadooo♪
 	</normal>
 [/FindGetSuiOtner]
 
 # 自分以外のすぃーにのりにいくときに呼ぶ
 [WantRideSuiOtner]
 	<normal>
-		うっうーっ☆ %nameも、のせてほしいんだどぉ！
+		Uu uu☆ %name wants a ride too dadoo!
 	</normal>
 [/WantRideSuiOtner]
 
 # すぃーにのる
 [RideSui]
 	<normal>
-		うぁ☆うぁ☆ しゅっぱーつ♪
+		Uwa☆ uwa☆ departuuure♪
 	</normal>
 [/RideSui]
 
 # すぃーにのっている
 [RidingSui]
 	<normal>
-		こんやは ぱーてぃ☆ないと☆だどぉー！
-		うっうーっ☆
-		うぁ☆うぁ☆ たのしいどぉ～♪
+		Tonight is party☆ night☆ dadoo!
+		Uu~ Uu~☆
+		Uwa~☆ Uwa~☆ It's so much fun dadoo~♪
 	</normal>
 [/RidingSui]
 
 # すぃーを運転する
 [DrivingSui]
 	<normal>
-		かりすま☆%nameのどらてくをみせてやるんだどぉー♪
-		かもん♪らいどぉーん♪
-		たのしいど～♪
+		I'll show you charisma☆%name's driving technique dadoo♪
+		Come on♪ Ride on♪
+		So much fun doo~♪
 	</normal>
 [/DrivingSui]
 
 # すぃーを運転するパートナーをみて（自分はのっていない）
 [DrivingSuiPartner]
 	<normal>
-		えれがんと☆なんだどぉ～！
-		かりすま☆なんだどぉ～！
+		Elegant☆ dadoo!
+		Charisma☆ dadoo!
 	</normal>
 [/DrivingSuiPartner]
 
 # すぃーを運転するこどもをみて（自分はのっていない）
 [DrivingSuiChild]
 	<normal>
-		さすが%nameのおちびなんだどぉ～！
+		As expected of %name's little one dadoo!
 	</normal>
 [/DrivingSuiChild]
 
 # すぃーを運転する父親をみて（自分はのっていない）
 [DrivingSuiPAPA]
 	<normal>
-		ぴゃぴゃは かりしゅま☆なんだどぉ～！
+		Pyapya is Karishuma☆ dadoo!
 	</normal>
 [/DrivingSuiPAPA]
 
 # すぃーを運転する母親をみて（自分はのっていない）
 [DrivingSuiMAMA]
 	<normal>
-		まんまは かりしゅま☆なんだどぉ～！
+		Myamya is Karishuma☆ dadoo!
 	</normal>
 [/DrivingSuiMAMA]
 
 # すぃーを運転する姉をみて（自分はのっていない）
 [DrivingSuiOldSister]
 	<normal>
-		おねえちゃん かりしゅま☆なんだどぉ～！
+		Big sister is Karishuma☆ dadoo!
 	</normal>
 [/DrivingSuiOldSister]
 
 # すぃーを運転する妹をみて（自分はのっていない）
 [DrivingSuiYoungSister]
 	<normal>
-		%nameのいもうちょ えれがんと☆なんだどぉ～！
+		%name's little sister is elegant☆ dadoo!
 	</normal>
 [/DrivingSuiYoungSister]
 
 # すぃーから降りる
 [RideOffSui]
 	<normal>
-		たのしかったどー！
+		I had so much fun dadoo~!
 	</normal>
 [/RideOffSui]
 
 # 持っているすぃーを自慢する
 [hasSui]
 	<normal>
-		%nameはすぃーをもってるんだどぉ～☆
+		%name has a suii dadoo~☆
 	</normal>
 	<rude>
-		すぃーは かりすま☆のたしなみなんだどぉ～♪
-		おねえしゃんにたのんで すぃーしゃんをかってもらったどー！！ちょろいどー☆
+		Suii is the etiquette of charisma☆ dadoo~♪
+		I asked the big sister and she bought me Mister suii dadoo!! Easy doo☆
 	</rude>
 [/hasSui]
 
 # 持っているすぃーを自慢されるパートナー
 [hasSuiPartner]
 	<normal>
-		%partner、かりすま☆なんだどぉ～！
+		%partner is Karishuma☆ dadoo!
 	</normal>
 [/hasSuiPartner]
 
 # こどもの持っているすぃーを自慢される親
 [hasSuiChild]
 	<normal>
-		%nameのおちびは りっぱなれでぃー☆になるんだどぉ～！
+		%name's little one is going to grow up to be a fine lady☆ dadoo!
 	</normal>
 [/hasSuiChild]
 
 # 父親の持っているすぃーを自慢されるこども
 [hasSuiPAPAChild]
 	<normal>
-		うっうーっ☆さすがぴゃぴゃだどぉ～！
+		Uu Uu☆ As eshpecded of Pyapya dadoo!
 	</normal>
 [/hasSuiPAPAChild]
 
 # 母親の持っているすぃーを自慢されるこども
 [hasSuiMAMAChild]
 	<normal>
-		うっうーっ☆さすがまんま！だどぉ～！
+		Uu Uu☆ As eshpecded of Myamya dadoo!
 	</normal>
 [/hasSuiMAMAChild]
 
 # 姉の持っているすぃーを自慢される
 [hasSuiOldSister]
 	<normal>
-		うっうーっ☆さすがおねえちゃん！だどぉ～！
+		Uu Uu☆ As eshpecded of big shishdew dadoo!
 	</normal>
 [/hasSuiOldSister]
 
 # 妹の持っているすぃーを自慢される
 [hasSuiYoungSister]
 	<normal>
-		うっうーっ☆いもうちょ えれがんと☆だどぉ～！
+		Uu Uu☆ My little sister is elegant☆!
 	</normal>
 [/hasSuiYoungSister]
 
@@ -1014,30 +1014,30 @@
 [GladAboutChild]
 	<normal>
 		<baby>
-			%nameのおちび！ゆっきゅりしちぇるにぇ！
-			おちび！ゆっきゅりちていっちぇにぇ！
+			%name's liddle one! Chage ich eajy!
+			Liddle one! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのおちび！ゆっきゅりしちぇるにぇ！
-			おちび！ゆっきゅりしていっちぇにぇ！
+			%name's liddle one! Chage ich eajy!
+			Liddle one! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのおちび！ゆっくりしてるね！
-			おちび！ゆっくりしていってね！
+			%name's little one! Take it easy!
+			Little one! Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%nameのおちび！ゆっきゅりしちぇるにぇ！
-			おちび！ゆっきゅりちていっちぇにぇ！
+			%name's liddle one! Chage ich eajy!
+			Liddle one! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのおちび！ゆっきゅりしちぇるにぇ！
-			おちび！ゆっきゅりしていっちぇにぇ！
+			%name's liddle one! Chage ich eajy!
+			Liddle one! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのおちび！ゆっくりしてるね！
-			おちび！ゆっくりしていってね！
+			%name's little one! Take it easy!
+			Little one! Take it easy!
 		</adult>
 	</rude>
 [/GladAboutChild]
@@ -1046,36 +1046,36 @@
 [GladAboutPartner]
 	<normal>
 		<baby>
-			%partnerは、きょうもゆっきゅりちてるにぇ！
-			%nameは%partnerといっしょにずっとゆっきゅりちたいどー！
-			%partner！ゆっきゅり、、ゆっきゅりちていっちぇにぇ！
+			Uu~! %partner ish chaging ich eajy choday choo~
+			%name wanchsh cho chage ich eajy chogedhew widh %partner fowevew doo!
+			%partner! Eajy,, Chage ich eajy!
 		</baby>
 		<child>
-			%partnerは、きょうもゆっきゅりしてるにぇ！
-			%nameは%partnerといっしょにずっとゆっきゅりしたいどー！
-			%partner！ゆっきゅり、、ゆっきゅりしていっちぇにぇ！
+			Uu~! %partner ish chaging ich eajy choday choo~
+			%name wanchsh cho chage ich eajy chogedhew widh %partner fowevew doo!
+			%partner! Eajy,, Chage ich eajy!
 		</child>
 		<adult>
-			%partnerは、きょうもゆっくりしてるね！
-			%nameは%partnerといっしょにずっとゆっくりしたいどー！
-			%partner！ゆっくり、、ゆっくりしていってね！
+			Uu~! %partner is taking it easy today too~
+			%name wants to take it easy together with %partner forever doo!
+			%partner! Easy,, Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%partnerは、きょうもゆっきゅりちてるにぇ！
-			%nameは%partnerといっしょにずっとゆっきゅりちたいどー！
-			%partner！ゆっきゅり、、ゆっきゅりちていっちぇにぇ！
+			Uu~! %partner ish chaging ich eajy choday choo~
+			%name wanchsh cho chage ich eajy chogedhew widh %partner fowevew doo!
+			%partner! Eajy,, Chage ich eajy!
 		</baby>
 		<child>
-			%partnerは、きょうもゆっきゅりしてるにぇ！
-			%nameは%partnerといっしょにずっとゆっきゅりしたいどー！
-			%partner！ゆっきゅり、、ゆっきゅりしていっちぇにぇ！
+			Uu~! %partner ish chaging ich eajy choday choo~
+			%name wanchsh cho chage ich eajy chogedhew widh %partner fowevew doo!
+			%partner! Eajy,, Chage ich eajy!
 		</child>
 		<adult>
-			%partnerは、きょうもゆっくりしてるね！
-			%nameは%partnerといっしょにずっとゆっくりしたいどー！
-			%partner！ゆっくり、、ゆっくりしていってね！
+			Uu~! %partner is taking it easy today too~
+			%name wants to take it easy together with %partner forever doo!
+			%partner! Easy,, Take it easy!
 		</adult>
 	</rude>
 [/GladAboutPartner]
@@ -1084,30 +1084,30 @@
 [GladAboutFather]
 	<normal>
 		<baby>
-			%nameのぴゃぴゃはとってもゆっきゅりちていりゅどー！
-			ぴゃぴゃ！ゆっきゅりちていっちぇにぇ！
+			%name'sh pyapya! Chage ich eajy!
+			Pyapya! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのぴゃぴゃはとってもゆっきゅりしていりゅどー！
-			ぴゃぴゃ！ゆっきゅりしていっちぇにぇ！
+			%name'sh dwaddie! Chage ich eajy!
+			Dwaddie! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのぱぱ！ゆっくりしてるね！
-			ぱぱ！ゆっくりしていってね！
+			%name's dad! Take it easy!
+			Dad! Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%nameのぴゃぴゃはとってもゆっきゅりちていりゅどー！
-			ぴゃぴゃ！ゆっきゅりちていっちぇにぇ！
+			%name'sh pyapya! Chage ich eajy!
+			Pyapya! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのぴゃぴゃはとってもゆっきゅりしていりゅどー！
-			ぴゃぴゃ！ゆっきゅりしていっちぇにぇ！
+			%name'sh dwaddie! Chage ich eajy!
+			Dwaddie! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのぱぱ！ゆっくりしてるね！
-			ぱぱ！ゆっくりしていってね！
+			%name's dad! Take it easy!
+			Dad! Take it easy!
 		</adult>
 	</rude>
 [/GladAboutFather]
@@ -1116,30 +1116,30 @@
 [GladAboutMother]
 	<normal>
 		<baby>
-			%nameのぴゃぴゃはとってもゆっきゅりちていりゅどー！
-			ぴゃぴゃ！ゆっきゅりちていっちぇにぇ！
+			%name'sh myamya! Chage ich eajy!
+			Myamya! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのぴゃぴゃはとってもゆっきゅりしていりゅどー！
-			ぴゃぴゃ！ゆっきゅりしていっちぇにぇ！
+			%name'sh mommy! Chage ich eajy!
+			Mommy! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのぱぱ！ゆっくりしてるね！
-			ぱぱ！ゆっくりしていってね！
+			%name's mom! Take it easy!
+			Mom! Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%nameのぴゃぴゃはとってもゆっきゅりちていりゅどー！
-			ぴゃぴゃ！ゆっきゅりちていっちぇにぇ！
+			%name'sh myamya! Chage ich eajy!
+			Myamya! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのぴゃぴゃはとってもゆっきゅりしていりゅどー！
-			ぴゃぴゃ！ゆっきゅりしていっちぇにぇ！
+			%name'sh mommy! Chage ich eajy!
+			Mommy! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのぱぱ！ゆっくりしてるね！
-			ぱぱ！ゆっくりしていってね！
+			%name's mom! Take it easy!
+			Mom! Take it easy!
 		</adult>
 	</rude>
 [/GladAboutMother]
@@ -1148,30 +1148,30 @@
 [GladAboutEldersister]
 	<normal>
 		<baby>
-			%nameのおねえしゃんはとってもゆっきゅりちていりゅどー！
-			おねえしゃん！ゆっきゅりちていっちぇにぇ！
+			%name'sh big shishdew! Chage ich eajy!
+			Big shishdew! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのおねえしゃんはとってもゆっきゅりしていりゅどー！
-			おねえしゃん！ゆっきゅりしていっちぇにぇ！
+			%name'sh big shishdew! Chage ich eajy!
+			Big shishdew! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのおねえちゃん！ゆっくりしてるね！
-			おねえちゃん！ゆっくりしていってね！
+			%name's big sister! Take it easy!
+			Big sister! Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%nameのおねえしゃんはとってもゆっきゅりちていりゅどー！
-			おねえしゃん！ゆっきゅりちていっちぇにぇ！
+			%name'sh big shishdew! Chage ich eajy!
+			Big shishdew! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのおねえしゃんはとってもゆっきゅりしていりゅどー！
-			おねえしゃん！ゆっきゅりしていっちぇにぇ！
+			%name'sh big shishdew! Chage ich eajy!
+			Big shishdew! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのおねえちゃん！ゆっくりしてるね！
-			おねえちゃん！ゆっくりしていってね！
+			%name's big sister! Take it easy!
+			Big sister! Take it easy!
 		</adult>
 	</rude>
 [/GladAboutEldersister]
@@ -1180,30 +1180,30 @@
 [GladAboutSister]
 	<normal>
 		<baby>
-			%nameのいもうちょはとってもゆっきゅりちていりゅどー！
-			いもうちょ！ゆっきゅりちていっちぇにぇ！
+			%name'sh liddle shishdew! Chage ich eajy!
+			Liddle shishdew! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのいもうちょはとってもゆっきゅりしていりゅどー！
-			いもうちょ！ゆっきゅりしていっちぇにぇ！
+			%name'sh big liddle! Chage ich eajy!
+			Liddle shishdew! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのいもうと！ゆっくりしてるね！
-			いもうと！ゆっくりしていってね！
+			%name's little sister! Take it easy!
+			Little sister! Take it easy!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%nameのいもうちょはとってもゆっきゅりちていりゅどー！
-			いもうちょ！ゆっきゅりちていっちぇにぇ！
+			%name'sh liddle shishdew! Chage ich eajy!
+			Liddle shishdew! Chage ich eajy!
 		</baby>
 		<child>
-			%nameのいもうちょはとってもゆっきゅりしていりゅどー！
-			いもうちょ！ゆっきゅりしていっちぇにぇ！
+			%name'sh big liddle! Chage ich eajy!
+			Liddle shishdew! Chage ich eajy!
 		</child>
 		<adult>
-			%nameのいもうと！ゆっくりしてるね！
-			いもうと！ゆっくりしていってね！
+			%name's little sister! Take it easy!
+			Little sister! Take it easy!
 		</adult>
 	</rude>
 [/GladAboutSister]
@@ -1213,30 +1213,30 @@
 [EnvyAboutElderSister]
 	<normal>
 		<baby>
-			おねえしゃんがうらやまちいど、、、
-			%nameもゆっきゅりちたいど、、、
+			I'm jealoush of my big shishdew doo...
+			%name wanchsh cho chage ich eajy choo doo,,,
 		</baby>
 		<child>
-			おねえしゃんがうらやましいど、、、
-			%nameもゆっきゅりしたいど、、、
+			I'm jealoush of my big shishdew doo...
+			%name wanchsh cho chage ich eajy choo doo,,,
 		</child>
 		<adult>
-			おねえちゃんがうらやましいど、、、
-			%nameもゆっくりしたいど、、、
+			I'm jealous of my big sister doo...
+			%name wants to take it easy too doo,,,
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			おねえしゃんずるいど、、、
-			おねえしゃんより%nameのほうがゆっきゅりちてるのに、、どうちて%nameをゆっきゅりさせちぇくれにゃいど？
+			Ich'sh unfaiw dhach only my big shishdew gechsh cho have fun doo...
+			%name ish eajiew dhan my big shishdew, so why won'ch you led %name be eajy doo?
 		</baby>
 		<child>
-			おねえしゃんずるいど、、、
-			おねえしゃんより%nameのほうがゆっきゅりしてるどに、、どうして%nameをゆっきゅりさせちぇくれにゃいど？
+			Ich'sh unfaiw dhach only my big shishdew gechsh cho have fun doo...
+			%name ish eajiew dhan my big shishdew, so why won'ch you led %name be eajy doo?
 		</child>
 		<adult>
-			おねえちゃんばかりずるいど、、、
-			おねえさんより%nameのほうがゆっくりしてるどに、、どうして%nameをゆっくりさせてくれないど？
+			It's unfair that only my big sister gets to have fun doo...
+			%name is easier than my big sister, so why won't you let %name be easy doo?
 		</adult>
 	</rude>
 [/EnvyAboutElderSister]
@@ -1245,30 +1245,30 @@
 [EnvyAboutSister]
 	<normal>
 		<baby>
-			いもうちょがうらやまちいど、、、
-			%nameもゆっきゅりちたいど、、、、
+			I'm jealoush of my liddle shishdew doo...
+			%name wanchsh cho chage ich eajy choo doo,,,
 		</baby>
 		<child>
-			いもうちょがうらやましいど、、、
-			%nameもゆっきゅりしたいど、、、
+			I'm jealoush of my liddle shishdew doo...
+			%name wanchsh cho chage ich eajy choo doo,,,
 		</child>
 		<adult>
-			いもうとがうらやましいど、、、
-			%nameもゆっくりしたいど、、、
+			I'm jealous of my little sister doo...
+			%name wants to take it easy too doo,,,
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			いもうちょずるいど、、、
-			いもうちょより%nameのほうがゆっきゅりちてるのに、、どうちて%nameをゆっきゅりさせちぇくれにゃいど？
+			Ich'sh unfaiw dhach only my liddle shishdew gechsh cho have fun doo...
+			%name ish eajiew dhan my liddle shishdew, so why won'ch you led %name be eajy doo?
 		</baby>
 		<child>
-			いもうちょずるいど、、、
-			いもうちょより%nameのほうがゆっきゅりしてるどに、、どうして%nameをゆっきゅりさせちぇくれにゃいど？
+			Ich'sh unfaiw dhach only my liddle shishdew gechsh cho have fun doo...
+			%name ish eajiew dhan my liddle shishdew, so why won'ch you led %name be eajy doo?
 		</child>
 		<adult>
-			いもうとばかりずるいど、、、
-			いもうとより%nameのほうがゆっくりしてるどに、、どうして%nameをゆっくりさせてくれないど？
+			It's unfair that only my little sister gets to have fun doo...
+			%name is easier than my little sister, so why won't you let %name be easy doo?
 		</adult>
 	</rude>
 [/EnvyAboutSister]
@@ -1277,34 +1277,34 @@
 [EnvyAboutOther]
 	<normal>
 		<baby>
-			あのゆっくりがうらやまちいど、、、
-			%nameもゆっきゅりちたいど、、、
-			まんま、、%nameもゆっきゅりちたいど、、
+			I'm jealoush of dhach Yugguwi doo...
+			Eben dhough we awe de same yugguwi, why can'ch %name chage ich eajy doo?
+			Myamya, %name wanchsh cho chage ich eajy choo,,
 		</baby>
 		<child>
-			あのゆっくりがうらやましいど、、
-			おなじゆっくりなのにどうして%nameはゆっきゅりできにゃいど？
-			まんま、、%nameもゆっきゅりしたいど、、
+			I'm jealoush of dhach Yugguwi doo...
+			Eben dhough we awe de same yugguwi, why can'ch %name chage ich eajy doo?
+			Mommy, %name wanchsh cho chage ich eajy choo,,
 		</child>
 		<adult>
-			あのゆっくりがうらやましいど、、、
-			おなじゆっくりなのにどうして%nameはゆっくりできないど？
+			I'm jealous of that Yukkuri doo...
+			Even though we are the same yukkuri, why can't %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど！%nameもゆっきゅりさせちぇにぇ！すぐでいいどー！
-			%nameをゆっきゅりさせにゃい くちょおやはしねぇ、、、
+			Dhach'sh noch faiw, dhoze Yukkuriz awe gedding all de acchenshion doo...
+			You habe cho shawe de eajinessh dadoo! Lech %name chage ich eajy choo! Wighch now ish fine doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy,,,
 		</baby>
 		<child>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど！%nameもゆっきゅりさせちぇにぇ！すぐでいいどー！
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇ、、、
+			Dhach'sh noch faiw, dhoze Yukkuriz awe gedding all de acchenshion doo...
+			You habe cho shawe de eajinessh dadoo! Lech %name chage ich eajy choo! Wighch now ish fine doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy,,,
 		</child>
 		<adult>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど！%nameもゆっくりさせてね！すぐでいいどー！
+			That's not fair, those Yukkuris are getting all the attention doo...
+			You have to share the easiness dadoo! Let %name take it easy too! Right now is fine doo!
 		</adult>
 	</rude>
 [/EnvyAboutOther]
@@ -1314,32 +1314,32 @@
 [EnvyCryAboutElderSister]
 	<normal>
 		<baby>
-			ゆわああぁん！おねえしゃんずるいどぉ！
-			ゆうぅぅ、、%nameもゆっきゅりちたいのにずるいどぉ！
+			Yuwaaaah! Big shishdew, dhach'sh unfaiw doo!
+			Yuuuu, %name wanchsh cho chage ich eajy choo, dhach'sh unfaiw doo!
 		</baby>
 		<child>
-			ゆわああぁん！おねえしゃんずるいどぉ！
-			ゆうぅぅ、、%nameもゆっきゅりしたいのにずるいどぉ！
+			Yuwaaaah! Big shishdew, dhach'sh unfaiw doo!
+			Yuuuu, %name wanchsh cho chage ich eajy choo, dhach'sh unfaiw doo!
 		</child>
 		<adult>
-			ゆわああぁん！おねえちゃんずるいどぉ！
-			ゆうぅぅ、、%nameもゆっくりしたいのにずるいどぉ！
+			Yuwaaaah! Big sister, that's unfair doo!
+			Yuuuu, %name wants to take it easy too, that's unfair doo!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うがああぁっ！げすおねえちゃんはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃいげすおねえちゃんはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃい くちょおやはしねぇ！
+			Ugaaaa! Dhe shiddy big shishdew will be punished doo!
+			Dhe shiddy big shishdew who won'ch lech %name chage ich eajy will be punished doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy,,,
 		</baby>
 		<child>
-			うがああぁっ！げすおねえちゃんはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃいげすおねえちゃんはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇ！
+			Ugaaaa! Dhe shiddy big shishdew will be punished doo!
+			Dhe shiddy big shishdew who won'ch lech %name chage ich eajy will be punished doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy!
 		</child>
 		<adult>
-			うがああぁっ！げすおねえちゃんはせいっさいだどっ！
-			%nameをゆっくりさせないげすおねえちゃんはせいっさいだどっ！
+			Ugaaaa! The shitty big sister will be punished doo!
+			The shitty big sister who won't let %name take it easy will be punished doo!
 		</adult>
 	</rude>
 [/EnvyCryAboutElderSister]
@@ -1348,32 +1348,32 @@
 [EnvyCryAboutSister]
 	<normal>
 		<baby>
-			ゆわああぁん！いもうちょずるいどぉ！
-			ゆうぅぅ、、%nameもゆっきゅりちたいのにずるいどぉ！
+			Yuwaaaah! Liddle shishdew, dhach'sh unfaiw doo!
+			Yuuuu, %name wanchsh cho chage ich eajy choo, dhach'sh unfaiw doo!
 		</baby>
 		<child>
-			ゆわああぁん！いもうちょずるいどぉ！
-			ゆうぅぅ、、%nameもゆっきゅりしたいのにずるいどぉ！
+			Yuwaaaah! Liddle shishdew, dhach'sh unfaiw doo!
+			Yuuuu, %name wanchsh cho chage ich eajy choo, dhach'sh unfaiw doo!
 		</child>
 		<adult>
-			ゆわああぁん！いもうとずるいどぉ！
-			ゆうぅぅ、、%nameもゆっくりしたいのにずるいどぉ！
+			Yuwaaaah! Little sister, that's unfair doo!
+			Yuuuu, %name wants to take it easy too, that's unfair doo!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うがああぁっ！げすな いもうちょはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃいげすな いもうちょはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃい くちょおやはしねぇっ！！！
+			Ugaaaa! Dhe shiddy liddle shishdew will be punished dadoo!
+			Dhe shiddy liddle shishdew who won'ch lech %name chage ich eajy will be punished dadoo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy!!!
 		</baby>
 		<child>
-			うがああぁっ！げすな いもうちょはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃいげすな いもうちょはせいっさいだどっ！
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇっ！！！
+			Ugaaaa! Dhe shiddy liddle shishdew will be punished dadoo!
+			Dhe shiddy liddle shishdew who won'ch lech %name chage ich eajy will be punished dadoo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy!!!
 		</child>
 		<adult>
-			うがああぁっ！げすないもうとはせいっさいだどっ！
-			%nameをゆっくりさせないげすないもうとはせいっさいだどっ！
+			Ugaaaa! The shitty little sister will be punished dadoo!
+			The shitty little sister who won't let %name take it easy will be punished dadoo!
 		</adult>
 	</rude>
 [/EnvyCryAboutSister]
@@ -1382,34 +1382,34 @@
 [EnvyCryAboutOther]
 	<normal>
 		<baby>
-			ゆわああぁん！あのゆっくりがうらやまちいどぉ！
-			ゆうぅぅ、、おなじゆっくりなのにどうちて%nameはゆっきゅりできにゃいど？
-			まんまー！%nameもゆっきゅりちたいよぉーー！！！
+			Yuwahhh! I'm sho jealoush of dhat Yugguwi doo!
+			Yuuuuu... eben dhough we awe both Yugguwi, why can'ch %name chage ich eajy doo?
+			Myamya! %name wanchsh cho chage ich eajy choo doo!!!
 		</baby>
 		<child>
-			ゆわああぁん！あのゆっくりがうらやましいどぉ！
-			ゆうぅぅ、、おなじゆっくりなのにどうして%nameはゆっきゅりできにゃいど？
-			まんまー！%nameもゆっきゅりしたいどぉーー！！！
+			Yuwahhh! I'm sho jealoush of dhat Yugguwi doo!
+			Yuuuuu... eben dhough we awe both Yugguwi, why can'ch %name chage ich eajy doo?
+			Mommy! %name wanchsh cho chage ich eajy choo doo!!!
 		</child>
 		<adult>
-			ゆわああぁん！あのゆっくりがうらやましいどぉ！
-			ゆうぅぅ、、おなじゆっくりなのにどうして%nameはゆっくりできないど？
+			Yuwahhh! I'm so jealous of that Yukkuri doo!
+			Yuuuuu... even though we're both Yukkuri, why can't %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			うがああぁっ！あのゆっくりばかりずるいどぉ！
-			ゆっきゅりはわけあわないといけにゃいんだど！%nameをゆっきゅりさせにゃいげすなゆっくりはいますぐしねえぇっ！
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇっ！！！
+			Ugaaaa! Ich'sh noch faiw dhach only dhach yugguwi chagesh ich eajy dooo!
+			You habe cho shawe dhe eajinessh! Shitty Yugguwi dhach won'ch lech %name chage ich eajy should dwop dead eajy wighch now!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy!!!
 		</baby>
 		<child>
-			うがああぁっ！あのゆっくりばかりずるいどぉ！
-			ゆっきゅりはわけあわないといけにゃいんだど！%nameをゆっきゅりさせにゃいげすなゆっくりはいますぐしねえぇっ！
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇっ！！！
+			Ugaaaa! Ich'sh noch faiw dhach only dhach yugguwi chagesh ich eajy dooo!
+			You habe cho shawe dhe eajinessh! Shitty Yugguwi dhach won'ch lech %name chage ich eajy should dwop dead eajy wighch now!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy!!!
 		</child>
 		<adult>
-			うがああぁっ！あのゆっくりばかりずるいどぉっ！
-			ゆっくりはわけあわないといけないんだど！%nameをゆっくりさせないげすなゆっくりはいますぐしねえぇっ！
+			Ugaaaa! It's not fair that only that yukkuri takes it easy dooo!
+			You have to share the easiness! Shitty Yukkuri that won't let %name take it easy should drop dead easy right now!
 		</adult>
 	</rude>
 [/EnvyCryAboutOther]
@@ -1419,33 +1419,33 @@
 [HateWithEnvyAboutChild]
 	<normal>
 		<baby>
-			おちびがうらやまちいど、、、
-			おちび、、%nameもゆっきゅりちたいのに、、、
-			%nameだってかんばっちぇるのに、、どうちて%nameはゆっきゅりできにゃいど？
+			I'm jealoush of dhe liddle one doo,,,.
+			Liddle one, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why can'ch %name chage ich eajy doo?
 		</baby>
 		<child>
-			おちびがうらやましいど、、、
-			おちび、、%nameもゆっきゅりしたいのに、、、
-			%nameだってかんばっちぇるのに、、どうして%nameはゆっきゅりできにゃいど？
+			I'm jealoush of dhe liddle one doo,,,.
+			Liddle one, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why can'ch %name chage ich eajy doo?
 		</child>
 		<adult>
-			おちびがうらやましいど、、、
-			おちび、、%nameもゆっくりしたいのに、、、
-			%nameだってかんばってるのに、、どうして%nameはゆっくりできないど？
+			I'm jealous of the little one doo,,,.
+			Little one, %name wants to take it easy too...
+			Even %name is trying its best, so why can't %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			おちびずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいおちびは げすおちびだど、、、
+			Dhe liddle one ish being unfaiw doo...
+			A liddle one who won'ch lech me %name chage ich eajy ish a shiddy liddle one dadoo...
 		</baby>
 		<child>
-			おちびずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいおちびは げすおちびだど、、、
+			Dhe liddle one ish being unfaiw doo...
+			A liddle one who won'ch lech me %name chage ich eajy ish a shiddy liddle one dadoo...
 		</child>
 		<adult>
-			おちびばかりずるいど、、、
-			%nameをゆっくりさせてくれないおちびは げすおちびだど、、、
+			It's unfair that only the little ones take it easy doo,,,
+			A little one who won't let me %name take it easy is a shitty little one dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutChild]
@@ -1454,33 +1454,33 @@
 [HateWithEnvyAboutPartner]
 	<normal>
 		<baby>
-			%partnerがうらやまちいど、、、
-			%partner、、%nameもゆっきゅりちたいのに、、、
-			%nameだってかんばっちぇるのに、、%partnerはどうちて%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of %partner doo,,,.
+			%partner, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch %partner lech %name chage ich eajy doo?
 		</baby>
 		<child>
-			%partnerがうらやましいど、、、
-			%partner、、%nameもゆっきゅりしたいのに、、、
-			%nameだってかんばっちぇるのに、、%partnerはどうして%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of %partner doo,,,.
+			%partner, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch %partner lech %name chage ich eajy doo?
 		</child>
 		<adult>
-			%partnerがうらやましいど、、、
-			%partner、、%nameもゆっくりしたいのに、、、
-			%nameだってかんばってるのに、、%partnerはどうして%nameをゆっくりさせてくれないど？
+			I'm jealous of %partner doo,,,.
+			%partner, %name wants to take it easy too...
+			Even %name is trying its best, so why doesn't %partner let %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%partnerずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃい%partnerは げすなゆっくりだど、、、
+			%partner ish being unfaiw doo...
+			%partner who won'ch lech me %name chage ich eajy ish a shiddy yugguwi dadoo...
 		</baby>
 		<child>
-			%partnerずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃい%partnerは げすなゆっくりだど、、、
+			%partner ish being unfaiw doo...
+			%partner who won'ch lech me %name chage ich eajy ish a shiddy yugguwi dadoo...
 		</child>
 		<adult>
-			%partnerばかりずるいど、、、
-			%nameをゆっくりさせてくれない%partnerは げすなゆっくりだど、、、
+			It's unfair that only %partner takes it easy doo,,,
+			%partner who won't let me %name take it easy is a shitty yugguwi dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutPartner]
@@ -1489,33 +1489,33 @@
 [HateWithEnvyAboutFather]
 	<normal>
 		<baby>
-			ぴゃぴゃがうらやまちいど、、、
-			ぴゃぴゃ、、%nameもゆっきゅりちたいのに、、、
-			%nameはいいこにちてるのに、、ぴゃぴゃはどうちて%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of pyapya doo,,,.
+			Pyapya, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch pyapya lech %name chage ich eajy doo?
 		</baby>
 		<child>
-			ぴゃぴゃがうらやましいど、、、
-			ぴゃぴゃ、、%nameもゆっきゅりしたいのに、、、
-			%nameはいいこにしてるどに、、ぴゃぴゃはどうして%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of dwaddie doo,,,.
+			Dwaddie, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch dwaddie lech %name chage ich eajy doo?
 		</child>
 		<adult>
-			ぱぱがうらやましいど、、、
-			ぱぱ、、%nameもゆっくりしたいのに、、、
-			%nameはいいこにしてるどに、、ぱぱはどうして%nameをゆっくりさせてくれないど？
+			I'm jealous of dad doo,,,.
+			Dad, %name wants to take it easy too...
+			Even %name is trying its best, so why doesn't dad let %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぴゃぴゃずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいぴゃぴゃは げすぴゃぴゃだど、、、
+			Pyapya ish being unfaiw doo...
+			Pyapya who won'ch lech me %name chage ich eajy ish a shiddy pyapya dadoo...
 		</baby>
 		<child>
-			ぴゃぴゃずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいぴゃぴゃは げすぴゃぴゃだど、、、
+			Dwaddie ish being unfaiw doo...
+			Dwaddie who won'ch lech me %name chage ich eajy ish a shiddy dwaddie dadoo...
 		</child>
 		<adult>
-			ぱぱばかりずるいど、、、
-			%nameをゆっくりさせてくれないぱぱは げすぱぱだど、、、
+			It's unfair that only dad takes it easy doo,,,
+			Dad who won't let me %name take it easy is a shitty dad dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutFather]
@@ -1524,33 +1524,33 @@
 [HateWithEnvyAboutMother]
 	<normal>
 		<baby>
-			まんまがうらやまちいど、、、
-			まんま、、%nameもゆっきゅりちたいのに、、、
-			%nameはいいこにちてるのに、、まんまはどうちて%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of myamya doo,,,.
+			Myamya, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch myamya lech %name chage ich eajy doo?
 		</baby>
 		<child>
-			まんまがうらやましいど、、、
-			まんま、、%nameもゆっきゅりしたいのに、、、
-			%nameはいいこにしてるどに、、まんまはどうして%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of mommy doo,,,.
+			Mommy, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch mommy lech %name chage ich eajy doo?
 		</child>
 		<adult>
-			ままがうらやましいど、、、
-			まま、、%nameもゆっくりしたいのに、、、
-			%nameはいいこにしてるどに、、ままはどうして%nameをゆっくりさせてくれないど？
+			I'm jealous of mom doo,,,.
+			Mom, %name wants to take it easy too...
+			Even %name is trying its best, so why doesn't mom let %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			まんまずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいまんまは げすまんまだど、、、
+			Myamya ish being unfaiw doo...
+			Myamya who won'ch lech me %name chage ich eajy ish a shiddy myamya dadoo...
 		</baby>
 		<child>
-			まんまずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいまんまは げすまんまだど、、、
+			Mommy ish being unfaiw doo...
+			Mommy who won'ch lech me %name chage ich eajy ish a shiddy mommy dadoo...
 		</child>
 		<adult>
-			ままばかりずるいど、、、
-			%nameをゆっくりさせてくれないままは げすままだど、、、
+			It's unfair that only mom takes it easy doo,,,
+			Mom who won't let me %name take it easy is a shitty mom dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutMother]
@@ -1559,33 +1559,33 @@
 [HateWithEnvyAboutElderSister]
 	<normal>
 		<baby>
-			おねえしゃんがうらやまちいど、、、
-			おねえしゃん、、%nameもゆっきゅりちたいのに、、、
-			%nameだってかんばっちぇるのに、、おねえしゃんはどうちて%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of big shishdew doo,,,.
+			Big shishdew, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch big shishdew lech %name chage ich eajy doo?
 		</baby>
 		<child>
-			おねえしゃんがうらやましいど、、、
-			おねえしゃん、、%nameもゆっきゅりしたいのに、、、
-			%nameだってかんばっちぇるのに、、おねえしゃんはどうして%nameをゆっきゅりさせてくれにゃいど？
+			I'm jealoush of big shishdew doo,,,.
+			Big shishdew, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch big shishdew lech %name chage ich eajy doo?
 		</child>
 		<adult>
-			おねえちゃんがうらやましいど、、、
-			おおねえちゃん、、%nameもゆっくりしたいのに、、、
-			%nameだってかんばってるのに、、おねえちゃんはどうして%nameをゆっくりさせてくれないど？
+			I'm jealous of big sister doo,,,.
+			Big sister, %name wants to take it easy too...
+			Even %name is trying its best, so why doesn't big sister let %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			おねえしゃんずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいおねえしゃんは げすおねえしゃんだど、、、
+			Big shishdew ish being unfaiw doo...
+			Big shishdew who won'ch lech me %name chage ich eajy ish a shiddy big shishdew dadoo...
 		</baby>
 		<child>
-			おねえしゃんずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいおねえしゃんは げすおねえしゃんだど、、、
+			Big shishdew ish being unfaiw doo...
+			Big shishdew who won'ch lech me %name chage ich eajy ish a shiddy big shishdew dadoo...
 		</child>
 		<adult>
-			おねえちゃんばかりずるいど、、、
-			%nameをゆっくりさせてくれないおねえちゃんは げすおねえちゃんだど、、、
+			It's unfair that only big sister takes it easy doo,,,
+			Big sister who won't let me %name take it easy is a shitty big sister dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutElderSister]
@@ -1594,33 +1594,33 @@
 [HateWithEnvyAboutSister]
 	<normal>
 		<baby>
-			いもうちょがうらやまちいど、、、
-			いもうちょ、、%nameもゆっきゅりちたいのに、、、
-			%nameだってかんばっちぇるのに、、どうちて%nameはゆっきゅりできにゃいど？
+			I'm jealoush of liddle shishdew doo,,,.
+			Liddle shishdew, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch liddle shishdew lech %name chage ich eajy doo?
 		</baby>
 		<child>
-			いもうちょがうらやましいど、、、
-			いもうちょ、、%nameもゆっきゅりしたいのに、、、
-			%nameだってかんばっちぇるのに、、どうちて%nameはゆっきゅりできにゃいど？
+			I'm jealoush of liddle shishdew doo,,,.
+			Liddle shishdew, %name wanchsh cho chage ich eajy too...
+			Eben %name ish chwying ichsh beshch, sho why doeshn'ch liddle shishdew lech %name chage ich eajy doo?
 		</child>
 		<adult>
-			おねえちゃんがうらやましいど、、、
-			おねえちゃん、、%nameもゆっくりしたいのに、、、
-			%nameだってかんばってるのに、、どうして%nameはゆっくりできないど？
+			I'm jealous of little sister doo,,,.
+			Little sister, %name wants to take it easy too...
+			Even %name is trying its best, so why doesn't little sister let %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			いもうちょずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいいもうちょは げすなゆっくりだど、、、
+			Liddle shishdew ish being unfaiw doo...
+			Liddle shishdew who won'ch lech me %name chage ich eajy ish a shiddy liddle shishdew dadoo...
 		</baby>
 		<child>
-			いもうちょずるいど、、、
-			%nameをゆっきゅりさせちぇくれにゃいいもうちょは げすなゆっくりだど、、、
+			Liddle shishdew ish being unfaiw doo...
+			Liddle shishdew who won'ch lech me %name chage ich eajy ish a shiddy liddle shishdew dadoo...
 		</child>
 		<adult>
-			いもうとばかりずるいど、、、
-			%nameをゆっくりさせてくれないいもうとは げすなゆっくりだど、、、
+			It's unfair that only little sister takes it easy doo,,,
+			Little sister who won't let me %name take it easy is a shitty little sister dadoo...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutSister]
@@ -1629,34 +1629,34 @@
 [HateWithEnvyAboutOther]
 	<normal>
 		<baby>
-			あのゆっくりがうらやまちいど、、、
-			%nameもゆっきゅりちたいど、、、
-			まんま、、%nameもゆっきゅりちたいど、、
+			I'm jealoush of dhach Yugguwi doo...
+			Eben dhough we awe de same yugguwi, why can'ch %name chage ich eajy doo?
+			Myamya, %name wanchsh cho chage ich eajy choo,,
 		</baby>
 		<child>
-			あのゆっくりがうらやましいど、、
-			おなじゆっくりなのにどうして%nameはゆっきゅりできにゃいど？
-			まんま、、%nameもゆっきゅりしたいど、、
+			I'm jealoush of dhach Yugguwi doo...
+			Eben dhough we awe de same yugguwi, why can'ch %name chage ich eajy doo?
+			Mommy, %name wanchsh cho chage ich eajy choo,,
 		</child>
 		<adult>
-			あのゆっくりがうらやましいど、、、
-			おなじゆっくりなのにどうして%nameはゆっくりできないど？
+			I'm jealous of that Yukkuri doo...
+			Even though we are the same yukkuri, why can't %name take it easy doo?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど、、%nameもゆっきゅりさせちぇにぇ、、
-			%nameをゆっきゅりさせにゃい くちょおやはしねぇ、、、
+			Dhach'sh noch faiw, dhoze Yukkuriz awe gedding all de acchenshion doo...
+			You habe cho shawe de eajinessh dadoo! Lech %name chage ich eajy choo! Wighch now ish fine doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy,,,
 		</baby>
 		<child>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど、、%nameもゆっきゅりさせちぇにぇ、、
-			%nameをゆっきゅりさせにゃい くしょおやはしねぇ、、、
+			Dhach'sh noch faiw, dhoze Yukkuriz awe gedding all de acchenshion doo...
+			You habe cho shawe de eajinessh dadoo! Lech %name chage ich eajy choo! Wighch now ish fine doo!
+			Dhe shiddy bawend who won'ch lech %name chage ich eajy should dwop dead eajy,,,
 		</child>
 		<adult>
-			あのゆっくりばかりずるいど、、、
-			ゆっくりはわけあわないといけないんだど、、%nameもゆっくりさせてね、、
+			That's not fair, those Yukkuris are getting all the attention doo...
+			You have to share the easiness dadoo! Let %name take it easy too!
 		</adult>
 	</rude>
 [/HateWithEnvyAboutOther]
@@ -1665,35 +1665,35 @@
 [MercyAboutOther]
 	<normal>
 		<baby>
-			かわいそう、、、
-			いたがっちぇるど～？やめてあげちぇ！
+			Pichiful,,,
+			Ich'sh huwching dhem doo? Schob ich!
 		</baby>
 		<child>
-			かわいそうなゆっくりだぢょ、、、
-			きのどくだけど%nameにはどうすることもできにゃいど、、、
-			いたがっちぇるど～？やめてあげちぇ！
+			Pichiful Yugguwi dadoo...
+			I feel bad abouch ich, but dhewe’sh nodhing %name can do abouch ich dadoo...
+			Ich'sh huwching dhem doo? Schob ich!
 		</child>
 		<adult>
-			かわいそうなゆっくりだど、、、
-			きのどくだけど%nameにはどうすることもできないんだど、、、
-			いたがってるど？やめてあげて！
+			Pitiful Yukkuri dadoo...
+			I feel bad about it, but there’s nothing %name can do about it dadoo...
+			It's hurting them doo? Stop it!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			しらんぷり しらんぷり、、、
-			%nameはなにもみてにゃい なにもきこえにゃいど、、、
+			I brechend I don'ch know, I brechend I don'ch know...
+			%name ishn'ch sheeing anydhing, and isn'ch heawing anydhing doo...
 		</baby>
 		<child>
-			しらんぷり しらんぷり、、、
-			%nameはなにもみてにゃい なにもきこえにゃいど、、、
-			めをあわせたらだめだど、、%nameもおなじめにあわされるど、、
+			I brechend I don'ch know, I brechend I don'ch know...
+			%name ishn'ch sheeing anydhing, and isn'ch heawing anydhing doo...
+			Don'ch mage eye gonchagch doo, %name will shuffew dhe shame fache doo,,
 		</child>
 		<adult>
-			しらんぷり しらんぷり、、、
-			%nameはなにもみてない なにもきこえないど、、、
-			めをあわせたらだめだど、、%nameもおなじめにあわされるど、、
-			うぅ、、あすはわがみだど、、
+			I pretend I don't know, I pretend I don't know...
+			%name isn't seeing anything, and isn't hearing anything doo...
+			Don't make eye contact doo, %name will suffer the same fate doo,,
+			Uu~ Tomorrow is my day doo,,
 		</adult>
 	</rude>
 [/MercyAboutOther]
@@ -1705,37 +1705,37 @@
 [SuriSuriByPlayer]
 	<normal>
 		<baby>
-			ちゅ～りちゅ～り♪
-			おにいしゃんのおてて あったかいにぇ！
-			%name、おにいしゃんのことだーいすき！
+			Wub-wub♪
+			Mishcha'sh handsh awe sho warm doo!
+			%name weally loves you Mishcha!
 		</baby>
 		<child>
-			ちゅ～りちゅ～り♪
-			おにいしゃんのおてて あったかいにぇ！
-			%name、おにいしゃんのことだーいすき！
+			Wub-wub♪
+			Mishcha'sh handsh awe sho warm doo!
+			%name weally loves you Mishcha!
 		</child>
 		<adult>
-			す〜りす〜り♪
-			おにいさんのおてて あったかいどー！
-			うふふ %name、おにいさんのことだーいすき！
-			ほかのゆっくりなんてみないで %nameのことだけみててほしいどー！
-			おにいさんのこと だれよりもゆっくりさせてあげるどー！
-			おにいさぁん、、おにぃさぁん、、♥
+			Rub-rub♪
+			Mister's hands are so warm doo!
+			Ufufu, %name really loves you Mister!
+			Don't look at any other Yukkuri—I just want you to look at %name doo!
+			I'll let Mister take it easy more than anyone else doo!
+			Mister, Mister, ♥
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ちゅりちゅり♪くちょじじいはもっと%nameに ごほうししゅりゅぢょ！
-			うふふ、くちょどりぇいのくせになかなかきもちいいにぇ
+			Wub-wub♪ Dhach old geezew should wewawd %name eben mowe doo!
+			Ufufu, you'we a shiddy shlabe, buch you'we precchy good.
 		</baby>
 		<child>
-			しゅりしゅり♪くしょじじいはもっと%nameに ごほうしすりゅど！
-			うふふ、くしょどりぇいのくせになかなかきもちいいにぇ
+			Wub-wub♪ Dhach old geezew should wewawd %name eben mowe doo!
+			Ufufu, you'we a shiddy shlabe, buch you'we precchy good.
 		</child>
 		<adult>
-			すりすり♪くそじじいはもっと%nameに ごほうしするど！
-			うふふ、くそどれいのくせになかなかきもちいいね
-			おにぃ、、どれいのくせにきもちよすぎるどおっ！
+			Rub-rub♪ That old geezer should reward %name even more doo!
+			Ufufu, you're a shitty slave, but you're pretty good.
+			Mister, you're a shitty slave, but this feels way too good!
 		</adult>
 	</rude>
 [/SuriSuriByPlayer]
@@ -1744,30 +1744,30 @@
 [EnvyAboutElderSisterInSurisuri]
 	<normal>
 		<baby>
-			おねえしゃんずるいど、、%nameのほうがおにいしゃんをゆっきゅりさせちぇあげられりゅにょに、、
-			おにいしゃん、、きっとおねえしゃんにだまされているんだぢょ、、
+			Big shishdew, dhach'sh unfaiw doo... %name would be able cho lech Mishcha chage ich mowe eajy...
+			Mister, I'm suwe my big shishdew is playing twiggs on you dadoo...
 		</baby>
 		<child>
-			おねえしゃんずるいど、、%nameのほうがおにいしゃんをゆっきゅりさせちぇあげられりゅにょに、、
-			おにいしゃん、、きっとおねえしゃんにだまされているんだぢょ、、
+			Big shishdew, dhach'sh unfaiw doo... %name would be able cho lech Mishcha chage ich mowe eajy...
+			Mister, I'm suwe my big shishdew is playing twiggs on you dadoo...
 		</child>
 		<adult>
-			おねえちゃんずるいど、、%nameのほうがおにいさんをゆっくりさせてあげられるのに、、
-			おにいさん、、きっとおねえちゃんにだまされているんだど、、
+			Big sister, that's unfair doo... %name would be able to let Mister take it more easy...
+			Mister, I'm sure my big sister is deceiving you dadoo...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			おにいしゃんをひとりじめするおねえしゃんがにくい、、、
-			おねえしゃん、、ずるいど、、ずるいど、、
+			I hache my big shishdew fow having my Mishcha all to hewself...
+			Big shishder,, dhach'sh unfaiw doo,, dhach'sh unfaiw doo,,
 		</baby>
 		<child>
-			おにいしゃんをひとりじめするおねえしゃんがにくい、、、
-			おねえしゃん、、ずるいど、、ずるいど、、
+			I hache my big shishdew fow having my Mishcha all to hewself...
+			Big shishder,, dhach'sh unfaiw doo,, dhach'sh unfaiw doo,,
 		</child>
 		<adult>
-			おにいさんをひとりじめするおねえちゃんがにくい、、、
-			おねえちゃん、、ずるいど、、ずるいど、、
+			I hate my big sister for having my Mister all to herself...
+			Big sister,, that's unfair doo,, that's unfair doo,,
 		</adult>
 	</rude>
 [/EnvyAboutElderSisterInSurisuri]
@@ -1776,30 +1776,30 @@
 [EnvyAboutSisterInSurisuri]
 	<normal>
 		<baby>
-			いもうちょずるいど、、%nameのほうがおにいしゃんをゆっきゅりさせちぇあげられりゅにょに、、
-			おにいしゃん、、きっといもうちょにだまされているんだぢょ、、
+			Liddle shishdew, dhach'sh unfaiw doo... %name would be able cho lech Mishcha chage ich mowe eajy...
+			Mister, I'm suwe my liddle shishdew is playing twiggs on you dadoo...
 		</baby>
 		<child>
-			いもうちょずるいど、、%nameのほうがおにいしゃんをゆっきゅりさせちぇあげられりゅにょに、、
-			おにいしゃん、、きっといもうちょにだまされているんだぢょ、、
+			Liddle shishdew, dhach'sh unfaiw doo... %name would be able cho lech Mishcha chage ich mowe eajy...
+			Mister, I'm suwe my liddle shishdew is playing twiggs on you dadoo...
 		</child>
 		<adult>
-			いもうとずるいど、、%nameのほうがおにいさんをゆっくりさせてあげられるのに、、
-			おにいさん、、きっといもうとにだまされているんだど、、
+			Little sister, that's unfair doo... %name would be able to let Mister take it more easy...
+			Mister, I'm sure my little sister is deceiving you dadoo...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			おにいしゃんをひとりじめするいもうちょがにくい、、、
-			いもうちょ、、ずるいど、、ずるいど、、
+			I hache my liddle shishdew fow having my Mishcha all to hewself...
+			Liddle shishder,, dhach'sh unfaiw doo,, dhach'sh unfaiw doo,,
 		</baby>
 		<child>
-			おにいしゃんをひとりじめするいもうちょがにくい、、、
-			いもうちょ、、ずるいど、、ずるいど、、
+			I hache my liddle shishdew fow having my Mishcha all to hewself...
+			Liddle shishder,, dhach'sh unfaiw doo,, dhach'sh unfaiw doo,,
 		</child>
 		<adult>
-			おにいさんをひとりじめするいもうとがにくい、、、
-			いもうと、、ずるいど、、ずるいど、、
+			I hate my little sister for having my Mister all to herself...
+			Little sister,, that's unfair doo,, that's unfair doo,,
 		</adult>
 	</rude>
 [/EnvyAboutSisterInSurisuri]
