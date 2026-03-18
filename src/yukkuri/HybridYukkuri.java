@@ -451,12 +451,10 @@ public class HybridYukkuri extends Body {
 		STRENGTHorg[AgeState.CHILD.ordinal()] *= factor;
 		STRENGTHorg[AgeState.BABY.ordinal()] *= factor;
 		images = new Body[ImageCode.values().length];
-		if (dorei != null && dorei2 != null && dorei3 != null && dorei4 != null) {
-			try {
-				loadImages_Hyblid();
-			} catch (IOException e1) {
-				System.out.println("File I/O error");
-			}
+		try {
+			loadImages_Hyblid();
+		} catch (IOException e1) {
+			System.out.println("File I/O error");
 		}
 	}
 

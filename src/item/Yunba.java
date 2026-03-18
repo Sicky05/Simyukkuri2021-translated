@@ -52,30 +52,30 @@ public class Yunba extends ObjEX {
 
 	/** アクションのテーブル */
 	public static enum Action {
-		CLEAN(ResourceUtil.getInstance().read("command_clean"), ""),
-		HEAL(ResourceUtil.getInstance().read("item_yunbarecovery"), ""),
-		KABI(ResourceUtil.getInstance().read("item_yunbakillmold"), ""),
-		RUDE(ResourceUtil.getInstance().read("item_yunbacorrection"), ""),
-		OKAZARI(ResourceUtil.getInstance().read("item_yunbaaccessory"), ""),
-		DESTROY(ResourceUtil.getInstance().read("item_yunbaindiscriminate"), ""),
-		BODY_REMOVE(ResourceUtil.getInstance().read("item_yunbacleandead"), ""),
-		BODY_OKAZARI(ResourceUtil.getInstance().read("item_yunbaconfiscation"), ""),
-		SHIT(ResourceUtil.getInstance().read("item_yunbacleanunun"), ""),
-		STALK(ResourceUtil.getInstance().read("item_yunbacleanstalk"), ""), // 追加
-		WALLTHROUGH(ResourceUtil.getInstance().read("item_yunbathroughwall"), ""),
-		NORND(ResourceUtil.getInstance().read("item_yunbasaveenergy"), ""),
-		KILL(ResourceUtil.getInstance().read("item_yunbaattackup"), ""),
-		MINEUTI(ResourceUtil.getInstance().read("item_yunbaallowance"), ""),
-		NODAMAGE_FALL(ResourceUtil.getInstance().read("item_yunbanofalldamage"), ""),
-		EMPFOOD(ResourceUtil.getInstance().read("item_yunbadish"), ""),
-		ANTIRAPER(ResourceUtil.getInstance().read("item_yunbakillraper"), ""),
-		WITHOUT_AND(ResourceUtil.getInstance().read("item_yunbacondition"), ""),
+		CLEAN(ResourceUtil.getInstance().read("command_clean")),
+		HEAL(ResourceUtil.getInstance().read("item_yunbarecovery")),
+		KABI(ResourceUtil.getInstance().read("item_yunbakillmold")),
+		RUDE(ResourceUtil.getInstance().read("item_yunbacorrection")),
+		OKAZARI(ResourceUtil.getInstance().read("item_yunbaaccessory")),
+		DESTROY(ResourceUtil.getInstance().read("item_yunbaindiscriminate")),
+		BODY_REMOVE(ResourceUtil.getInstance().read("item_yunbacleandead")),
+		BODY_OKAZARI(ResourceUtil.getInstance().read("item_yunbaconfiscation")),
+		SHIT(ResourceUtil.getInstance().read("item_yunbacleanunun")),
+		STALK(ResourceUtil.getInstance().read("item_yunbacleanstalk")), // 追加
+		WALLTHROUGH(ResourceUtil.getInstance().read("item_yunbathroughwall")),
+		NORND(ResourceUtil.getInstance().read("item_yunbasaveenergy")),
+		KILL(ResourceUtil.getInstance().read("item_yunbaattackup")),
+		MINEUTI(ResourceUtil.getInstance().read("item_yunbaallowance")),
+		NODAMAGE_FALL(ResourceUtil.getInstance().read("item_yunbanofalldamage")),
+		EMPFOOD(ResourceUtil.getInstance().read("item_yunbadish")),
+		ANTIRAPER(ResourceUtil.getInstance().read("item_yunbakillraper")),
+		WITHOUT_AND(ResourceUtil.getInstance().read("item_yunbacondition")),
 		;
 
 		private String name;
 
-		Action(String nameJ, String nameE) {
-			this.name = ResourceUtil.IS_JP ? nameJ : nameE;
+		Action(String name) {
+			this.name = name;
 		}
 
 		public String toString() {
