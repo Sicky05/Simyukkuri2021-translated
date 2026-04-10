@@ -3,21 +3,21 @@
 [ScareRapist]
 	<normal>
 		<baby>
-			じゃ、じゃおー！
+			Ja,Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃお、、、じゃおー、、、
+				Jao...Jaoo...
 			</damage>
 		</adult>
 	</normal>
@@ -27,22 +27,22 @@
 [AttackRapist]
 	<normal>
 		<baby>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</baby>
 		<child>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</child>
 		<adult>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</adult>
 	</normal>
 [/AttackRapist]
@@ -51,13 +51,13 @@
 [CounterRapist]
 	<normal>
 		<baby>
-			じゃお～ん！じゃお～ん！
+			Jao~n!Jao~n!
 		</baby>
 		<child>
-			じゃお～ん！じゃお～ん！
+			Jao~n!Jao~n!
 		</child>
 		<adult>
-			じゃお～ん！じゃお～ん！じゃお～ん！！！
+			Jao~n!Jao~n!Jao~n!!!
 		</adult>
 	</normal>
 [/CounterRapist]
@@ -66,24 +66,24 @@
 [HateYukkuri]
 	<normal>
 		<baby>
-			じゃお？じゃおじゃお、じゃおーん！？
+			Jao?JaoJao,Jaoon!?
 		</baby>
 		<child>
-			じゃお？じゃおじゃお、じゃおーん！？
+			Jao?JaoJao,Jaoon!?
 		</child>
 		<adult>
-			じゃお？じゃおじゃお、じゃおーん！？
+			Jao?JaoJao,Jaoon!?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</baby>
 		<child>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</child>
 		<adult>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</adult>
 	</rude>
 [/HateYukkuri]
@@ -92,13 +92,13 @@
 [EngageUnunSlave]
 	<normal>
 		<baby>
-			じゃお～ん！じゃお～ん！
+			Jao~n!Jao~n!
 		</baby>
 		<child>
-			じゃお～ん！じゃお～ん！
+			Jao~n!Jao~n!
 		</child>
 		<adult>
-			じゃお～ん！じゃお～ん！じゃお～ん！！！
+			Jao~n!Jao~n!Jao~n!!!
 		</adult>
 	</normal>
 [/EngageUnunSlave]
@@ -107,17 +107,17 @@
 [ConcernAboutPartner]
 	<normal>
 		<baby>
-			じゃーおー？
-			じゃおっじゃおっ？
+			Jaaoo?
+			Jao Jao?
 		</baby>
 		<child>
-			じゃーおー？
-			じゃおっじゃおっ？
+			Jaaoo?
+			Jao Jao?
 		</child>
 		<adult>
-			じゃーおー？
-			じゃおっじゃおっ？
-			じゃおっ！じゃおっ！
+			Jaaoo?
+			Jao Jao?
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutPartner]
@@ -126,17 +126,17 @@
 [ConcernAboutChild]
 	<normal>
 		<baby>
-			じゃーおー？
-			じゃおっじゃおっ？
+			Jaaoo?
+			Jao Jao?
 		</baby>
 		<child>
-			じゃーおー？
-			じゃおっじゃおっ？
+			Jaaoo?
+			Jao Jao?
 		</child>
 		<adult>
-			じゃーおー？
-			じゃおっじゃおっ？
-			じゃおっ！じゃおっ！
+			Jaaoo?
+			Jao Jao?
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutChild]
@@ -145,17 +145,17 @@
 [ConcernAboutFather]
 	<normal>
 		<baby>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお？
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutFather]
@@ -164,17 +164,17 @@
 [ConcernAboutMother]
 	<normal>
 		<baby>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお？
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutMother]
@@ -183,17 +183,17 @@
 [ConcernAboutEldersister]
 	<normal>
 		<baby>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお？
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutEldersister]
@@ -202,17 +202,17 @@
 [ConcernAboutSister]
 	<normal>
 		<baby>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお？
-			じゃおーん、、、
+			JaaoJaao?
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお？
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/ConcernAboutSisterr]
@@ -221,17 +221,17 @@
 [TreatChildByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatChildByPeropero]
@@ -240,17 +240,17 @@
 [TreatPartnerByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatPartnerByPeropero]
@@ -259,17 +259,17 @@
 [TreatFatherByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatFatherByPeropero]
@@ -278,17 +278,17 @@
 [TreatMotherByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatMotherByPeropero]
@@ -297,17 +297,17 @@
 [TreatElderSisterByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatElderSisterByPeropero]
@@ -316,17 +316,17 @@
 [TreatSisterByPeropero]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatSisterByPeropero]
@@ -335,17 +335,17 @@
 [TreatChildBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatChildBySurisuri]
@@ -354,17 +354,17 @@
 [TreatPartnerBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatPartnerBySurisuri]
@@ -373,17 +373,17 @@
 [TreatFatherBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatFatherBySurisuri]
@@ -392,17 +392,17 @@
 [TreatMotherBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatMotherBySurisuri]
@@ -411,17 +411,17 @@
 [TreatElderSisterBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatElderSisterBySurisuri]
@@ -430,17 +430,17 @@
 [TreatSisterBySurisuri]
 	<normal>
 		<baby>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</baby>
 		<child>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
+			JaaoJaao...
+			Jaoon...
 		</child>
 		<adult>
-			じゃーおじゃーお、、、
-			じゃおーん、、、
-			じゃおっ！じゃおっ！
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
 		</adult>
 	</normal>
 [/TreatSisterBySurisuri]
@@ -449,10 +449,10 @@
 [LookForParents]
 	<normal>
 		<baby>
-			ちゃお、ちゃおぅぅ、、、
+			Chao,chaouu...
 		</baby>
 		<child>
-			じゃお、じゃおぅぅ、、、
+			Jao,Jaouu...
 		</child>
 		<adult>
 			%dummy
@@ -464,17 +464,17 @@
 [RootForPartner]
 	<normal>
 		<baby>
-			じゃーお！じゃーお！
-			じゃおーんじゃおーんじゃおーーん！！！
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
 		</baby>
 		<child>
-			じゃーお！じゃーお！
-			じゃおーんじゃおーんじゃおーーん！！！
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
 		</child>
 		<adult>
-			じゃーお！じゃーお！
-			じゃおーんじゃおーんじゃおーーん！！！
-			じゃおじゃお、じゃおーんじゃおーん！じゃーおーーん！！！
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
+			JaoJao,JaoonJaoon!Jaaooon!!!
 		</adult>
 	</normal>
 [/RootForPartner]
@@ -483,13 +483,13 @@
 [FirstGreeting]
 	<normal>
 		<baby>
-			おちびちゃん！ じゃおじゃおっ！
+			Little one! JaoJao!
 		</baby>
 		<child>
-			おちびちゃん！ じゃおじゃおっ！
+			Little one! JaoJao!
 		</child>
 		<adult>
-			おちびちゃん！ じゃおじゃおっ！
+			Little one! JaoJao!
 		</adult>
 	</normal>
 [/FirstGreeting]
@@ -497,186 +497,186 @@
 # ゆっくりしているすぃーを見て
 [YukkuringSui]
 	<normal>
-		すぃー！ じゃお～ん！
+		Suii! Jao~n!
 	</normal>
 [/YukkuringSui]
 
 # すぃーを欲しがる
 [WantingSui]
 	<normal>
-		すぃー！ じゃおじゃお♪
+		Suii! JaoJao♪
 	</normal>
 [/WantingSui]
 
 # すぃーを欲しがっているゆっくりのパートナー
 [WantingSuiPartner]
 	<normal>
-		すぃー！ じゃおじゃおっ！
+		Suii! JaoJao!
 	</normal>
 [/WantingSuiPartner]
 
 # すぃーを欲しがっているゆっくりの親
 [WantingSuiParent]
 	<normal>
-		すぃー！じゃおっ！じゃおっ！
+		Suii!Jao!Jao!
 	</normal>
 [/WantingSuiParent]
 
 # すぃーを見つける
 [FindSui]
 	<normal>
-		すぃー！ じゃおーん！
+		Suii! Jaoon!
 	</normal>
 [/FindSui]
 
 # すぃーを自分のものにする
 [GetSui]
 	<normal>
-		すぃー！ じゃおじゃおっ！
+		Suii! JaoJao!
 	</normal>
 [/GetSui]
 
 # 自分のすぃーにのりにいく
 [FindGetSui]
 	<normal>
-		じゃおっ！
+		Jao!
 	</normal>
 [/FindGetSui]
 
 # 自分以外のすぃーにのりにいく
 [FindGetSuiOtner]
 	<normal>
-		じゃおじゃおっ！
+		JaoJao!
 	</normal>
 [/FindGetSuiOtner]
 
 # 自分以外のすぃーにのりにいくときに呼ぶ
 [WantRideSuiOtner]
 	<normal>
-		じゃおっ！じゃおっ！
+		Jao!Jao!
 	</normal>
 [/WantRideSuiOtner]
 
 # すぃーにのる
 [RideSui]
 	<normal>
-		じゃおじゃお～！
+		JaoJao~!
 	</normal>
 [/RideSui]
 
 # すぃーにのっている
 [RidingSui]
 	<normal>
-		じゃおじゃお♪
-		じゃおじゃおーん♪
+		JaoJao♪
+		JaoJaoon♪
 	</normal>
 [/RidingSui]
 
 # すぃーを運転する
 [DrivingSui]
 	<normal>
-		じゃおっ！じゃおっ！
+		Jao!Jao!
 	</normal>
 [/DrivingSui]
 
 # すぃーを運転するパートナーをみて（自分はのっていない）
 [DrivingSuiPartner]
 	<normal>
-		%partner！じゃおっ！
+		%partner!Jao!
 	</normal>
 [/DrivingSuiPartner]
 
 # すぃーを運転するこどもをみて（自分はのっていない）
 [DrivingSuiChild]
 	<normal>
-		おちびちゃん！じゃおっ！
+		Little one!Jao!
 	</normal>
 [/DrivingSuiChild]
 
 # すぃーを運転する父親をみて（自分はのっていない）
 [DrivingSuiPAPA]
 	<normal>
-		おとうしゃん！じゃおっ！
+		Papa!Jao!
 	</normal>
 [/DrivingSuiPAPA]
 
 # すぃーを運転する母親をみて（自分はのっていない）
 [DrivingSuiMAMA]
 	<normal>
-		おかあしゃん！じゃおっ！
+		Mama!Jao!
 	</normal>
 [/DrivingSuiMAMA]
 
 # すぃーを運転する姉をみて（自分はのっていない）
 [DrivingSuiOldSister]
 	<normal>
-		おねえちゃん！じゃおっ！
+		Big Sister!Jao!
 	</normal>
 [/DrivingSuiOldSister]
 
 # すぃーを運転する妹をみて（自分はのっていない）
 [DrivingSuiYoungSister]
 	<normal>
-		いもうと！じゃおっ！
+		Little Sister!Jao!
 	</normal>
 [/DrivingSuiYoungSister]
 
 # すぃーから降りる
 [RideOffSui]
 	<normal>
-		じゃお～ん！じゃお～ん！
+		Jao~n!Jao~n!
 	</normal>
 [/RideOffSui]
 
 # 持っているすぃーを自慢する
 [hasSui]
 	<normal>
-		じゃおじゃお じゃおーん！
+		JaoJao Jaoon!
 	</normal>
 	<rude>
-		じゃおじゃお じゃおーん！
+		JaoJao Jaoon!
 	</rude>
 [/hasSui]
 
 # 持っているすぃーを自慢されるパートナー
 [hasSuiPartner]
 	<normal>
-		%partner！じゃおじゃお！
+		%partner!JaoJao!
 	</normal>
 [/hasSuiPartner]
 
 # 子どもの持っているすぃーを自慢される親
 [hasSuiChild]
 	<normal>
-		おちびちゃん！じゃおじゃお！
+		Little one!JaoJao!
 	</normal>
 [/hasSuiChild]
 
 # 父親の持っているすぃーを自慢されるこども
 [hasSuiPAPAChild]
 	<normal>
-		おとうしゃん！じゃおじゃお！
+		Papa!JaoJao!
 	</normal>
 [/hasSuiPAPAChild]
 
 # 母親の持っているすぃーを自慢されるこども
 [hasSuiMAMAChild]
 	<normal>
-		おかあしゃん！じゃおじゃお！
+		Mama!JaoJao!
 	</normal>
 [/hasSuiMAMAChild]
 
 # 姉の持っているすぃーを自慢される
 [hasSuiOldSister]
 	<normal>
-		おねえちゃん！じゃおじゃお！
+		Big Sister!JaoJao!
 	</normal>
 [/hasSuiOldSister]
 
 # 妹の持っているすぃーを自慢される
 [hasSuiYoungSister]
 	<normal>
-		いもうと！じゃおじゃお！
+		Little Sister!JaoJao!
 	</normal>
 [/hasSuiYoungSister]
 
@@ -684,13 +684,13 @@
 [GladAboutChild]
 	<normal>
 		<baby>
-			おちびちゃんっ！じゃーお！じゃーお！
+			Little one!Jaao!Jaao!
 		</baby>
 		<child>
-			おちびちゃんっ！じゃーお！じゃーお！
+			Little one!Jaao!Jaao!
 		</child>
 		<adult>
-			おちびちゃんっ！じゃーお！じゃーお！
+			Little one!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutChild]
@@ -699,13 +699,13 @@
 [GladAboutPartner]
 	<normal>
 		<baby>
-			%partner！じゃーお！じゃーお！
+			%partner!Jaao!Jaao!
 		</baby>
 		<child>
-			%partner！じゃーお！じゃーお！
+			%partner!Jaao!Jaao!
 		</child>
 		<adult>
-			%partner！じゃーお！じゃーお！
+			%partner!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutPartner]
@@ -714,13 +714,13 @@
 [GladAboutFather]
 	<normal>
 		<baby>
-			おとうしゃん！じゃーお！じゃーお！
+			Pyapya!Jaao!Jaao!
 		</baby>
 		<child>
-			おとうしゃん！じゃーお！じゃーお！
+			Dwaddie!Jaao!Jaao!
 		</child>
 		<adult>
-			おとうさん！じゃーお！じゃーお！
+			Papa!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutFather]
@@ -729,13 +729,13 @@
 [GladAboutMother]
 	<normal>
 		<baby>
-			おかあしゃん！じゃーお！じゃーお！
+			Myamya!Jaao!Jaao!
 		</baby>
 		<child>
-			おかあしゃん！じゃーお！じゃーお！
+			Mommie!Jaao!Jaao!
 		</child>
 		<adult>
-			おかあさん！じゃーお！じゃーお！
+			Mama!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutMother]
@@ -744,13 +744,13 @@
 [GladAboutEldersister]
 	<normal>
 		<baby>
-			おねぇしゃん！じゃーお！じゃーお！
+			Big Shishder!Jaao!Jaao!
 		</baby>
 		<child>
-			おねぇしゃん！じゃーお！じゃーお！
+			Big Shishder!Jaao!Jaao!
 		</child>
 		<adult>
-			おねえちゃん！じゃーお！じゃーお！
+			Big Sister!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutEldersister]
@@ -759,13 +759,13 @@
 [GladAboutSister]
 	<normal>
 		<baby>
-			いもうちょ！じゃーお！じゃーお！
+			Liddle Shishder!Jaao!Jaao!
 		</baby>
 		<child>
-			いもうちょ！じゃーお！じゃーお！
+			Liddle Shishder!Jaao!Jaao!
 		</child>
 		<adult>
-			いもうと！じゃーお！じゃーお！
+			Little Sister!Jaao!Jaao!
 		</adult>
 	</normal>
 [/GladAboutSister]
@@ -775,13 +775,13 @@
 [EnvyAboutElderSister]
 	<normal>
 		<baby>
-			じゃお、、、
+			Jao...
 		</baby>
 		<child>
-			じゃお、、、
+			Jao...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/EnvyAboutElderSister]
@@ -790,13 +790,13 @@
 [EnvyAboutSister]
 	<normal>
 		<baby>
-			じゃお、、、
+			Jao...
 		</baby>
 		<child>
-			じゃお、、、
+			Jao...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/EnvyAboutSister]
@@ -805,13 +805,13 @@
 [EnvyAboutOther]
 	<normal>
 		<baby>
-			じゃお、、、
+			Jao...
 		</baby>
 		<child>
-			じゃお、、、
+			Jao...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/EnvyAboutOther]
@@ -821,13 +821,13 @@
 [EnvyCryAboutElderSister]
 	<normal>
 		<baby>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</baby>
 		<child>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</child>
 		<adult>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</adult>
 	</normal>
 [/EnvyCryAboutElderSister]
@@ -836,13 +836,13 @@
 [EnvyCryAboutSister]
 	<normal>
 		<baby>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</baby>
 		<child>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</child>
 		<adult>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</adult>
 	</normal>
 [/EnvyCryAboutSister]
@@ -851,13 +851,13 @@
 [EnvyCryAboutOther]
 	<normal>
 		<baby>
-			じゃおおおぉぉん！！！
+			Jaooooon!!!
 		</baby>
 		<child>
-			じゃおおおぉぉん！！！
+			Jaooooon!!!
 		</child>
 		<adult>
-			じゃおおおぉぉん！！！
+			Jaooooon!!!
 		</adult>
 	</normal>
 [/EnvyCryAboutOther]
@@ -867,13 +867,13 @@
 [HateWithEnvyAboutChild]
 	<normal>
 		<baby>
-			おちびちゃん、、じゃおぉ、、
+			Little one..Jaoo..
 		</baby>
 		<child>
-			おちびちゃん、、じゃおぉ、、
+			Little one..Jaoo..
 		</child>
 		<adult>
-			おちびちゃん、、じゃおぉ、、
+			Little one..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutChild]
@@ -882,13 +882,13 @@
 [HateWithEnvyAboutPartner]
 	<normal>
 		<baby>
-			%partner、、じゃおぉ、、
+			%partner..Jaoo..
 		</baby>
 		<child>
-			%partner、、じゃおぉ、、
+			%partner..Jaoo..
 		</child>
 		<adult>
-			%partner、、じゃおぉ、、
+			%partner..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutPartner]
@@ -897,13 +897,13 @@
 [HateWithEnvyAboutFather]
 	<normal>
 		<baby>
-			おとうしゃん、、じゃおぉ、、
+			Pyapya..Jaoo..
 		</baby>
 		<child>
-			おとうしゃん、、じゃおぉ、、
+			Dwaddie..Jaoo..
 		</child>
 		<adult>
-			おとうしゃん、、じゃおぉ、、
+			Papa..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutFather]
@@ -912,13 +912,13 @@
 [HateWithEnvyAboutMother]
 	<normal>
 		<baby>
-			おかあしゃん、、じゃおぉ、、
+			Myamya..Jaoo..
 		</baby>
 		<child>
-			おかあしゃん、、じゃおぉ、、
+			Mommie..Jaoo..
 		</child>
 		<adult>
-			おかあしゃん、、じゃおぉ、、
+			Mama..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutMother]
@@ -927,13 +927,13 @@
 [HateWithEnvyAboutElderSister]
 	<normal>
 		<baby>
-			おねぇしゃん、、じゃおぉ、、
+			Big Shishder..Jaoo..
 		</baby>
 		<child>
-			おねぇしゃん、、じゃおぉ、、
+			Big Shishder..Jaoo..
 		</child>
 		<adult>
-			おねぇちゃん、、じゃおぉ、、
+			Big Sister..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutElderSister]
@@ -942,13 +942,13 @@
 [HateWithEnvyAboutSister]
 	<normal>
 		<baby>
-			いもうちょ、、じゃおぉ、、
+			Liddle Shishder..Jaoo..
 		</baby>
 		<child>
-			いもうちょ、、じゃおぉ、、
+			Liddle Shishder..Jaoo..
 		</child>
 		<adult>
-			いもうと、、じゃおぉ、、
+			Little Sister..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutSister]
@@ -957,13 +957,13 @@
 [HateWithEnvyAboutOther]
 	<normal>
 		<baby>
-			じゃおぉ、、じゃおぉ、、
+			Jaoo..Jaoo..
 		</baby>
 		<child>
-			じゃおぉ、、じゃおぉ、、
+			Jaoo..Jaoo..
 		</child>
 		<adult>
-			じゃおぉ、、じゃおぉ、、
+			Jaoo..Jaoo..
 		</adult>
 	</normal>
 [/HateWithEnvyAboutOther]
@@ -972,13 +972,13 @@
 [MercyAboutOther]
 	<normal>
 		<baby>
-			じゃおおおぉぉ、、、
+			Jaooooo...
 		</baby>
 		<child>
-			じゃおおおぉぉ、、、
+			Jaooooo...
 		</child>
 		<adult>
-			じゃおおおぉぉ、、、
+			Jaooooo...
 		</adult>
 	</normal>
 [/MercyAboutOther]
@@ -990,17 +990,17 @@
 [SuriSuriByPlayer]
 	<normal>
 		<baby>
-			じゃおじゃお♪
-			じゃ〜お〜♪
+			JaoJao♪
+			Ja〜o〜♪
 		</baby>
 		<child>
-			じゃおじゃお♪
-			じゃ〜お〜♪
+			JaoJao♪
+			Ja〜o〜♪
 		</child>
 		<adult>
-			じゃおじゃお♪
-			じゃ〜お〜♪
-			じゃおぉぉん♥
+			JaoJao♪
+			Ja〜o〜♪
+			Jaooon♥
 		</adult>
 	</normal>
 [/SuriSuriByPlayer]
@@ -1009,13 +1009,13 @@
 [EnvyAboutElderSisterInSurisuri]
 	<normal>
 		<baby>
-			おねぇしゃん、、じゃおぉ、、
+			Big Shishder..Jaoo..
 		</baby>
 		<child>
-			おねぇしゃん、、じゃおぉ、、
+			Big Shishder..Jaoo..
 		</child>
 		<adult>
-			おねぇちゃん、、じゃおぉ、、
+			Big Sister..Jaoo..
 		</adult>
 	</normal>
 [/EnvyAboutElderSisterInSurisuri]
@@ -1024,13 +1024,13 @@
 [EnvyAboutSisterInSurisuri]
 	<normal>
 		<baby>
-			いもうちょ、、じゃおぉ、、
+			Liddle Shishder..Jaoo..
 		</baby>
 		<child>
-			おねぇしゃん、、じゃおぉ、、
+			Liddle Shishder..Jaoo..
 		</child>
 		<adult>
-			おねぇちゃん、、じゃおぉ、、
+			Little Sister..Jaoo..
 		</adult>
 	</normal>
 [/EnvyAboutSisterInSurisuri]
@@ -1041,13 +1041,13 @@
 [EnvyCryAboutElderSisterInSurisuri]
 	<normal>
 		<baby>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</baby>
 		<child>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</child>
 		<adult>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</adult>
 	</normal>
 [/EnvyCryAboutElderSisterInSurisuri]
@@ -1056,13 +1056,13 @@
 [EnvyCryAboutSisterInSurisuri]
 	<normal>
 		<baby>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</baby>
 		<child>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</child>
 		<adult>
-			じゃおぉーん！じゃおぉーーん！
+			Jaooon!Jaoooon!
 		</adult>
 	</normal>
 [/EnvyCryAboutSisterInSurisuri]
@@ -1073,120 +1073,120 @@
 # 声かけ(親側)
 [ShitExercisesGOFrom]
 	<normal>
-		じゃおじゃおっ！
-		じゃおじゃお！じゃお〜ん！
+		JaoJao!
+		JaoJao!Jao〜n!
 	</normal>
 [/ShitExercisesGOFrom]
 
 # 待機(親側)
 [ShitExercisesWAITFrom]
 	<normal>
-		じゃおっ！じゃおじゃお？
+		Jao!JaoJao?
 	</normal>
 [/ShitExercisesWAITFrom]
 
 # イベント開始(親側)
 [ShitExercisesSTARTFrom]
 	<normal>
-		じゃおじゃお、じゃお〜ん♪
+		JaoJao,Jao〜n♪
 	</normal>
 [/ShitExercisesSTARTFrom]
 
 # ゆらゆら(親側)
 [ShitExercisesYURAYURAFrom]
 	<normal>
-		♪じゃおじゃお じゃ〜お♪ じゃ〜お♪
+		♪JaoJao Ja〜o♪ Ja〜o♪
 	</normal>
 [/ShitExercisesYURAYURAFrom]
 
 # のびのび(親側)
 [ShitExercisesNOBINOBIFrom]
 	<normal>
-		♪じゃおじゃお じゃおじゃお じゃ〜お♪ じゃ〜お♪
+		♪JaoJao JaoJao Ja〜o♪ Ja〜o♪
 	</normal>
 [/ShitExercisesNOBINOBIFrom]
 
 # ぽかぽか(親側)
 [ShitExercisesPOKAPOKAFrom]
 	<normal>
-		♪じゃおじゃお じゃおじゃお じゃおぉ〜ん♪
+		♪JaoJao JaoJao Jaoo〜n♪
 	</normal>
 [/ShitExercisesPOKAPOKAFrom]
 
 # うんうん(親側)
 [ShitExercisesUNUNFrom]
 	<normal>
-		♪じゃおじゃお じゃおじゃお じゃおっじゃおっ♪
+		♪JaoJao JaoJao JaoJao♪
 	</normal>
 [/ShitExercisesUNUNFrom]
 
 # イベント終了(親側)
 [ShitExercisesENDFrom]
 	<normal>
-		じゃお〜ん！じゃおじゃおっ！
-		じゃお〜、、、おちびちゃんっ、じゃおじゃおっ！
+		Jao〜n!JaoJao!
+		Jao〜...Little one,JaoJao!
 	</normal>
 [/ShitExercisesENDFrom]
 #---------------------------
 # 声かけ(子側)
 [ShitExercisesGO]
 	<normal>
-		じゃお〜ん♪
-		じゃおぉ～♪
-		じゃお！
+		Jao〜n♪
+		Jaoo~♪
+		Jao!
 	</normal>
 [/ShitExercisesGO]
 
 # 待機(子側)
 [ShitExercisesWAIT]
 	<normal>
-		じゃおっ♪
-		じゃおじゃおっ♪
+		Jao♪
+		JaoJao♪
 	</normal>
 [/ShitExercisesWAIT]
 
 # イベント開始(子側)
 [ShitExercisesSTART]
 	<normal>
-		じゃおー！
-		じゃおじゃおー！
+		Jaoo!
+		JaoJaoo!
 	</normal>
 [/ShitExercisesSTART]
 
 # ゆらゆら(子側)
 [ShitExercisesYURAYURA]
 	<normal>
-		じゃおっ
-		じゃお〜っ
-		じゃ〜おじゃ〜お
+		Jao
+		Jao〜
+		Ja〜oJa〜o
 	</normal>
 [/ShitExercisesYURAYURA]
 
 # のびのび(子側)
 [ShitExercisesNOBINOBI]
 	<normal>
-		じゃおー！
-		じゃおお〜っ
-		じゃおお〜ん
-		じゃーお じゃーお
+		Jaoo!
+		Jaoo〜
+		Jaoo〜n
+		Jaao Jaao
 	</normal>
 [/ShitExercisesNOBINOBI]
 
 # ぽかぽか(子側)
 [ShitExercisesPOKAPOKA]
 	<normal>
-		じゃお〜
-		じゃおっ！じゃおっ！
-		じゃおお〜ん
+		Jao〜
+		Jao!Jao!
+		Jaoo〜n
 	</normal>
 [/ShitExercisesPOKAPOKA]
 
-# うんうん(子側)
+# うnうn(子側)
 [ShitExercisesUNUN]
 	<normal>
-		じゃおじゃおっ！
-		じゃおっ！
-		じゃおじゃお じゃお〜ん！
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
 	</normal>
 [/ShitExercisesUNUN]
 
@@ -1194,18 +1194,18 @@
 # 家族で食事をする
 [FamilyEatingTimeWait]
 	<normal>
-		じゃおじゃおっ！
-		じゃおっ！
-		じゃおじゃお じゃお〜ん！
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
 	</normal>
 [/FamilyEatingTimeWait]
 
 # すーぱーむーしゃむーしゃたいむ
 [SuperEatingTime]
 	<normal>
-		じゃおじゃおっ！
-		じゃおっ！
-		じゃおじゃお じゃお〜ん！
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
 	</normal>
 [/SuperEatingTime]
 
@@ -1213,7 +1213,7 @@
 [RideOnMe]
 	<normal>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/RideOnMe]
@@ -1222,13 +1222,13 @@
 [ProudChildsSING]
 	<normal>
 		<baby>
-			ちゃお～ん、ちゃお～ん♪
+			Chao~n,Chao~n♪
 		</baby>
 		<child>
-			ちゃお～ん、ちゃお～ん♪
+			Chao~n,Chao~n♪
 		</child>
 		<adult>
-			じゃお～ん、じゃお～ん♪
+			Jao~n,Jao~n♪
 		</adult>
 	</normal>
 
@@ -1238,13 +1238,13 @@
 [ProudChildsGOFrom]
 	<normal>
 		<baby>
-			ちゃお！
+			Chao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/ProudChildsGOFrom]
@@ -1253,13 +1253,13 @@
 [ProudChildsSTARTFrom]
 	<normal>
 		<baby>
-			ちゃお！
+			Chao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/ProudChildsSTARTFrom]
@@ -1268,13 +1268,13 @@
 [ProudChildsPROUDFrom]
 	<normal>
 		<baby>
-			ちゃおーん！
+			Chaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/ProudChildsPROUDFrom]
@@ -1283,13 +1283,13 @@
 [ProudChildsENDFrom]
 	<normal>
 		<baby>
-			ちゃおーん！
+			Chaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/ProudChildsENDFrom]
@@ -1298,13 +1298,13 @@
 [ProudChildsGO]
 	<normal>
 		<baby>
-			ちゃお！
+			Chao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/ProudChildsGO]
@@ -1313,13 +1313,13 @@
 [ProudChildsSTART]
 	<normal>
 		<baby>
-			ちゃお！
+			Chao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/ProudChildsSTART]
@@ -1328,13 +1328,13 @@
 [ProudChildsPROUD]
 	<normal>
 		<baby>
-			ちゃおーん！
+			Chaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/ProudChildsPROUD]
@@ -1343,13 +1343,13 @@
 [ProudChildsEND]
 	<normal>
 		<baby>
-			ちゃおーん！
+			Chaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/ProudChildsEND]
@@ -1357,49 +1357,49 @@
 # 子供がかびた
 [SadnessForMoldyChild]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForMoldyChild]
 
 # つがいがかびた
 [SadnessForMoldyPartner]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForMoldyPartner]
 
 # 姉がかびた
 [SadnessForMoldyElderSister]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForMoldyElderSister]
 
 # 妹がかびた
 [SadnessForMoldySister]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForMoldySister]
 
 #子供に謝罪
 [ApologyToChild]
 	<normal>
-		じゃおー、、、
+		Jaoo...
 	</normal>
 [/ApologyToChild]
 
 #謝罪
 [ApologyToFamily]
 	<normal>
-		じゃおー、、、
+		Jaoo...
 	</normal>
 [/ApologyToFamily]
 
 #かびゆヘイト
 [HateMoldyYukkuri]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/HateMoldyYukkuri]
 
@@ -1414,30 +1414,30 @@
 [ApologyToHuman]
 	<normal>
 		<baby>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおぉぉーん！！！にんげんぢゃびゃぁぁぁぁ！！じゃっおぉぉぉん！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishcha Humaaaan!!Jaoooon!!
 		</baby>
 		<child>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおぉぉーん！！！にんげんぢゃびゃぁぁぁぁ！！じゃっおぉぉぉん！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishta Humaaaan!!Jaoooon!!
 		</child>
 		<adult>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおぉぉーん！！！にんげんぢゃびゃぁぁぁぁ！！じゃっおぉぉぉん！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mister Humaaan!!Jaoooon!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおぉぉーん！！！にんげんぢゃびゃぁぁぁぁ！！じゃっおぉぉぉん！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishcha Humaaaan!!Jaoooon!!
 		</baby>
 		<child>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおぉぉーん！！！にんげんぢゃびゃぁぁぁぁ！！じゃっおぉぉぉん！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishta Humaaaan!!Jaoooon!!
 		</child>
 		<adult>
-			じゃおぉぉぉぉぉぉ！！！じゃお！じゃおぉぉぉぉ！！
-			じゃおー！！！にんげんさまぁぁぁぁ！！じゃおぉぉぉ！！
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoo!!!Mister Humaaan!!Jaoooo!!
 		</adult>
 	</rude>
 [/ApologyToHuman]
@@ -1446,16 +1446,16 @@
 [BegForLife]
 	<normal>
 		<baby>
-			みゃっちりょーにんげんぢゃびゃぁぁぁぁ！！じゃおーぉぉぉ！！！じゃおーぉぉぉ！！！
-			ぢゃおっ！！？じゃおぉぉぉ！！じゃおおぉぉーーー！！！
+			Waiiich-Mishcha Humaaaan!!Jaooooo!!!Jaooooo!!!
+			Chao!!?Jaoooo!!Jaooooooo!!!
 		</baby>
 		<child>
-			みゃっちりょーにんげんぢゃびゃぁぁぁぁ！！じゃおーぉぉぉ！！！じゃおーぉぉぉ！！！
-			ぢゃおっ！！？じゃおぉぉぉ！！じゃおおぉぉーーー！！！
+			Waiiich-Mishta Humaaaan!!Jaooooo!!!Jaooooo!!!
+			Chao!!?Jaoooo!!Jaooooooo!!!
 		</child>
 		<adult>
-			じゃおーにんげんさまぁぁぁぁ！！じゃおーぉぉぉ！！！じゃおーぉぉぉ！！！
-			じゃお！！？じゃお！！じゃおおぉぉーーー！！！
+			JaooMister Humaaan!!Jaooooo!!!Jaooooo!!!
+			Jao!!?Jao!!Jaooooooo!!!
 		</adult>
 	</normal>
 [/BegForLife]
@@ -1464,36 +1464,36 @@
 [ThanksHuman]
 	<normal>
 		<baby>
-			にんぎぇんちゃんっ！！じゃおぉぉぉ！！
-			じゃおーーー！！じゃおーーー！！
-			ちゃおぉーおにいちゃん！！ゆっぎゅり！！ゆっきゅりぃぃぃ！！
+			Mishcha!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Chaooo Mishcha!!Eajy!!Eajy!!
 		</baby>
 		<child>
-			にんぎぇんしゃんっ！！じゃおぉぉぉ！！
-			じゃおーーー！！じゃおーーー！！
-			じゃおーおにいしゃん！！ゆっぎゅり！！ゆっきゅりぃぃぃ！！
+			Mishta!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Jaoo Mishta!!Eajy!!Eajy!!
 		</child>
 		<adult>
-			にんげんさんっ！！じゃおぉぉ
-			じゃおーーー！！じゃおーーー！！
-			じゃおーおにいさん！！ゆっくり！！ゆっくりぃぃぃ！！
+			Human!!Jaooo
+			Jaoooo!!Jaoooo!!
+			Jaoo Mister!!Easy!!Easy!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			にんぎぇんっ！！じゃおぉぉぉ！！
-			じゃおーーー！！じゃおーーー！！
-			ちゃおぉーおにいちゃん！！ゆっぎゅり！！ゆっきゅりぃぃぃ！！
+			Mishcha!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Chaooo Mishcha!!Eajy!!Eajy!!
 		</baby>
 		<child>
-			にんぎぇんっ！！じゃおぉぉぉ！！
-			じゃおーーー！！じゃおーーー！！
-			じゃおーおにいしゃん！！ゆっぎゅり！！ゆっきゅりぃぃぃ！！
+			Mishta!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Jaoo Mishta!!Eajy!!Eajy!!
 		</child>
 		<adult>
-			にんげんっ！！じゃおぉぉ
-			じゃおーーー！！じゃおーーー！！
-			じゃおーおにいさん！！ゆっくり！！ゆっくりぃぃぃ！！
+			Human!!Jaooo
+			Jaoooo!!Jaoooo!!
+			Jaoo Mister!!Easy!!Easy!!
 		</adult>
 	</rude>
 [/ThanksHuman]
@@ -1502,30 +1502,30 @@
 [ThanksHuman2]
 	<normal>
 		<baby>
-			じゃ、じゃおぉ、、にんげん、ぢゃ、、
-			じゃお、、、
+			Ja,Jaoo..Human..
+			Jao...
 		</baby>
 		<child>
-			じゃ、じゃおぉ、、にんげん、じゃ、、
-			じゃお、、、
+			Ja,Jaoo..Human..
+			Jao...
 		</child>
 		<adult>
-			じゃ、じゃおぉ、、にんげん、ざ、、
-			じゃお、、、
+			Ja,Jaoo..Human..
+			Jao...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃ、じゃおぉ、、にんげん、、
-			じゃお、、、じゃお、、？
+			Ja,Jaoo..Human..
+			Jao...Jao..?
 		</baby>
 		<child>
-			じゃ、じゃおぉ、、にんげん、、
-			じゃお、、、じゃお？
+			Ja,Jaoo..Human..
+			Jao...Jao?
 		</child>
 		<adult>
-			じゃ、じゃおぉ、、にんげん、、
-			じゃお、、、じゃお？
+			Ja,Jaoo..Human..
+			Jao...Jao?
 		</adult>
 	</rude>
 [/ThanksHuman2]
@@ -1534,47 +1534,47 @@
 [Monologue]
 	<normal>
 		<baby>
-			じゃお、、にんげんちゃ、、、
+			Jao..Mishcha Human...
 			<damage>
-				ゆふー、、じゃお、、、
+				Yufuu..Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお、、にんげんしゃ、、、
+			Jao..Mishta Human...
 			<damage>
-				ゆふー、、じゃお、、、
+				Yufuu..Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお、、にんげんさん、、、
+			Jao..Mister Human...
 			<damage>
-				ゆふー、、じゃお、、、
+				Yufuu..Jao...
 			</damage>
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお、、にんげん、、、
-			ぢゃおらっ、、、にんげんん、、、
+			Jao..Human...
+			Chaora...Human...
 			<damage>
-				ゆふー、、じゃお、、、
-				じゃお、、、
+				Yufuu..Jao...
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお、、にんげん、、、
-			じゃおらっ、、、にんげんん、、、
+			Jao..Human...
+			Jaora...Human...
 			<damage>
-				ゆふー、、じゃお、、、
-				じゃお、、、
+				Yufuu..Jao...
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお、、にんげん、、、
-			じゃおら、、、にんげんん、、、
+			Jao..Human...
+			Jaora...Human...
 			<damage>
-				ゆふー、、じゃお、、、
+				Yufuu..Jao...
 				
 			</damage>
 			</damage>
@@ -1589,10 +1589,10 @@
 			%dummy
 		</baby>
 		<child>
-			おちびちゃん、じゃお、、、
+			Little one,Jao...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/FuneralSTARTFrom]
@@ -1600,7 +1600,7 @@
 # おそうしきすたーと(子側)
 [FuneralSTART]
 	<normal>
-		、、、じゃお
+		...Jao
 	</normal>
 [/FuneralSTART]
 
@@ -1611,10 +1611,10 @@
 			%dummy
 		</baby>
 		<child>
-			じゃおお～
+			Jaoo~
 		</child>
 		<adult>
-			じゃおお～
+			Jaoo~
 		</adult>
 	</normal>
 [/FuneralIntroduceFrom]
@@ -1623,16 +1623,16 @@
 [FuneralIntroduce]
 	<normal>
 		<baby>
-			ゆっ！じゃおっ！
-			じゃお！！
+			Yu!Jao!
+			Jao!!
 		</baby>
 		<child>
-			ゆっ！じゃおっ！
-			じゃおっ！！
+			Yu!Jao!
+			Jao!!
 		</child>
 		<adult>
-			ゆっ！じゃおっ！
-			じゃおっ！！
+			Yu!Jao!
+			Jao!!
 		</adult>
 	</normal>
 [/FuneralIntroduce]
@@ -1641,28 +1641,28 @@
 [Requiem]
 	<normal>
 		<baby>
-			ゆっきゅち♪ゆっきゅち♪ゆっきゅち♪ゆっきゅち♪
-			ゆっ♪ゆっ♪ゆっきゅち♪ゆ～♪ゆ～♪ゆっきゅち♪
-			じゃおじゃおゆっきゅち、じゃーおじゃお～♪じゃおじゃおゆっきゅち、じゃーおじゃお～～♪
-			じゃお♪ゆっきゅち♪じゃーお♪じゃお～～
-			じゃーお～♪ゆっきゅち～♪あぁ～♪おねーちゃ～♪
-			じゃ～お～じゃ～お～～～
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Big Shishder~♪
+			Ja~o~Ja~o~~~
 		</baby>
 		<child>
-			ゆっきゅり♪ゆっきゅり♪ゆっきゅり♪ゆっきゅり♪
-			ゆっ♪ゆっ♪ゆっきゅり♪ゆ～♪ゆ～♪ゆっきゅり♪
-			じゃおじゃおゆっきゅり、じゃーおじゃお～♪じゃおじゃおゆっきゅり、じゃーおじゃお～～♪
-			じゃお♪ゆっきゅり♪じゃーお♪じゃお～～
-			じゃーお～♪ゆっきゅり～♪あぁ～♪いもーと～♪
-			じゃ～お～じゃ～お～～～
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Liddle Shishder~♪
+			Ja~o~Ja~o~~~
 		</child>
 		<adult>
-			ゆっくり♪ゆっくり♪ゆっくり♪ゆっくり♪
-			ゆっ♪ゆっ♪ゆっくり♪ゆ～♪ゆ～♪ゆっくり♪
-			じゃおじゃおゆっくり、じゃーおじゃお～♪じゃおじゃおゆっくし、じゃーおじゃお～～♪
-			じゃお♪ゆっくり♪じゃーお♪じゃお～～
-			じゃーお～♪ゆっくり～♪あぁ～♪いもーと～♪
-			じゃ～お～じゃ～お～～～
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Little Sister~♪
+			Ja~o~Ja~o~~~
 		</adult>
 	</normal>
 [/Requiem]
@@ -1671,22 +1671,22 @@
 [FuneralTalk]
 	<normal>
 		<baby>
-			じゃおっ！
-			ゆゆ～ん♪
-			じゃおーー！
-			ゆゆ～ん♪じゃおっ！！
+			Jao!
+			YuYu~n♪
+			Jaooo!
+			YuYu~n♪Jao!!
 		</baby>
 		<child>
-			じゃおっ！
-			ゆゆ～ん♪
-			じゃおー！
-			ゆゆ～ん♪じゃおっ！！
+			Jao!
+			YuYu~n♪
+			Jaoo!
+			YuYu~n♪Jao!!
 		</child>
 		<adult>
-			じゃおっ！
-			ゆゆ～ん♪
-			じゃおー！
-			ゆゆ～ん♪じゃおっ！！
+			Jao!
+			YuYu~n♪
+			Jaoo!
+			YuYu~n♪Jao!!
 		</adult>
 	</normal>
 [/FuneralTalk]
@@ -1695,13 +1695,13 @@
 [GoodbyeForever]
 	<normal>
 		<baby>
-			じゃおっ！！
+			Jao!!
 		</baby>
 		<child>
-			じゃおっ！！
+			Jao!!
 		</child>
 		<adult>
-			じゃおっ！！
+			Jao!!
 		</adult>
 	</normal>
 [/GoodbyeForever]
@@ -1713,10 +1713,10 @@
 			%dummy
 		</baby>
 		<child>
-			じゃお～？
+			Jao~?
 		</child>
 		<adult>
-			じゃお～？
+			Jao~?
 		</adult>
 	</normal>
 [/FuneralENDFrom]
@@ -1725,13 +1725,13 @@
 [FuneralEND]
 	<normal>
 		<baby>
-			じゃおっ！！
+			Jao!!
 		</baby>
 		<child>
-			じゃおっ！！
+			Jao!!
 		</child>
 		<adult>
-			じゃおっ！！
+			Jao!!
 		</adult>
 	</normal>
 [/FuneralEND]
@@ -1741,24 +1741,24 @@
 [EatenByAnts]
 	<normal>
 		<baby>
-			ぢゃおぉぉぉぉん！！
+			Chaooooon!!
 		</baby>
 		<child>
-			じゃおぉぉぉぉん！！
+			Jaooooon!!
 		</child>
 		<adult>
-			じゃおぉぉぉぉん！！
+			Jaooooon!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぢゃおぉぉぉぉん！！！
+			Chaooooon!!!
 		</baby>
 		<child>
-			じゃおぉぉぉぉん！！！
+			Jaooooon!!!
 		</child>
 		<adult>
-			じゃおぉぉぉぉん！！！
+			Jaooooon!!!
 		</adult>
 	</rude>
 [/EatenByAnts]
@@ -1766,24 +1766,24 @@
 [RevengeAnts]
 	<normal>
 		<baby>
-			ぢゃおりゃぁぁ！！
+			Chaoryaaa!!
 		</baby>
 		<child>
-			じゃおらぁぁ！！
+			Jaoraaa!!
 		</child>
 		<adult>
-			じゃおらぁぁ！！
+			Jaoraaa!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぢゃおりゃぁぁ！！！
+			Chaoryaaa!!!
 		</baby>
 		<child>
-			じゃおらぁぁ！！！
+			Jaoraaa!!!
 		</child>
 		<adult>
-			じゃおらぁぁ！！！
+			Jaoraaa!!!
 		</adult>
 	</rude>
 [/RevengeAnts]
@@ -1793,13 +1793,13 @@
 [PleaseWait]
 	<normal>
 		<baby>
-			じゃおじゃお！！じゃお～ん！
+			JaoJao!!Jao~n!
 		</baby>
 		<child>
-			じゃおじゃお！！じゃお～ん！
+			JaoJao!!Jao~n!
 		</child>
 		<adult>
-			じゃおじゃお！！じゃお～ん！
+			JaoJao!!Jao~n!
 		</adult>
 	</normal>
 [/PleaseWait]
@@ -1808,24 +1808,24 @@
 [Propose]
 	<normal>
 		<baby>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</baby>
 		<child>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</child>
 		<adult>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</baby>
 		<child>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</child>
 		<adult>
-			じゃお！じゃお！じゃおじゃお！
+			Jao!Jao!JaoJao!
 		</adult>
 	</rude>
 [/Propose]
@@ -1834,16 +1834,16 @@
 [ProposeYes]
 	<normal>
 		<baby>
-			じゃお！じゃおじゃおーん！！
-			じゃお//じゃお…じゃおじゃおー！
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
 		</baby>
 		<child>
-			じゃお！じゃおじゃおーん！！
-			じゃお//じゃお…じゃおじゃおー！
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
 		</child>
 		<adult>
-			じゃお！じゃおじゃおーん！！
-			じゃお//じゃお…じゃおじゃおー！
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
 		</adult>
 	</normal>
 [/ProposeYes]
@@ -1852,16 +1852,16 @@
 [ProposeNo]
 	<normal>
 		<baby>
-			ちゃお、、、じゃお、じゃおじゃおー、、、
-			じゃお、じゃおじゃお～、、、
+			chao...Jao,JaoJaoo...
+			Jao,JaoJao~...
 		</baby>
 		<child>
-			じゃお、、、じゃお、じゃおじゃおー、、、
-			じゃお、じゃおじゃお～、、、
+			Jao...Jao,JaoJaoo...
+			Jao,JaoJao~...
 		</child>
 		<adult>
-			じゃお、、、じゃお、じゃおじゃおー、、、
-			じゃお、じゃおじゃお～、、、
+			Jao...Jao,JaoJaoo...
+			Jao,JaoJao~...
 		</adult>
 	</normal>
 [/ProposeNo]
@@ -1870,19 +1870,19 @@
 [LetsPlay]
 	<normal>
 		<baby>
-			ぢゃお、、//
-			じゃお…じゃおじゃおおぉ…
-			じゃお、、じゃおじゃおじゃおぉ、、、
+			Chao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
 		</baby>
 		<child>
-			じゃお、、//
-			じゃお…じゃおじゃおおぉ…
-			じゃお、、じゃおじゃおじゃおぉ、、、
+			Jao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
 		</child>
 		<adult>
-			じゃお、、//
-			じゃお…じゃおじゃおおぉ…
-			じゃお、、じゃおじゃおじゃおぉ、、、
+			Jao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
 		</adult>
 	</normal>
 [/LetsPlay]
@@ -1891,27 +1891,27 @@
 [OKcome]
 	<normal>
 		<baby>
-			じゃお、じゃおん//
+			Jao,Jaon//
 		</baby>
 		<child>
-			じゃお、じゃおん//
+			Jao,Jaon//
 		</child>
 		<adult>
-			じゃお、じゃおん//
+			Jao,Jaon//
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお、じゃおん//
-			じゃおおーん！
+			Jao,Jaon//
+			Jaooon!
 		</baby>
 		<child>
-			じゃお、じゃおん//
-			じゃおおーん！
+			Jao,Jaon//
+			Jaooon!
 		</child>
 		<adult>
-			じゃお、じゃおん//
-			じゃおおーん！
+			Jao,Jaon//
+			Jaooon!
 		</adult>
 	</rude>
 [/OKcome]
@@ -1919,8 +1919,8 @@
 #失恋
 [Heartbreak]
 	<normal>
-		じゃぉぉぉぉぉぉぉん！！
-		じゃおぉーーーーーー！？
+		Jaooooooon!!
+		Jaoooooooo!?
 	</normal>
 [/Heartbreak]
 
@@ -1928,24 +1928,24 @@
 [DontPreventUs]
 	<normal>
 		<baby>
-			ぢゃお！じゃおじゃお！
+			Chao!JaoJao!
 		</baby>
 		<child>
-			じゃお！じゃおじゃお！
+			Jao!JaoJao!
 		</child>
 		<adult>
-			じゃお！じゃおじゃお！
+			Jao!JaoJao!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ぢゃおらぁぁ！じゃおじゃおん！
+			Chaoraaa!JaoJaon!
 		</baby>
 		<child>
-			じゃおらぁぁ！じゃおじゃおん！
+			Jaoraaa!JaoJaon!
 		</child>
 		<adult>
-			じゃおらぁぁ！じゃおじゃおん！
+			Jaoraaa!JaoJaon!
 		</adult>
 	</rude>
 [/DontPreventUs]

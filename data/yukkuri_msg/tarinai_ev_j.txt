@@ -1,7 +1,7 @@
 # レイパー怯え
 [ScareRapist]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/ScareRapist]
 
@@ -15,8 +15,8 @@
 			%dummy
 		</child>
 		<adult>
-			ゆっぴー！！！
-			ゆぴぴぃー！！！
+			Yuppii!!!
+			Yupipiii!!!
 		</adult>
 	</normal>
 [/AttackRapist]
@@ -31,8 +31,8 @@
 			%dummy
 		</child>
 		<adult>
-			ゆぴぴー！
-			ゆっぴ！ゆっぴ！ゆぴぴー！！！
+			Yupipii!
+			Yuppi!Yuppi!Yupipii!!!
 		</adult>
 	</normal>
 [/CounterRapist]
@@ -40,14 +40,14 @@
 # おかざりのないゆっくり発見
 [HateYukkuri]
 	<normal>
-		ゆっゆっゆっ？
+		YuYuYu?
 	</normal>
 [/HateYukkuri]
 
 # うんうん奴隷に認定する
 [EngageUnunSlave]
 	<normal>
-		ゆぴぴー！
+		Yupipii!
 	</normal>
 [/EngageUnunSlave]
 
@@ -55,13 +55,13 @@
 [ConcernAboutPartner]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
+			Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、、
+			Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、、
+			Yupii...
 		</adult>
 	</normal>
 
@@ -71,13 +71,13 @@
 [ConcernAboutChild]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
+			Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、、
+			Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、、
+			Yupii...
 		</adult>
 	</normal>
 [/ConcernAboutChild]
@@ -86,16 +86,16 @@
 [ConcernAboutFather]
 	<normal>
 		<baby>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</baby>
 		<child>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</child>
 		<adult>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</adult>
 	</normal>
 [/ConcernAboutFather]
@@ -104,16 +104,16 @@
 [ConcernAboutMother]
 	<normal>
 		<baby>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</baby>
 		<child>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</child>
 		<adult>
-			ゆぴぃ？
-			ゆぅ、、、
+			Yupii?
+			Yuu...
 		</adult>
 	</normal>
 [/ConcernAboutMother]
@@ -122,13 +122,13 @@
 [ConcernAboutEldersister]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
+			Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、、
+			Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、、
+			Yupii...
 		</adult>
 	</normal>
 [/ConcernAboutEldersister]
@@ -137,13 +137,13 @@
 [ConcernAboutSister]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
+			Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、、
+			Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、、
+			Yupii...
 		</adult>
 	</normal>
 [/ConcernAboutSisterr]
@@ -152,13 +152,13 @@
 [TreatChildByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatChildByPeropero]
@@ -167,13 +167,13 @@
 [TreatPartnerByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatPartnerByPeropero]
@@ -182,13 +182,13 @@
 [TreatFatherByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatFatherByPeropero]
@@ -197,13 +197,13 @@
 [TreatMotherByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatMotherByPeropero]
@@ -212,13 +212,13 @@
 [TreatElderSisterByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatElderSisterByPeropero]
@@ -227,13 +227,13 @@
 [TreatSisterByPeropero]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatSisterByPeropero]
@@ -242,13 +242,13 @@
 [TreatChildBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatChildBySurisuri]
@@ -257,13 +257,13 @@
 [TreatPartnerBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatPartnerBySurisuri]
@@ -272,13 +272,13 @@
 [TreatFatherBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatFatherBySurisuri]
@@ -287,13 +287,13 @@
 [TreatMotherBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatMotherBySurisuri]
@@ -302,13 +302,13 @@
 [TreatElderSisterBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatElderSisterBySurisuri]
@@ -317,13 +317,13 @@
 [TreatSisterBySurisuri]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</adult>
 	</normal>
 [/TreatSisterBySurisuri]
@@ -332,10 +332,10 @@
 [LookForParents]
 	<normal>
 		<baby>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、ゆぴぃ、、、
+			Yupii..Yupii...
 		</child>
 		<adult>
 			%dummy
@@ -347,13 +347,13 @@
 [RootForPartner]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/RootForPartner]
@@ -362,13 +362,13 @@
 [FirstGreeting]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/FirstGreeting]
@@ -376,186 +376,186 @@
 # ゆっくりしているすぃーを見て
 [YukkuringSui]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/YukkuringSui]
 
 # すぃーを欲しがる
 [WantingSui]
 	<normal>
-		ゆー！ゆー！
+		Yuu!Yuu!
 	</normal>
 [/WantingSui]
 
 # すぃーを欲しがっているゆっくりのパートナー
 [WantingSuiPartner]
 	<normal>
-		ゆー！ゆー！
+		Yuu!Yuu!
 	</normal>
 [/WantingSuiPartner]
 
 # すぃーを欲しがっているゆっくりの親
 [WantingSuiParent]
 	<normal>
-		ゆー！ゆー！
+		Yuu!Yuu!
 	</normal>
 [/WantingSuiParent]
 
 # すぃーを見つける
 [FindSui]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/FindSui]
 
 # すぃーを自分のものにする
 [GetSui]
 	<normal>
-		ゆー！ゆー！
+		Yuu!Yuu!
 	</normal>
 [/GetSui]
 
 # 自分のすぃーにのりにいく
 [FindGetSui]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/FindGetSui]
 
 # 自分以外のすぃーにのりにいく
 [FindGetSuiOtner]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/FindGetSuiOtner]
 
 # 自分以外のすぃーにのりにいくときに呼ぶ
 [WantRideSuiOtner]
 	<normal>
-		ゆー！ゆー！
+		Yuu!Yuu!
 	</normal>
 [/WantRideSuiOtner]
 
 # すぃーにのる
 [RideSui]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/RideSui]
 
 # すぃーにのっている
 [RidingSui]
 	<normal>
-		ゆっ！ゆっ！ゆっ！
-		ゆぅ～！
+		Yu!Yu!Yu!
+		Yuu~!
 	</normal>
 [/RidingSui]
 
 # すぃーを運転する
 [DrivingSui]
 	<normal>
-		ゆー！
+		Yuu!
 	</normal>
 [/DrivingSui]
 
 # すぃーを運転するパートナーをみて（自分はのっていない）
 [DrivingSuiPartner]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiPartner]
 
 # すぃーを運転するこどもをみて（自分はのっていない）
 [DrivingSuiChild]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiChild]
 
 # すぃーを運転する父親をみて（自分はのっていない）
 [DrivingSuiPAPA]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiPAPA]
 
 # すぃーを運転する母親をみて（自分はのっていない）
 [DrivingSuiMAMA]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiMAMA]
 
 # すぃーを運転する姉をみて（自分はのっていない）
 [DrivingSuiOldSister]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiOldSister]
 
 # すぃーを運転する妹をみて（自分はのっていない）
 [DrivingSuiYoungSister]
 	<normal>
-		ゆっぴ！ゆっぴ！ゆっぴ～！
+		Yuppi!Yuppi!Yuppi~!
 	</normal>
 [/DrivingSuiYoungSister]
 
 # すぃーから降りる
 [RideOffSui]
 	<normal>
-		ゆゆー！
+		YuYuu!
 	</normal>
 [/RideOffSui]
 
 # 持っているすぃーを自慢する
 [hasSui]
 	<normal>
-		ゆっぴ～！
+		Yuppi~!
 	</normal>
 	<rude>
-		ゆっぴ～！
+		Yuppi~!
 	</rude>
 [/hasSui]
 
 # 持っているすぃーを自慢されるパートナー
 [hasSuiPartner]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiPartner]
 
 # こどもの持っているすぃーを自慢される親
 [hasSuiChild]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiChild]
 
 # 父親の持っているすぃーを自慢されるこども
 [hasSuiPAPAChild]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiPAPAChild]
 
 # 母親の持っているすぃーを自慢されるこども
 [hasSuiMAMAChild]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiMAMAChild]
 
 # 姉の持っているすぃーを自慢される
 [hasSuiOldSister]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiOldSister]
 
 # 妹の持っているすぃーを自慢される
 [hasSuiYoungSister]
 	<normal>
-		ゆ～♪ゆ～♪
+		Yu~♪Yu~♪
 	</normal>
 [/hasSuiYoungSister]
 
@@ -563,16 +563,16 @@
 [GladAboutChild]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutChild]
@@ -581,16 +581,16 @@
 [GladAboutPartner]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutPartner]
@@ -599,16 +599,16 @@
 [GladAboutFather]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutFather]
@@ -617,16 +617,16 @@
 [GladAboutMother]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutMother]
@@ -635,16 +635,16 @@
 [GladAboutEldersister]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutEldersister]
@@ -653,16 +653,16 @@
 [GladAboutSister]
 	<normal>
 		<baby>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</baby>
 		<child>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</child>
 		<adult>
-			ゆぴー！
-			ゆ〜♪
+			Yupii!
+			Yu~♪
 		</adult>
 	</normal>
 [/GladAboutSister]
@@ -672,16 +672,16 @@
 [EnvyAboutElderSister]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</baby>
 		<child>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</child>
 		<adult>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</adult>
 	</normal>
 [/EnvyAboutElderSister]
@@ -690,16 +690,16 @@
 [EnvyAboutSister]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</baby>
 		<child>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</child>
 		<adult>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</adult>
 	</normal>
 [/EnvyAboutSister]
@@ -708,16 +708,16 @@
 [EnvyAboutOther]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</baby>
 		<child>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</child>
 		<adult>
-			ゆぴぃ、、、
-			ゆぅ、、、
+			Yupii...
+			Yuu...
 		</adult>
 	</normal>
 [/EnvyAboutOther]
@@ -727,16 +727,16 @@
 [EnvyCryAboutElderSister]
 	<normal>
 		<baby>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</baby>
 		<child>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</child>
 		<adult>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</adult>
 	</normal>
 [/EnvyCryAboutElderSister]
@@ -745,16 +745,16 @@
 [EnvyCryAboutSister]
 	<normal>
 		<baby>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</baby>
 		<child>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</child>
 		<adult>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</adult>
 	</normal>
 [/EnvyCryAboutSister]
@@ -763,16 +763,16 @@
 [EnvyCryAboutOther]
 	<normal>
 		<baby>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</baby>
 		<child>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</child>
 		<adult>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</adult>
 	</normal>
 [/EnvyCryAboutOther]
@@ -782,16 +782,16 @@
 [HateWithEnvyAboutChild]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutChild]
@@ -800,16 +800,16 @@
 [HateWithEnvyAboutPartner]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutPartner]
@@ -818,16 +818,16 @@
 [HateWithEnvyAboutFather]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutFather]
@@ -836,16 +836,16 @@
 [HateWithEnvyAboutMother]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutMother]
@@ -854,16 +854,16 @@
 [HateWithEnvyAboutElderSister]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutElderSister]
@@ -872,16 +872,16 @@
 [HateWithEnvyAboutSister]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutSister]
@@ -890,16 +890,16 @@
 [HateWithEnvyAboutOther]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/HateWithEnvyAboutOther]
@@ -908,16 +908,16 @@
 [MercyAboutOther]
 	<normal>
 		<baby>
-			ゆぅ、、ゆぅ、、
-			ゆぴ、、ゆぴ、、
+			Yuu..Yuu..
+			Yupi..Yupi..
 		</baby>
 		<child>
-			ゆぅ、、ゆぅ、、
-			ゆぴ、、ゆぴ、、
+			Yuu..Yuu..
+			Yupi..Yupi..
 		</child>
 		<adult>
-			ゆぅ、、ゆぅ、、
-			ゆぴ、、ゆぴ、、
+			Yuu..Yuu..
+			Yupi..Yupi..
 		</adult>
 	</normal>
 [/MercyAboutOther]
@@ -929,16 +929,16 @@
 [SuriSuriByPlayer]
 	<normal>
 		<baby>
-			ゆぅ〜ゆぅ〜♪
-			ゆっ！ゆっ！
+			Yuu~Yuu~♪
+			Yu!Yu!
 		</baby>
 		<child>
-			ゆぅ〜ゆぅ〜♪
-			ゆっ！ゆっ！
+			Yuu~Yuu~♪
+			Yu!Yu!
 		</child>
 		<adult>
-			ゆぅ〜ゆぅ〜♪
-			ゆぅ、、ゆううぅ、、♥
+			Yuu~Yuu~♪
+			Yuu..Yuuuu..♥
 		</adult>
 	</normal>
 [/SuriSuriByPlayer]
@@ -947,16 +947,16 @@
 [EnvyAboutElderSisterInSurisuri]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/EnvyAboutElderSisterInSurisuri]
@@ -965,16 +965,16 @@
 [EnvyAboutSisterInSurisuri]
 	<normal>
 		<baby>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</baby>
 		<child>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</child>
 		<adult>
-			ゆぴ、、ゆぴ、、
-			ゆっぐゆっぐ、、、
+			Yupi..Yupi..
+			YuguYugu...
 		</adult>
 	</normal>
 [/EnvyAboutSisterInSurisuri]
@@ -985,16 +985,16 @@
 [EnvyCryAboutElderSisterInSurisuri]
 	<normal>
 		<baby>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</baby>
 		<child>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</child>
 		<adult>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</adult>
 	</normal>
 [/EnvyCryAboutElderSisterInSurisuri]
@@ -1003,16 +1003,16 @@
 [EnvyCryAboutSisterInSurisuri]
 	<normal>
 		<baby>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</baby>
 		<child>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</child>
 		<adult>
-			ゆぴぃっ！
-			ゆぅうん！ゆぅうん！
+			Yupii!
+			Yuuun!Yuuun!
 		</adult>
 	</normal>
 [/EnvyCryAboutSisterInSurisuri]
@@ -1023,114 +1023,114 @@
 # 声かけ(親側)
 [ShitExercisesGOFrom]
 	<normal>
-		ゆっ！ゆっ！
+		Yu!Yu!
 	</normal>
 [/ShitExercisesGOFrom]
 
 # 待機(親側)
 [ShitExercisesWAITFrom]
 	<normal>
-		ゆぴー！
+		Yupii!
 	</normal>
 [/ShitExercisesWAITFrom]
 
 # イベント開始(親側)
 [ShitExercisesSTARTFrom]
 	<normal>
-		ゆぴ～♪
+		Yupi~♪
 	</normal>
 [/ShitExercisesSTARTFrom]
 
 # ゆらゆら(親側)
 [ShitExercisesYURAYURAFrom]
 	<normal>
-		♪ゆぴ ゆぴ♪ ゆぴ〜♪
+		♪Yupi Yupi♪ Yupi~♪
 	</normal>
 [/ShitExercisesYURAYURAFrom]
 
 # のびのび(親側)
 [ShitExercisesNOBINOBIFrom]
 	<normal>
-		♪ゆっ ゆっ♪ ゆぴ〜♪
+		♪Yu Yu♪ Yupi~♪
 	</normal>
 [/ShitExercisesNOBINOBIFrom]
 
 # ぽかぽか(親側)
 [ShitExercisesPOKAPOKAFrom]
 	<normal>
-		♪ゆっぴ ゆっぴ♪ ゆぴ〜♪
+		♪Yuppi Yuppi♪ Yupi~♪
 	</normal>
 [/ShitExercisesPOKAPOKAFrom]
 
 # うんうん(親側)
 [ShitExercisesUNUNFrom]
 	<normal>
-		♪ゆぴゆぴ ゆぅ〜♪
+		♪YupiYupi Yuu~♪
 	</normal>
 [/ShitExercisesUNUNFrom]
 
 # イベント終了(親側)
 [ShitExercisesENDFrom]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/ShitExercisesENDFrom]
 #---------------------------
 # 声かけ(子側)
 [ShitExercisesGO]
 	<normal>
-		ゆぴぃゆぴぃ！
-		ゆっ！ゆっ！
+		YupiiYupii!
+		Yu!Yu!
 	</normal>
 [/ShitExercisesGO]
 
 # 待機(子側)
 [ShitExercisesWAIT]
 	<normal>
-		ゆっ♪
-		ゆっゆっ♪
+		Yu♪
+		YuYu♪
 	</normal>
 [/ShitExercisesWAIT]
 
 # イベント開始(子側)
 [ShitExercisesSTART]
 	<normal>
-		ゆー！
-		ゆっゆっおー！
+		Yuu!
+		YuYuoo!
 	</normal>
 [/ShitExercisesSTART]
 
 # ゆらゆら(子側)
 [ShitExercisesYURAYURA]
 	<normal>
-		ゆきゃっ
-		ゆ～っ
+		Yukya
+		Yu~
 	</normal>
 [/ShitExercisesYURAYURA]
 
 # のびのび(子側)
 [ShitExercisesNOBINOBI]
 	<normal>
-		ゆおー！
-		ゆぐぐ～っ
-		ゆんぐ～っ
+		Yuoo!
+		Yugugu~
+		Yungu~
 	</normal>
 [/ShitExercisesNOBINOBI]
 
 # ぽかぽか(子側)
 [ShitExercisesPOKAPOKA]
 	<normal>
-		ゆ～ん
-		ゆっ！ゆっ！
-		ゆぴぴ〜♪
+		Yu~n
+		Yu!Yu!
+		Yupipi~♪
 	</normal>
 [/ShitExercisesPOKAPOKA]
 
 # うんうん(子側)
 [ShitExercisesUNUN]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/ShitExercisesUNUN]
 
@@ -1138,16 +1138,16 @@
 # 家族で食事をする
 [FamilyEatingTimeWait]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/FamilyEatingTimeWait]
 
 # すーぱーむーしゃむーしゃたいむ
 [SuperEatingTime]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/SuperEatingTime]
 
@@ -1155,7 +1155,7 @@
 [RideOnMe]
 	<normal>
 		<adult>
-			ゆぴー！
+			Yupii!
 		</adult>
 	</normal>
 [/RideOnMe]
@@ -1163,121 +1163,121 @@
 #おちび自慢(歌)
 [ProudChildsSING]
 	<normal>
-		ゆぴ～ゆぴぴ～～♪
+		Yupi~Yupipi~♪
 	</normal>
 [/ProudChildsSING]
 
 #おちび自慢(親側)
 [ProudChildsGOFrom]
 	<normal>
-		ゆぴぃ！
+		Yupii!
 	</normal>
 [/ProudChildsGOFrom]
 
 #おちび自慢(親側)
 [ProudChildsSTARTFrom]
 	<normal>
-		ゆっびびぃ！！
+		Yubibii!!
 	</normal>
 [/ProudChildsSTARTFrom]
 
 #おちび自慢(親側)
 [ProudChildsPROUDFrom]
 	<normal>
-		ゆっぴぴぃ～～
+		Yuppipii~~
 	</normal>
 [/ProudChildsPROUDFrom]
 
 #おちび自慢(親側)
 [ProudChildsENDFrom]
 	<normal>
-		ゆびぃ！！
+		Yubii!!
 	</normal>
 [/ProudChildsENDFrom]
 
 #おちび自慢(子供側)
 [ProudChildsGO]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/ProudChildsGO]
 
 #おちび自慢(子供側)
 [ProudChildsSTART]
 	<normal>
-		ゆぴ！
+		Yupi!
 	</normal>
 [/ProudChildsSTART]
 
 #おちび自慢(子供側)
 [ProudChildsPROUD]
 	<normal>
-		ゆっぴゃぁ～～♪
+		Yuppyaa~♪
 	</normal>
 [/ProudChildsPROUD]
 
 #おちび自慢(子供側)
 [ProudChildsEND]
 	<normal>
-		ゆぴっ！！
+		Yupi!!
 	</normal>
 [/ProudChildsEND]
 
 # 子供がかびた
 [SadnessForMoldyChild]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForMoldyChild]
 
-# つがいがかびた
+# つがいがかbiた
 [SadnessForMoldyPartner]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForMoldyPartner]
 
 # 姉がかびた
 [SadnessForMoldyElderSister]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForMoldyElderSister]
 
 # 妹がかびた
 [SadnessForMoldySister]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForMoldySister]
 
 #子供に謝罪
 [ApologyToChild]
 	<normal>
-		ゆぴ、、、
+		Yupi...
 	</normal>
 [/ApologyToChild]
 
 #謝罪
 [ApologyToFamily]
 	<normal>
-		ゆぴ、、、
+		Yupi...
 	</normal>
 [/ApologyToFamily]
 
 #かびゆヘイト
 [HateMoldyYukkuri]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/HateMoldyYukkuri]
 
 #おもちゃの悲鳴
 [DontPlayMe]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/DontPlayMe]
 
@@ -1285,68 +1285,68 @@
 #待ってください
 [PleaseWait]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
+		Yupii!
+		Yupipi!
 	</normal>
 [/PleaseWait]
 
 #プロポーズ
 [Propose]
 	<normal>
-		ゆぴー！
-		ゆぴぴっ！
-		ゆぴぴっ！ゆっくち！ゆっくち！
-		ゆくち！ゆっくち！！
+		Yupii!
+		Yupipi!
+		Yupipi!Yukuchi!Yukuchi!
+		Yukuchi!Yukuchi!!
 	</normal>
 [/Propose]
 
 #プロポーズ受諾
 [ProposeYes]
 	<normal>
-		ゆぴぴっ！
+		Yupipi!
 	</normal>
 [/ProposeYes]
 
 #プロポーズ拒否
 [ProposeNo]
 	<normal>
-		ゆぴー！
+		Yupii!
 	</normal>
 [/ProposeNo]
 
 #やらないか
 [LetsPlay]
 	<normal>
-		ゆぴぃ、、、
+		Yupii...
 	</normal>
 [/LetsPlay]
 
 #いいよ、きて//
 [OKcome]
 	<normal>
-		ゆぴぃ、、
+		Yupii..
 	</normal>
 [/OKcome]
 
 #失恋
 [Heartbreak]
 	<normal>
-		ゆぴーーーーー！
-		ゆびぃぃぃぃぃぃぃ！！！
+		Yupiiiiii!
+		Yubiiiiiiii!!!
 	</normal>
 [/Heartbreak]
 
 #じゃましないでね！せいっさいするよ！
 [DontPreventUs]
 	<normal>
-		ゆぐぴぃーー！！
-		ゆぐおーー！ゆぐおーー！！
+		Yugupiiii!!
+		Yuguooo!Yuguooo!!
 	</normal>
 [/DontPreventUs]
 # 子供が捕食種に食われた際の反撃メッセージ
 [RevengeForChild]
 	<normal>
-		ゆっぴ！ゆぴぃー！！！
+		Yuppi!Yupiii!!!
 	</normal>
 [/RevengeForChild]
 
@@ -1354,13 +1354,13 @@
 [ApologyToHuman]
 	<normal>
 		<baby>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</baby>
 		<child>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</child>
 		<adult>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</adult>
 	</normal>
 [/ApologyToHuman]
@@ -1369,13 +1369,13 @@
 [BegForLife]
 	<normal>
 		<baby>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</baby>
 		<child>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</child>
 		<adult>
-			ゆぴぃぃぃぃぃぃぃぃぃぃぃぃぃ！！！！！！
+			Yupiiiiiiiiiiiiii!!!!!!
 		</adult>
 	</normal>
 [/BegForLife]
@@ -1384,24 +1384,24 @@
 [ThanksHuman]
 	<normal>
 		<baby>
-			ゆ、、、、？ゆくち！ゆっくち！！
+			Yu....?Yukuchi!Yukuchi!!
 		</baby>
 		<child>
-			ゆ、、、、？ゆくち！ゆっくち！！
+			Yu....?Yukuchi!Yukuchi!!
 		</child>
 		<adult>
-			ゆ、、、、？ゆくち！ゆっくち！！
+			Yu....?Yukuchi!Yukuchi!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ゆ、、、、？ゆぐおーー！！
+			Yu....?Yuguooo!!
 		</baby>
 		<child>
-			ゆ、、、、？ゆぐおーー！！
+			Yu....?Yuguooo!!
 		</child>
 		<adult>
-			ゆ、、、、？ゆぐおーー！！
+			Yu....?Yuguooo!!
 		</adult>
 	</rude>
 [/ThanksHuman]
@@ -1410,24 +1410,24 @@
 [ThanksHuman2]
 	<normal>
 		<baby>
-			ゆ、、、、？ゆくち、、ゆっくち、、、
+			Yu....?Yukuchi..Yukuchi...
 		</baby>
 		<child>
-			ゆ、、、、？ゆくち、、ゆっくち、、、
+			Yu....?Yukuchi..Yukuchi...
 		</child>
 		<adult>
-			ゆ、、、、？ゆくち、、ゆっくち、、、
+			Yu....?Yukuchi..Yukuchi...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ゆ、、、、？ゆぐお、、、
+			Yu....?Yuguo...
 		</baby>
 		<child>
-			ゆ、、、、？ゆぐお、、、
+			Yu....?Yuguo...
 		</child>
 		<adult>
-			ゆ、、、、？ゆぐお、、、
+			Yu....?Yuguo...
 		</adult>
 	</rude>
 [/ThanksHuman2]
@@ -1436,21 +1436,21 @@
 [Monologue]
 	<normal>
 		<baby>
-			ゆぅぅ、、ゆぴぴ、、、
+			Yuuu..Yupipi...
 			<damage>
-				ゆっぐぢ、、、
+				Yuguchi...
 			</damage>
 		</baby>
 		<child>
-			ゆぅぅ、、ゆぴぴ、、、
+			Yuuu..Yupipi...
 			<damage>
-				ゆっぐぢ、、、
+				Yuguchi...
 			</damage>
 		</child>
 		<adult>
-			ゆぅぅ、、ゆぴぴ、、、
+			Yuuu..Yupipi...
 			<damage>
-				ゆっぐぢ、、、
+				Yuguchi...
 			</damage>
 		</adult>
 	</normal>
@@ -1459,79 +1459,79 @@
 # おそうしきすたーと(親側)
 [FuneralSTARTFrom]
 	<normal>
-		ゆくち、、、ゆっくち！
+		Yukuchi...Yukuchi!
 	</normal>
 [/FuneralSTARTFrom]
 
 # おそうしきすたーと(子側)
 [FuneralSTART]
 	<normal>
-		ゆぴ、、、？
-		ゆぅ、、、
-		、、、ゆぴぃ
+		Yupi...?
+		Yuu...
+		...Yupii
 	</normal>
 [/FuneralSTART]
 
 # おそうしきの説明(親側)
 [FuneralIntroduceFrom]
 	<normal>
-		ゆっぴー！ゆっくちーー！
+		Yuppii!Yukuchiii!
 	</normal>
 [/FuneralIntroduceFrom]
 
 # おそうしきの説明時の子の反応
 [FuneralIntroduce]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/FuneralIntroduce]
 
 # ちんこんか
 [Requiem]
 	<normal>
-		ゆっぴ♪ゆっぴ♪ゆっぴ♪
-		ゆっ♪ゆっ♪ゆっぴ♪ゆ～♪ゆっぴ♪
-		ゆっぴゆっぴゆぴぴ～♪ゆぴゆぴ～～～♪
-		ゆっくち♪ゆっくち♪
-		ゆっぴ～ゆっぴ～～♪
-		ゆっぴぃ～～～♪
+		Yuppi♪Yuppi♪Yuppi♪
+		Yu♪Yu♪Yuppi♪Yu~♪Yuppi♪
+		YuppiYuppiYupipi~♪YupiYupi~♪
+		Yukuchi♪Yukuchi♪
+		Yuppi~Yuppi~♪
+		Yuppii~♪
 	</normal>
 [/Requiem]
 
 # 雑談(親側)
 [FuneralTalkFrom]
 	<normal>
-		ゆぴぴ～～♪
+		Yupipi~♪
 	</normal>
 [/FuneralTalkFrom]
 
 # 雑談(子側)
 [FuneralTalk]
 	<normal>
-		ゆぴ？
-		ゆっくち～～♪
+		Yupi?
+		Yukuchi~♪
 	</normal>
 [/FuneralTalk]
 
 # さようならっ！
 [GoodbyeForever]
 	<normal>
-		ゆぴーー！
+		Yupiii!
 	</normal>
 [/GoodbyeForever]
 
 # 終了時(親側)
 [FuneralENDFrom]
 	<normal>
-		ゆぴぴっ！
+		Yupipi!
 	</normal>
 [/FuneralENDFrom]
 
 # 終了時(子側)
 [FuneralEND]
 	<normal>
-		ゆぴぴ！
-		ゆっくち！
+		Yupipi!
+		Yukuchi!
 	</normal>
 [/FuneralEND]
 
@@ -1539,12 +1539,12 @@
 # アリ
 [EatenByAnts]
 	<normal>
-		ゆっぴ！ゆぴぃー！！！
+		Yuppi!Yupiii!!!
 	</normal>
 [/EatenByAnts]
 
 [RevengeAnts]
 	<normal>
-		ゆぐおーー！！
+		Yuguooo!!
 	</normal>
 [/RevengeAnts]

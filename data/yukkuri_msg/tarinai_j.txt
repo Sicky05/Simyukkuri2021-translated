@@ -1,431 +1,431 @@
 # 餌発見
 [WantFood]
 	<normal>
-		ゆっぴー！
-		ゆっ！ゆっ！ゆっ！
+		Yuppii!
+		Yu!Yu!Yu!
 	</normal>
 [/WantFood]
 
 # 餌なし
 [NoFood]
 	<normal>
-		ゆぅー、、、
-		ゆぅ？
+		Yuuu...
+		Yuu?
 	</normal>
 [/NoFood]
 
 # 番要求
 [WantPartner]
 	<normal>
-		ゆぴっ！ゆびびっ！
-		ゆびびぃ！ゆびぃ！
+		Yupi!Yubibi!
+		Yubibii!Yubii!
 	</normal>
 [/WantPartner]
 
 # 発情
 [Excite]
 	<normal>
-		ゆっぴぃー！
-		ゆんぎぃ～♪
+		Yupiii!
+		Yungii~♪
 	</normal>
 [/Excite]
 
 #れいぱー化して発情
 [ExciteForRaper]
 	<normal>
-		ゆっぴぃー！
-		ゆんぎぃ～♪
+		Yupiii!
+		Yungii~♪
 	</normal>
 [/ExciteForRaper]
 
 # ぺにぺに切断
 [PenipeniCutting]
 	<normal>
-		ゆぴっ？！
+		Yupi?!
 	</normal>
 [/PenipeniCutting]
 
 # ぺにぺに切断後
 [PenipeniCutted]
 	<normal>
-		ゆぅー、、、
+		Yuuu...
 	</normal>
 [/PenipeniCutted]
 
 # ぺにぺにを使えない
 [CantUsePenipeni]
 	<normal>
-		ゆぅー、、、
+		Yuuu...
 	</normal>
 [/CantUsePenipeni]
 
 # リラックス
 [Relax]
 	<normal>
-		ゆ～ゆ～♪
-		ゆっぐぢぃ！
-		ゆっぐ！ゆっぐ！
+		Yu~Yu~♪
+		Yuguchii!
+		Yugu!Yugu!
 	</normal>
 [/Relax]
 
 # おくるみをはいてリラックス
 [RelaxOkurumi]
 	<normal>
-		ゆ～ゆ～♪
-		ゆっぐぢぃ！
-		ゆっぐ！ゆっぐ！
+		Yu~Yu~♪
+		Yuguchii!
+		Yugu!Yugu!
 	</normal>
 [/RelaxOkurumi]
 
 # 尻振り
 [FuriFuri]
 	<normal>
-		ゆっゆっ
-		ゆ～ん ゆ～ん ゆ～ん！
+		YuYu
+		Yu~n Yu~n Yu~n!
 	</normal>
 [/FuriFuri]
 
 #キリッ
 [BeVain]
 	<normal>
-		ゆぴっ！
+		Yupi!
 	</normal>
 [/BeVain]
 
 # ゆっくりしていってね！
 [TakeItEasy]
 	<normal>
-		ゆっぐぢぃ！
+		Yuguchii!
 	</normal>
 [/TakeItEasy]
 
 # 起床
 [Wakeup]
 	<normal>
-		ゆぅーゆぅー
-		ゆっぐぢぃ！
+		YuuuYuuu
+		Yuguchii!
 	</normal>
 [/Wakeup]
 
 # 睡眠
 [Sleep]
 	<normal>
-		ゆーゆー
-		ゆぴぴ・・ゆぴぴ・・
+		YuuYuu
+		Yupipi..Yupipi..
 	</normal>
 [/Sleep]
 
 # 悲鳴
 [Scream]
 	<normal>
-		ゆっぴー！
-		ゆびゃあ！！！
-		ゆぴぴぃ！
+		Yuppii!
+		Yubyaa!!!
+		Yupipii!
 	</normal>
 [/Scream]
 
 # 悲鳴2
 [Scream2]
 	<normal>
-		ゆびぃぃぃぃぃぃぃぃ！！
-		ゆぎぴぃぃぃぃぃぃぃ！！！
-		ゆぴぃぃぃぃぃぃぃぃ！！！
-		ぴぃぃぃぃぃぃぃぃぃ！！
-		ぴぎぃぃぃぃぃぃぃぃ！！
-		ゆぅぅぅぅぅぅぅぅぅ！！！
-		ぎぇぇぇぇぇぇぇぇぇ！！！
+		Yubiiiiiiiii!!
+		Yugipiiiiiiii!!!
+		Yupiiiiiiiii!!!
+		piiiiiiiiii!!
+		pigiiiiiiiii!!
+		Yuuuuuuuuuu!!!
+		gieeeeeeeee!!!
 	</normal>
 [/Scream2]
 
 # 怯え
 [Scare]
 	<normal>
-		ゆっぴー！
-		ゆびゃあ！！！
-		ゆぴぴぃ！
+		Yuppii!
+		Yubyaa!!!
+		Yupipii!
 	</normal>
 [/Scare]
 
 # 警戒
 [Alarm]
 	<normal>
-		ゆぅー、、、
-		ゆっ ゆっ ゆっ
+		Yuuu...
+		Yu Yu Yu
 	</normal>
 [/Alarm]
 
 # 瀕死
 [Dying]
 	<normal>
-		ゆぴっ！
-		ゆぴゃあ！
+		Yupi!
+		Yupyaa!
 	</normal>
 [/Dying]
 
 # 死亡
 [Dead]
 	<normal>
-		ゆ、ゆ、ゆ、、、
-		ゆっ、、、
+		Yu,Yu,Yu...
+		Yu...
 	</normal>
 [/Dead]
 
 # 食事
 [Eating]
 	<normal>
-		くっちゃくっちゃ！
-		くっちゃくっちゃ ゆ～！
+		Nom Nom Nom Nom!
+		Nom Nom Nom Nom  Yu~!
 	</normal>
 [/Eating]
 
 # 食事(うんうん)
 [EatingShit]
 	<normal>
-		くっちゃくっちゃ♪
-		くっちゃくっちゃくっちゃくっちゃ♪
+		Nom Nom Nom Nom ♪
+		Nom Nom Nom Nom Nom Nom Nom Nom ♪
 	</normal>
 [/EatingShit]
 
 # 餌運び
 [TransportFood]
 	<normal>
-		ゆっゆっ
+		YuYu
 	</normal>
 [/TransportFood]
 
 # うんうん運び
 [TransportShit]
 	<normal>
-		ゆびゃあ！！！
+		Yubyaa!!!
 	</normal>
 [/TransportShit]
 
 #アイテムを落とす
 [DropItem]
 	<normal>
-		ゆっゆっ！！
+		YuYu!!
 	</normal>
 [/DropItem]
 
 # 食事(まずい)
 [EatingBadtasting]
 	<normal>
-		くっちゃくっちゃ、、、ゆびぃ、、、
-		くっちゃくっちゃ、、、ゆぴぃ、、、
-		くっちゃくっちゃ、、、ゆぴ、ゆぴ、、、
-		くっちゃくっちゃ、、、ゆっぷぇ、、、
+		Nom Nom Nom Nom ...Yubii...
+		Nom Nom Nom Nom ...Yupii...
+		Nom Nom Nom Nom ...Yupi,Yupi...
+		Nom Nom Nom Nom ...Yupe...
 	</normal>
 	<rude>
-		くっちゃくっちゃ、、、ゆびぃぃぃぃ！！！
-		くっちゃくっちゃ、、、ゆぴぃぃぃぃ！！！
-		くっちゃくっちゃ、、、ゆぴ、ゆぴ、、、
-		くっちゃくっちゃ、、、ゆっぷぇ、、、
+		Nom Nom Nom Nom ...Yubiiiii!!!
+		Nom Nom Nom Nom ...Yupiiiii!!!
+		Nom Nom Nom Nom ...Yupi,Yupi...
+		Nom Nom Nom Nom ...Yupe...
 	</rude>
 [/EatingBadtasting]
 
 # 食事(毒)
 [EatingBitter]
 	<normal>
-		くっちゃくっちゃ、、、ゆぴー！
+		Nom Nom Nom Nom ...Yupii!
 	</normal>
 [/EatingBitter]
 
 # 食事(嘔吐)
 [SpitFood]
 	<normal>
-		ゆびぇぇぇぇぇ、、、
+		Yubeeeee...
 	</normal>
 [/SpitFood]
 
 # 満腹
 [Full]
 	<normal>
-		ゆぴ
+		Yupi
 	</normal>
 [/Full]
 
 # 回復
 [Healing]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/Healing]
 
 # 解放感を感じた時
 [ToFreedom]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/ToFreedom]
 
 # 清掃された時
 [Cleaned]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/Cleaned]
 
 # すっきり
 [Sukkiri]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/Sukkiri]
 
 #れいぱー化してすっきりー！
 [SukkiriForRaper]
 	<normal>
-		ゆっぴぴー！
+		Yupipii!
 	</normal>
 [/SukkiriForRaper]
 
 # レイパーとすっきり
 [RaperSukkiri]
 	<normal>
-		ゆぴぃぃぃぃぃ！
+		Yupiiiiii!
 	</normal>
 [/RaperSukkiri]
 
 # 養殖プールすっきり
 [PoolSukkiri]
 	<normal>
-		ゆぴぃぃぃぃぃ！
+		Yupiiiiii!
 	</normal>
 [/PoolSukkiri]
 
 # 誕生
 [Birth]
 	<normal>
-		ゆぴっゆぴっ！
+		YupiYupi!
 	</normal>
 [/Birth]
 
 # 排泄
 [Shit]
 	<normal>
-		ゆぴ～
+		Yupi~
 	</normal>
 [/Shit]
 
 # 排泄2
 [Shit2]
 	<normal>
-		ゆっぴ～！
+		Yupi~!
 	</normal>
 [/Shit2]
 
 # すりすり
 [SuriSuri]
 	<normal>
-		ゆ～ゆ～ゆ～
-		ゆ～ん ゆ～ん
+		Yu~Yu~Yu~
+		Yu~n Yu~n
 	</normal>
 [/SuriSuri]
 
 # ぺろぺろ
 [PeroPero]
 	<normal>
-		ゆーぴゃゆーぴゃ！
-		ゆっゆ～！
+		YuupyaYuupya!
+		YuYu~!
 	</normal>
 [/PeroPero]
 
 # 出産
 [Breed]
 	<normal>
-		ゆ、ゆ、、、
+		Yu,Yu...
 	</normal>
 [/Breed]
 
 # 産後
 [Breed2]
 	<normal>
-		ゆっぴー！
+		Yuppii!
 	</normal>
 [/Breed2]
 
 # うんうん発見
 [HateShit]
 	<normal>
-		ゆぴー！
+		Yupii!
 	</normal>
 [/HateShit]
 
 #あほの子がうんうんを威嚇するセリフ
 [ShitIntimidation]
 	<normal>
-		ゆっぴぃぃぃ！！ゆっぴぃぃぃ！！
+		Yupiiii!!Yupiiii!!
 	</normal>
 [/ShitIntimidation]
 
 # 空腹
 [Hungry]
 	<normal>
-		ゆ、ゆ、ゆ
-		ゆ～、、、
+		Yu,Yu,Yu
+		Yu~...
 	</normal>
 [/Hungry]
 
 # おかざり没収
 [NoAccessory]
 	<normal>
-		ゆぴ？ゆぴぴ？
+		Yupi?Yupipi?
 	</normal>
 [/NoAccessory]
 
 # おかざりがなくなっていることに気がつく
 [NoticeNoAccessory]
 	<normal>
-		ゆぴ？ゆぴぴ？
+		Yupi?Yupipi?
 	</normal>
 [/NoticeNoAccessory]
 
 # 他ゆんのおかざりをこっそり奪う
 [GetOtherAccessoryStealthily]
 	<normal>
-		ゆぴー
+		Yupii
 	</normal>
 [/GetOtherAccessoryStealthily]
 
 # 持ち上げ
 [Flying]
 	<normal>
-		ゆっぴゃー！
+		Yupyaa!
 	</normal>
 [/Flying]
 
 # 子供死亡
 [SadnessForChild]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForChild]
 
 # つがい死亡
 [SadnessForPartner]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForPartner]
 
 # 姉死亡
 [SadnessForEldersister]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForEldersister]
 
 # 妹死亡
 [SadnessForSister]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/SadnessForSister]
 
 # 壁発見
 [BlockedByWall]
 	<normal>
-		ゆぴ？
+		Yupi?
 	</normal>
 [/BlockedByWall]
 
@@ -433,13 +433,13 @@
 [GetTreasure]
 	<normal>
 		<baby>
-			ゆぴ？
+			Yupi?
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/GetTreasure]
@@ -448,13 +448,13 @@
 [LostTreasure]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/LostTreasure]
@@ -463,13 +463,13 @@
 [Inflation]
 	<normal>
 		<baby>
-			ぴぃぃぃぃ！
+			piiiii!
 		</baby>
 		<child>
-			ぴいいいぃぃぃぃ！
+			piiiiiiii!
 		</child>
 		<adult>
-			ぴぎいいいいぃぃぃぃ！
+			pigiiiiiiiii!
 		</adult>
 	</normal>
 [/Inflation]
@@ -478,16 +478,16 @@
 [AbuseBaby]
 	<normal>
 		<baby>
-			ゆぴー？
-			ゆぴゃっ！
+			Yupii?
+			Yupya!
 		</baby>
 		<child>
-			ゆぴー？
-			ゆぴゃっ！
+			Yupii?
+			Yupya!
 		</child>
 		<adult>
-			ゆぴいぃー？
-			ゆびゃあ！！！
+			Yupiiii?
+			Yubyaa!!!
 		</adult>
 	</normal>
 [/AbuseBaby]
@@ -496,16 +496,16 @@
 [AbuseBabyKilled]
 	<normal>
 		<baby>
-			ゆぴー？
-			ゆぴゃっ！
+			Yupii?
+			Yupya!
 		</baby>
 		<child>
-			ゆぴー？
-			ゆぴゃっ！
+			Yupii?
+			Yupya!
 		</child>
 		<adult>
-			ゆぴいぃー？
-			ゆびゃあ！！！
+			Yupiiii?
+			Yubyaa!!!
 		</adult>
 	</normal>
 [/AbuseBabyKilled]
@@ -514,16 +514,16 @@
 [Nobinobi]
 	<normal>
 		<baby>
-			ゆーぴゆーぴ
-			ゆ～♪ゆ～♪
+			YuupiYuupi
+			Yu~♪Yu~♪
 		</baby>
 		<child>
-			ゆーぴゆーぴ
-			ゆ～♪ゆ～♪
+			YuupiYuupi
+			Yu~♪Yu~♪
 		</child>
 		<adult>
-			ゆーぴゆーぴ
-			ゆ～♪ゆ～♪
+			YuupiYuupi
+			Yu~♪Yu~♪
 		</adult>
 	</normal>
 [/Nobinobi]
@@ -532,13 +532,13 @@
 [NearToBirth]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/NearToBirth]
@@ -547,21 +547,21 @@
 [PoisonDamage]
 	<normal>
 		<baby>
-			ゆびぃ!
+			Yubii!
 			<damage>
-				びきぃ
+				bikii
 			</damage>
 		</baby>
 		<child>
-			ゆびぃ!
+			Yubii!
 			<damage>
-				びきぃ
+				bikii
 			</damage>
 		</child>
 		<adult>
-			ゆびぃ！
+			Yubii!
 			<damage>
-				びきぃ
+				bikii
 			</damage>
 		</adult>
 	</normal>
@@ -571,13 +571,13 @@
 [CantShit]
 	<normal>
 		<baby>
-			ゆぴぃ！？
+			Yupii!?
 		</baby>
 		<child>
-			ゆぴぃ!？
+			Yupii?
 		</child>
 		<adult>
-			ゆぴぃ！？
+			Yupii!?
 		</adult>
 	</normal>
 [/CantShit]
@@ -586,13 +586,13 @@
 [NoPregnancy]
 	<normal>
 		<baby>
-			ゆぴ？
+			Yupi?
 		</baby>
 		<child>
-			ゆぴ？
+			Yupi?
 		</child>
 		<adult>
-			ゆぴ？
+			Yupi?
 		</adult>
 	</normal>
 [/NoPregnancy]
@@ -601,16 +601,16 @@
 [Fear]
 	<normal>
 		<baby>
-			ゆっぴー！
-			ゆぴぴぴぴぴぴぴぴぴぴぴ
+			Yuppii!
+			Yupipipipipipipipipipipi
 		</baby>
 		<child>
-			ゆっぴー！
-			ゆぴぴぴぴぴぴぴぴぴぴぴ
+			Yuppii!
+			Yupipipipipipipipipipipi
 		</child>
 		<adult>
-			ゆっぴー！
-			ゆぴぴぴぴぴぴぴぴぴぴぴ
+			Yuppii!
+			Yupipipipipipipipipipipi
 		</adult>
 	</normal>
 [/Fear]
@@ -619,16 +619,16 @@
 [Burning]
 	<normal>
 		<baby>
-			ゆぴー？ゆぴー！
-			ゆっぴー！
+			Yupii?Yupii!
+			Yuppii!
 		</baby>
 		<child>
-			ゆぴー？ゆぴー！
-			ゆっぴー！
+			Yupii?Yupii!
+			Yuppii!
 		</child>
 		<adult>
-			ゆぴー？ゆぴー！
-			ゆっぴー！
+			Yupii?Yupii!
+			Yuppii!
 		</adult>
 	</normal>
 [/Burning]
@@ -637,13 +637,13 @@
 [Wet]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/Wet]
@@ -652,13 +652,13 @@
 [WetInShallowWater]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/WetInShallowWater]
@@ -667,13 +667,13 @@
 [WetInDeepwWater]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/WetInDeepwWater]
@@ -682,30 +682,30 @@
 [AnalSealed]
 	<normal>
 		<baby>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</baby>
 		<child>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</child>
 		<adult>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</adult>
 	</normal>
 	<normal>
 		<baby>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</baby>
 		<child>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</child>
 		<adult>
-			ゆぴぴっ？
-			ゆっぴー！
+			Yupipi?
+			Yuppii!
 		</adult>
 	</normal>
 [/AnalSealed]
@@ -714,19 +714,19 @@
 [NeedleStick]
 	<normal>
 		<baby>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</baby>
 		<child>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</child>
 		<adult>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</adult>
 	</normal>
 [/NeedleStick]
@@ -735,19 +735,19 @@
 [NeedleScream]
 	<normal>
 		<baby>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</baby>
 		<child>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</child>
 		<adult>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</adult>
 	</normal>
 [/NeedleScream]
@@ -756,19 +756,19 @@
 [NeedleScreamInAnal]
 	<normal>
 		<baby>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</baby>
 		<child>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</child>
 		<adult>
-			ぴぎぃ！？
-			ゆぴぃ！？
-			ギピィイ！
+			pigii!?
+			Yupii!?
+			gipiii!
 		</adult>
 	</normal>
 [/NeedleScreamInAnal]
@@ -777,13 +777,13 @@
 [ExtractingNeedlePartner]
 	<normal>
 		<baby>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</baby>
 		<child>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</child>
 		<adult>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</adult>
 	</normal>
 [/ExtractingNeedlePartner]
@@ -792,13 +792,13 @@
 [ExtractingNeedleChild]
 	<normal>
 		<baby>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</baby>
 		<child>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</child>
 		<adult>
-			ゆぴ！ゆぴぴ！
+			Yupi!Yupipi!
 		</adult>
 	</normal>
 [/ExtractingNeedleChild]
@@ -807,13 +807,13 @@
 [NeedlePain]
 	<normal>
 		<baby>
-			ゆびぃぃぃぃぃい！
+			Yubiiiiiii!
 		</baby>
 		<child>
-			ゆびぃぃぃぃぃい！
+			Yubiiiiiii!
 		</child>
 		<adult>
-			ゆびぃぃぃぃぃい！
+			Yubiiiiiii!
 		</adult>
 	</normal>
 [/NeedlePain]
@@ -822,13 +822,13 @@
 [NeedleRemove]
 	<normal>
 		<baby>
-			ゆぴぃ、、、
+			Yupii...
 		</baby>
 		<child>
-			ゆぴぃ、、、
+			Yupii...
 		</child>
 		<adult>
-			ゆぴぃ、、、
+			Yupii...
 		</adult>
 	</normal>
 [/NeedleRemove]
@@ -837,13 +837,13 @@
 [WantAmaama]
 	<normal>
 		<baby>
-			ゆっぴー！
+			Yuppii!
 		</baby>
 		<child>
-			ゆっぴー！
+			Yuppii!
 		</child>
 		<adult>
-			ゆっぴー！
+			Yuppii!
 		</adult>
 	</normal>
 [/WantAmaama]
@@ -852,16 +852,16 @@
 [CantMove]
 	<normal>
 		<baby>
-			ゆ～、、、
-			ゆゆ～、、ゆ～、、
+			Yu~...
+			YuYu~..Yu~..
 		</baby>
 		<child>
-			ゆ～、、、
-			ゆゆ～、、ゆ～、、
+			Yu~...
+			YuYu~..Yu~..
 		</child>
 		<adult>
-			ゆ～、、、
-			ゆゆ～、、ゆ～、、
+			Yu~...
+			YuYu~..Yu~..
 		</adult>
 	</normal>
 [/CantMove]
@@ -870,16 +870,16 @@
 [CantMove2]
 	<normal>
 		<baby>
-			ゆ～？
-			ゆー！ゆー！
+			Yu~?
+			Yuu!Yuu!
 		</baby>
 		<child>
-			ゆ～？
-			ゆー！ゆー！
+			Yu~?
+			Yuu!Yuu!
 		</child>
 		<adult>
-			ゆ～？
-			ゆー！ゆー！
+			Yu~?
+			Yuu!Yuu!
 		</adult>
 	</normal>
 [/CantMove2]
@@ -888,19 +888,19 @@
 [BLINDING]
 	<normal>
 		<baby>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</baby>
 		<child>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</child>
 		<adult>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</adult>
 	</normal>
 [/BLINDING]
@@ -909,13 +909,13 @@
 [CANTSEE]
 	<normal>
 		<baby>
-			ゆびひぃぃぃぃぃぃ、、
+			Yubihiiiiiii..
 		</baby>
 		<child>
-			ゆひゅひぃぃぃぃぃぃ、、
+			Yuhyuhiiiiiii..
 		</child>
 		<adult>
-			ゆっひゅひぃぃぃぃぃぃ、、
+			Yuhyuhiiiiiii..
 		</adult>
 	</normal>
 [/CANTSEE]
@@ -924,19 +924,19 @@
 [PLUNCKING]
 	<normal>
 		<baby>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</baby>
 		<child>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</child>
 		<adult>
-			ゆっぴー！
-			ゆびゃあ！！！
-			ゆぴぴぃ！
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
 		</adult>
 	</normal>
 [/PLUNCKING]
@@ -945,13 +945,13 @@
 [BaryInUnderGround]
 	<normal>
 		<baby>
-			ゆぴー！？
+			Yupii!?
 		</baby>
 		<child>
-			ゆぴー！？
+			Yupii!?
 		</child>
 		<adult>
-			ゆぴー！？
+			Yupii!?
 		</adult>
 	</normal>
 [/BaryInUnderGround]
@@ -960,16 +960,16 @@
 [Pull]
 	<normal>
 		<baby>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</baby>
 		<child>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</child>
 		<adult>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</adult>
 	</normal>
 [/Pull]
@@ -978,16 +978,16 @@
 [Pull2]
 	<normal>
 		<baby>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</baby>
 		<child>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</child>
 		<adult>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</adult>
 	</normal>
 [/Pull2]
@@ -996,16 +996,16 @@
 [Press]
 	<normal>
 		<baby>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</baby>
 		<child>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</child>
 		<adult>
-			ゆぴっ？
-			ゆ～？
+			Yupi?
+			Yu~?
 		</adult>
 	</normal>
 [/Press]
@@ -1014,16 +1014,16 @@
 [Press2]
 	<normal>
 		<baby>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</baby>
 		<child>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</child>
 		<adult>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</adult>
 	</normal>
 [/Press2]
@@ -1032,16 +1032,16 @@
 [KilledInFactory]
 	<normal>
 		<baby>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</baby>
 		<child>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</child>
 		<adult>
-			ゆぴゃあ！
-			ゆべべ！
+			Yupyaa!
+			Yubebe!
 		</adult>
 	</normal>
 [/KilledInFactory]
@@ -1050,13 +1050,13 @@
 [FindAmaama]
 	<normal>
 		<baby>
-			ゆっぴ！
+			Yupi!
 		</baby>
 		<child>
-			ゆっち！
+			Yuchi!
 		</child>
 		<adult>
-			ゆゆくち！
+			YuYukuchi!
 		</adult>
 	</normal>
 [/FindAmaama]
@@ -1065,13 +1065,13 @@
 [EatingAmaama]
 	<normal>
 		<baby>
-			ゆぴぴぃぃぃぃ♪
+			Yupipiiiii♪
 		</baby>
 		<child>
-			ゆっちぃぃぃぃ♪
+			Yuchiiiii♪
 		</child>
 		<adult>
-			ゆゆっちぃぃぃぃ♪
+			YuYuchiiiii♪
 		</adult>
 	</normal>
 [/EatingAmaama]
@@ -1080,13 +1080,13 @@
 [FindVegetable]
 	<normal>
 		<baby>
-			ゆぴぴぃぃぃぃ♪
+			Yupipiiiii♪
 		</baby>
 		<child>
-			ゆっちぃぃぃぃ♪
+			Yuchiiiii♪
 		</child>
 		<adult>
-			ゆゆっちぃぃぃぃ♪
+			YuYuchiiiii♪
 		</adult>
 	</normal>
 [/FindVegetable]
@@ -1095,13 +1095,13 @@
 [Vomit]
 	<normal>
 		<baby>
-			ゆびぇ・・・
+			Yube...
 		</baby>
 		<child>
-			ゆぶぇ・・・
+			Yubue...
 		</child>
 		<adult>
-			ゆぶぶ・・・
+			Yububu...
 		</adult>
 	</normal>
 [/Vomit]
@@ -1110,13 +1110,13 @@
 [Dying2]
 	<normal>
 		<baby>
-			ゆっ・・・ゆぴっ・・・
+			Yu...Yupi...
 		</baby>
 		<child>
-			ゆびっ・・・ゆぎゅ・・・
+			Yubi...Yugyu...
 		</child>
 		<adult>
-			ゆぎゅっ・・・ゆびゃっ・・・
+			Yugyu...Yubiya...
 		</adult>
 	</normal>
 [/Dying2]
@@ -1125,13 +1125,13 @@
 [Surprise]
 	<normal>
 		<baby>
-			ゆぴぴぃぃぃぃ！？
+			Yupipiiiii!?
 		</baby>
 		<child>
-			ゆぴぴぃぃぃぃ！？
+			Yupipiiiii!?
 		</child>
 		<adult>
-			ゆぴぴぃぃぃぃ！？
+			Yupipiiiii!?
 		</adult>
 	</normal>
 [/Surprise]
@@ -1140,16 +1140,16 @@
 [PEALING]
 	<normal>
 		<baby>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</baby>
 		<child>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</child>
 		<adult>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</adult>
 	</normal>
 [/PEALING]
@@ -1159,13 +1159,13 @@
 	<normal>
 		<normal>
 		<baby>
-			ゆびひぃぃぃぃぃぃ、、
+			Yubihiiiiiii..
 		</baby>
 		<child>
-			ゆひゅひぃぃぃぃぃぃ、、
+			Yuhyuhiiiiiii..
 		</child>
 		<adult>
-			ゆっひゅひぃぃぃぃぃぃ、、
+			Yuhyuhiiiiiii..
 		</adult>
 	</normal>
 [/LamentLowYukkuri]
@@ -1174,13 +1174,13 @@
 [LamentNoYukkuri]
 	<normal>
 		<baby>
-			ゆびびぃぃぃぃぃぃ！！
+			Yubibiiiiiii!!
 		</baby>
 		<child>
-			ゆびゅびぃぃぃぃぃぃ！！
+			Yubyubiiiiiii!!
 		</child>
 		<adult>
-			ゆ゛っびゅびぃぃぃぃぃぃ！！
+			Yubbyubiiiiiii!!
 		</adult>
 	</normal>
 [/LamentNoYukkuri]
@@ -1188,7 +1188,7 @@
 #ゆんやああ
 [Yunnyaa]
 	<normal>
-		ゆびぃぃぃぃぃぃぃぃぃぃぃ！！！！！
+		Yubiiiiiiiiiiii!!!!!
 	</normal>
 [/Yunnyaa]
 
@@ -1196,21 +1196,21 @@
 [NonYukkuriDiseaseNear]
 	<normal>
 		<baby>
-			ゆびゃっ、ゆびゃっ、ゆびゃっ、ゆびゃっ、ゆびゃっ、
+			Yubiya,Yubiya,Yubiya,Yubiya,Yubiya,
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</baby>
 		<child>
-			ゆびゃっ、ゆびゃっ、ゆびゃっ、ゆびゃっ、ゆびゃっ、
+			Yubiya,Yubiya,Yubiya,Yubiya,Yubiya,
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</child>
 		<adult>
-			ゆ゛っびゅびっ、ゆ゛っびゅびっ、ゆ゛っびゅびっ、ゆ゛っびゅびっ、ゆ゛っびゅびっ、
+			Yubyubi,Yubyubi,Yubyubi,Yubyubi,Yubyubi,
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</adult>
 	</normal>
@@ -1220,21 +1220,21 @@
 [NonYukkuriDisease]
 	<normal>
 		<baby>
-			ゆびっ！ゆびっ！ゆびっ！ゆびっ！ゆびっ！ゆびっ！
+			Yubi!Yubi!Yubi!Yubi!Yubi!Yubi!
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</baby>
 		<child>
-			ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！
+			Yububi!Yububi!Yububi!Yububi!Yububi!Yububi!
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</child>
 		<adult>
-			ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！ゆぶびっ！
+			Yububi!Yububi!Yububi!Yububi!Yububi!Yububi!
 			<damage>
-				ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！ゆ"っ！
+				Yu!Yu!Yu!Yu!Yu!Yu!
 			</damage>
 		</adult>
 	</normal>
@@ -1244,16 +1244,16 @@
 [RevengeAttack]
 	<normal>
 		<baby>
-			ゆっきゃあああ！！！
-			うきゃあぁ！！！
+			Yukyaaaa!!!
+			ukyaaa!!!
 		</baby>
 		<child>
-			ゆっきゃあああ！！！
-			うきゃあぁ！！！
+			Yukyaaaa!!!
+			ukyaaa!!!
 		</child>
 		<adult>
-			ゆんがあああ！！！
-			うがあぁ！！！
+			Yungaaaa!!!
+			ugaaa!!!
 		</adult>
 	</normal>
 [/RevengeAttack]
@@ -1262,16 +1262,16 @@
 [BraidCut]
 	<normal>
 		<baby>
-			ゆぎゃっ？
-			ゆぎぃっ！
+			Yugya?
+			Yugii!
 		</baby>
 		<child>
-			ゆぎゃっ？
-			ゆぎぃっ！
+			Yugya?
+			Yugii!
 		</child>
 		<adult>
-			ゆぎゃっ？
-			ゆぎぃっ！
+			Yugya?
+			Yugii!
 		</adult>
 	</normal>
 [/BraidCut]
@@ -1280,16 +1280,16 @@
 [EatenByBody]
 	<normal>
 		<baby>
-			ゆ、ゆ、ゆ！！！
-			ゆー！ゆー！
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
 		</baby>
 		<child>
-			ゆ、ゆ、ゆ！！！
-			ゆー！ゆー！
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
 		</child>
 		<adult>
-			ゆ、ゆ、ゆ！！！
-			ゆー！ゆー！
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
 		</adult>
 	</normal>
 [/EatenByBody]
@@ -1298,16 +1298,16 @@
 [EatenByBody2]
 	<normal>
 		<baby>
-			ゆひぃっ？
-			ゆっぴゃあ！
+			Yuhii?
+			Yupyaa!
 		</baby>
 		<child>
-			ゆひぃっ？
-			ゆっぴゃあ！
+			Yuhii?
+			Yupyaa!
 		</child>
 		<adult>
-			ゆひぃっ？
-			ゆっぴゃあ！
+			Yuhii?
+			Yupyaa!
 		</adult>
 	</normal>
 [/EatenByBody2]
@@ -1316,16 +1316,16 @@
 [EscapeFromRemirya]
 	<normal>
 		<baby>
-			ゆぴいぃぃぃ！！！
-			ゆぐぐぐ！！！
+			Yupiiiii!!!
+			Yugugugu!!!
 		</baby>
 		<child>
-			ゆぴいぃぃぃ！！！
-			ゆぐぐぐ！！！
+			Yupiiiii!!!
+			Yugugugu!!!
 		</child>
 		<adult>
-			ゆぴいぃぃぃ！！！
-			ゆぐぐぐ！！！
+			Yupiiiii!!!
+			Yugugugu!!!
 		</adult>
 	</normal>
 [/EscapeFromRemirya]
@@ -1334,19 +1334,19 @@
 [CantTalk]
 	<normal>
 		<baby>
-			むーー！！
-			ーーーーー！！！
-			ゆむーー！！ゆむむーー！！
+			mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
 		</baby>
 		<child>
-			むーー！！
-			ーーーーー！！！
-			ゆむーー！！ゆむむーー！！
+			mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
 		</child>
 		<adult>
-			むーー！！
-			ーーーーー！！！
-			ゆぐーー！！ゆむぐーー！！
+			mu--!!
+			-----!!!
+			Yugu--!!Yumugu--!!
 		</adult>
 	</normal>
 [/CantTalk]
@@ -1355,24 +1355,24 @@
 [NYDCantTalk]
 	<normal>
 		<baby>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</baby>
 		<child>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</child>
 		<adult>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</adult>
 	</normal>
@@ -1381,14 +1381,14 @@
 #静かにする
 [BeingQuiet]
 	<normal>
-		ゆぴぴ、、、
+		Yupipi...
 	</normal>
 [/BeingQuiet]
 
 # かびてる時の通常時
 [Moldy]
 	<normal>
-		ゆうぅぅ？
+		Yuuuu?
 	</normal>
 [/Moldy]
 
@@ -1396,12 +1396,12 @@
 [Dirty]
 	<normal>
 		<baby>
-			ゆぴいぃぃぃ！！！
-			ゆぎゅぅぅぅ！！！
+			Yupiiiii!!!
+			Yugyuuuu!!!
 		</baby>
 		<child>
-			ゆぴいぃぃぃ！！！
-			ゆぎゅぅぅぅ！！！
+			Yupiiiii!!!
+			Yugyuuuu!!!
 		</child>
 		<adult>
 			%dummy
@@ -1413,16 +1413,16 @@
 [MoldySeriousry]
 	<normal>
 		<baby>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</baby>
 		<child>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</child>
 		<adult>
-			ぴぎぃぃぃぃぃぃぃぃぃ！！
-			ゆぎぃぃぃぃぃぃ！！
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
 		</adult>
 	</normal>
 [/MoldySeriousry]
@@ -1431,54 +1431,54 @@
 [Nightmare]
 	<normal>
 		<baby>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</baby>
 		<child>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</child>
 		<adult>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</baby>
 		<child>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</child>
 		<adult>
-			ゆうぅぅぅぅぅぅ、、、、
-			ゆぁぁぁぁぁぁぁぁ、、、
-			ゆんやぁぁぁぁ、、、
-			ゆぴいぃぃぃ、、、
-			ゆぐぐぐ、、、
-			うきゃあぁ
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
 		</adult>
 	</rude>
 [/Nightmare]
@@ -1486,7 +1486,7 @@
 # 加工所で処分されると思ったとき
 [DontThrowMeAway]
 	<normal>
-		ぴぎぃぃぃぃぃぃぃぃぃ！！
+		pigiiiiiiiiii!!
 	</normal>
 [/DontThrowMeAway]
 

@@ -2,30 +2,30 @@
 [WantFood]
 	<normal>
 		<baby>
-			じゃおーん！
-			じゃお♪
+			Jaoon!
+			Jao♪
 		</baby>
 		<child>
-			じゃおーん！
-			じゃお♪
+			Jaoon!
+			Jao♪
 		</child>
 		<adult>
-			じゃおーん！
-			じゃお♪
+			Jaoon!
+			Jao♪
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおじゃおーん！
-			じゃお♪じゃお♪
+			JaoJaoon!
+			Jao♪Jao♪
 		</baby>
 		<child>
-			じゃおじゃおーん！
-			じゃお♪じゃお♪
+			JaoJaoon!
+			Jao♪Jao♪
 		</child>
 		<adult>
-			じゃおじゃおーん！
-			じゃお♪じゃお♪
+			JaoJaoon!
+			Jao♪Jao♪
 		</adult>
 	</rude>
 [/WantFood]
@@ -34,41 +34,41 @@
 [NoFood]
 	<normal>
 		<baby>
-			じゃお？
+			Jao?
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</baby>
 		<child>
-			じゃお？
+			Jao?
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</child>
 		<adult>
-			じゃお？
+			Jao?
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお？！じゃおーん！
+			Jao?!Jaoon!
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</baby>
 		<child>
-			じゃお？！じゃおーん！
+			Jao?!Jaoon!
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</child>
 		<adult>
-			じゃお？！じゃおーん！
+			Jao?!Jaoon!
 			<damage>
-				じゃおん、、、
+				Jaon...
 			</damage>
 		</adult>
 	</rude>
@@ -84,8 +84,8 @@
 			%dummy
 		</child>
 		<adult>
-			じゃお、、、
-			じゃお、じゃおん……
+			Jao...
+			Jao,Jaon......
 		</adult>
 	</normal>
 	<rude>
@@ -93,10 +93,10 @@
 			%dummy
 		</baby>
 		<child>
-			ちゃお！　ちゃおちゃおちゃお！
+			Chao! ChaoChaoChao!
 		</child>
 		<adult>
-			じゃお！　じゃおじゃおじゃお！
+			Jao! JaoJaoJao!
 		</adult>
 	</rude>
 [/WantPartner]
@@ -104,14 +104,14 @@
 # 発情
 [Excite]
 	<normal>
-		じゃお！
+		Jao!
 	</normal>
 [/Excite]
 
 # れいぱー化して発情
 [ExciteForRaper]
 	<normal>
-		じゃお！
+		Jao!
 	</normal>
 [/ExciteForRaper]
 
@@ -119,13 +119,13 @@
 [PenipeniCutting]
 	<normal>
 		<baby>
-			じゃおーん？！
+			Jaoon?!
 		</baby>
 		<child>
-			じゃおーん？！
+			Jaoon?!
 		</child>
 		<adult>
-			じゃおーん？！
+			Jaoon?!
 		</adult>
 	</normal>
 [/PenipeniCutting]
@@ -134,13 +134,13 @@
 [PenipeniCutted]
 	<normal>
 		<baby>
-			じゃおん、、、
+			Jaon...
 		</baby>
 		<child>
-			じゃおん、、、
+			Jaon...
 		</child>
 		<adult>
-			じゃおん、、、
+			Jaon...
 		</adult>
 	</normal>
 [/PenipeniCutted]
@@ -149,13 +149,13 @@
 [CantUsePenipeni]
 	<normal>
 		<baby>
-			じゃおん、、、
+			Jaon...
 		</baby>
 		<child>
-			じゃおん、、、
+			Jaon...
 		</child>
 		<adult>
-			じゃおん、、、
+			Jaon...
 		</adult>
 	</normal>
 [/CantUsePenipeni]
@@ -164,33 +164,33 @@
 [Relax]
 	<normal>
 		<baby>
-			じゃおーん！
-			じゃお～ん♪
-			おにいしゃん！じゃおじゃお！
+			Jaoon!
+			Jao~n♪
+			Mishcha!JaoJao!
 		</baby>
 		<child>
-			じゃおーん！
-			じゃお～ん♪
-			じゃおじゃお！
+			Jaoon!
+			Jao~n♪
+			JaoJao!
 		</child>
 		<adult>
-			じゃおーん！
-			じゃお～ん♪
-			じゃおじゃお！
+			Jaoon!
+			Jao~n♪
+			JaoJao!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！じゃおじゃおじゃおーん！じゃお！
-			じゃお～ん♪じゃお～ん♪
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
 		</baby>
 		<child>
-			じゃお！じゃおじゃおじゃおーん！じゃお！
-			じゃお～ん♪じゃお～ん♪
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
 		</child>
 		<adult>
-			じゃお！じゃおじゃおじゃおーん！じゃお！
-			じゃお～ん♪じゃお～ん♪
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
 		</adult>
 	</rude>
 [/Relax]
@@ -200,17 +200,17 @@
 	<normal>
 		<baby>
 			<pants>
-				じゃーお♪じゃーお♪
+				Jaao♪Jaao♪
 			</pants>
 		</baby>
 		<child>
 			<pants>
-				じゃーお♪じゃーお♪
+				Jaao♪Jaao♪
 			</pants>
 		</child>
 		<adult>
 			<pants>
-				じゃーお♪じゃーお♪
+				Jaao♪Jaao♪
 			</pants>
 		</adult>
 	</normal>
@@ -220,30 +220,30 @@
 [FuriFuri]
 	<normal>
 		<baby>
-			じゃお！
-			じゃーお♪じゃーお♪
+			Jao!
+			Jaao♪Jaao♪
 		</baby>
 		<child>
-			じゃお！
-			じゃーお♪じゃーお♪
+			Jao!
+			Jaao♪Jaao♪
 		</child>
 		<adult>
-			じゃお！
-			じゃーお♪じゃーお♪
+			Jao!
+			Jaao♪Jaao♪
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおじゃお！じゃおーん！
-			じゃーお♪じゃーお♪
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
 		</baby>
 		<child>
-			じゃおじゃお！じゃおーん！
-			じゃーお♪じゃーお♪
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん！
-			じゃーお♪じゃーお♪
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
 		</adult>
 	</rude>
 [/FuriFuri]
@@ -252,13 +252,13 @@
 [BeVain]
 	<normal>
 		<baby>
-			ちゃおっ！
+			Chao!
 		</baby>
 		<child>
-			じゃおっ！
+			Jao!
 		</child>
 		<adult>
-			じゃおっ！
+			Jao!
 		</adult>
 	</normal>
 [/BeVain]
@@ -267,24 +267,24 @@
 [TakeItEasy]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおーん！！！
+			Jaoon!!!
 		</baby>
 		<child>
-			じゃおーん！！！
+			Jaoon!!!
 		</child>
 		<adult>
-			じゃおーん！！！
+			Jaoon!!!
 		</adult>
 	</rude>
 [/TakeItEasy]
@@ -293,24 +293,24 @@
 [Wakeup]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおーん！！！
+			Jaoon!!!
 		</baby>
 		<child>
-			じゃおーん！！！
+			Jaoon!!!
 		</child>
 		<adult>
-			じゃおーん！！！
+			Jaoon!!!
 		</adult>
 	</rude>
 [/Wakeup]
@@ -318,8 +318,8 @@
 # 睡眠
 [Sleep]
 	<normal>
-		じゃお・・じゃお・・
-		じゃおーん・・・
+		Jao..Jao..
+		Jaoon...
 	</normal>
 [/Sleep]
 
@@ -327,41 +327,41 @@
 [Scream]
 	<normal>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！じゃおーん？！
+			Jao!Jaoon?!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん？！
+			JaoJao!Jaoon?!
 			<damage>
-				じゃおーん、、、
+				Jaoon...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃぉ、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！！！
+			Jao!!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん！！
+			JaoJao!Jaoon!!
 			<damage>
-				じゃおじゃお、、、
+				JaoJao...
 			</damage>
 		</adult>
 	</rude>
@@ -370,7 +370,7 @@
 # 悲鳴2
 [Scream2]
 	<normal>
-		じゃおぉぉぉぉぉぉぉ！！！
+		Jaoooooooo!!!
 	</normal>
 [/Scream2]
 
@@ -378,21 +378,21 @@
 [Scare]
 	<normal>
 		<baby>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</child>
 		<adult>
-			じゃおー！じゃおー！！
+			Jaoo!Jaoo!!
 			<damage>
-				じゃお、、、じゃおー、、、
+				Jao...Jaoo...
 			</damage>
 		</adult>
 	</normal>
@@ -402,41 +402,41 @@
 [Alarm]
 	<normal>
 		<baby>
-			じゃ、じゃおー！
+			Ja,Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃお、、、じゃおー、、、
+				Jao...Jaoo...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃ、じゃおー！
+			Ja,Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃおー、、、
+				Jaoo...
 			</damage>
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 			<damage>
-				じゃお、、、じゃおー、、、
+				Jao...Jaoo...
 			</damage>
 		</adult>
 	</rude>
@@ -446,13 +446,13 @@
 [Dying]
 	<normal>
 		<baby>
-			じゃおー！
+			Jaoo!
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 		</adult>
 	</normal>
 [/Dying]
@@ -461,13 +461,13 @@
 [Dead]
 	<normal>
 		<baby>
-			じゃおー、、、
+			Jaoo...
 		</baby>
 		<child>
-			じゃおー、、、
+			Jaoo...
 		</child>
 		<adult>
-			じゃおー、、、
+			Jaoo...
 		</adult>
 	</normal>
 [/Dead]
@@ -476,24 +476,24 @@
 [Eating]
 	<normal>
 		<baby>
-			じゃお～、じゃお～
+			Jao~,Jao~
 		</baby>
 		<child>
-			じゃお～、じゃお～
+			Jao~,Jao~
 		</child>
 		<adult>
-			じゃお～、じゃお～
+			Jao~,Jao~
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお～
+			Jao~
 		</baby>
 		<child>
-			じゃお～
+			Jao~
 		</child>
 		<adult>
-			じゃお～
+			Jao~
 		</adult>
 	</rude>
 [/Eating]
@@ -502,13 +502,13 @@
 [EatingShit]
 	<normal>
 		<baby>
-			じゃおー、、、
+			Jaoo...
 		</baby>
 		<child>
-			じゃおー、、、
+			Jaoo...
 		</child>
 		<adult>
-			じゃおー、、、
+			Jaoo...
 		</adult>
 	</normal>
 [/EatingShit]
@@ -516,7 +516,7 @@
 # 餌運び
 [TransportFood]
 	<normal>
-		じゃお！
+		Jao!
 	</normal>
 [/TransportFood]
 
@@ -524,21 +524,21 @@
 [TransportShit]
 	<normal>
 		<baby>
-			じゃおー
+			Jaoo
 			<ununSlave>
-				じゃおー、、、
+				Jaoo...
 			</ununSlave>
 		</baby>
 		<child>
-			じゃおー
+			Jaoo
 			<ununSlave>
-				じゃおー、、、
+				Jaoo...
 			</ununSlave>
 		</child>
 		<adult>
-			じゃおー
+			Jaoo
 			<ununSlave>
-			じゃおー、、、
+			Jaoo...
 			</ununSlave>
 		</adult>
 	</normal>
@@ -547,14 +547,14 @@
 # アイテムを落とす
 [DropItem]
 	<normal>
-		じゃおじゃお！
+		JaoJao!
 	</normal>
 [/DropItem]
 
 # 食事(まずい)
 [EatingBadtasting]
 	<normal>
-		じゃおじゃお、、、
+		JaoJao...
 	</normal>
 [/EatingBadtasting]
 
@@ -562,13 +562,13 @@
 [EatingBitter]
 	<normal>
 		<baby>
-			じゃおー！
+			Jaoo!
 		</baby>
 		<child>
-			じゃおー！
+			Jaoo!
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 		</adult>
 	</normal>
 [/EatingBitter]
@@ -577,13 +577,13 @@
 [SpitFood]
 	<normal>
 		<baby>
-			じゃおぉ、、、
+			Jaoo...
 		</baby>
 		<child>
-			じゃおぉ、、、
+			Jaoo...
 		</child>
 		<adult>
-			じゃおぉぉ、、、
+			Jaooo...
 		</adult>
 	</normal>
 [/SpitFood]
@@ -592,13 +592,13 @@
 [Full]
 	<normal>
 		<baby>
-			じゃお、、、
+			Jao...
 		</baby>
 		<child>
-			じゃお、、、
+			Jao...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/Full]
@@ -607,41 +607,41 @@
 [Healing]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお！
+				Jao!
 			</damage>
 		</adult>
 	</rude>
@@ -651,13 +651,13 @@
 [ToFreedom]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/ToFreedom]
@@ -666,13 +666,13 @@
 [Cleaned]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/Cleaned]
@@ -681,13 +681,13 @@
 [Sukkiri]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/Sukkiri]
@@ -695,7 +695,7 @@
 # れいぱー化してすっきりー！
 [SukkiriForRaper]
 	<normal>
-		じゃおじゃおーん！
+		JaoJaoon!
 	</normal>
 [/SukkiriForRaper]
 
@@ -703,16 +703,16 @@
 [RaperSukkiri]
 	<normal>
 		<baby>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</baby>
 		<child>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</child>
 		<adult>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</adult>
 	</normal>
 [/RaperSukkiri]
@@ -721,16 +721,16 @@
 [PoolSukkiri]
 	<normal>
 		<baby>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</baby>
 		<child>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</child>
 		<adult>
-			じゃおぉっ！！！
-			じゃ～お～んっ！！！
+			Jaoo!!!
+			Ja~o~n!!!
 		</adult>
 	</normal>
 [/PoolSukkiri]
@@ -738,7 +738,7 @@
 # 誕生
 [Birth]
 	<normal>
-		じゃお～ん！
+		Jao~n!
 	</normal>
 [/Birth]
 
@@ -746,41 +746,41 @@
 [Shit]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<pants>
-				じゃお？じゃおー？！
+				Jao?Jaoo?!
 			</pants>
 		</adult>
 	</rude>
@@ -790,21 +790,21 @@
 [Shit2]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 			<pants>
-				じゃおー、、、
+				Jaoo...
 			</pants>
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 			<pants>
-				じゃおー、、、
+				Jaoo...
 			</pants>
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 			<pants>
-				じゃおー、、、
+				Jaoo...
 			</pants>
 		</adult>
 	</normal>
@@ -814,16 +814,16 @@
 [SuriSuri]
 	<normal>
 		<baby>
-			じゃお！じゃおーん！
-			じゃお じゃお♪
+			Jao!Jaoon!
+			Jao Jao♪
 		</baby>
 		<child>
-			じゃお！じゃおーん！
-			じゃお じゃお♪
+			Jao!Jaoon!
+			Jao Jao♪
 		</child>
 		<adult>
-			じゃお！じゃおーん！
-			じゃお じゃお♪
+			Jao!Jaoon!
+			Jao Jao♪
 		</adult>
 	</normal>
 [/SuriSuri]
@@ -832,16 +832,16 @@
 [PeroPero]
 	<normal>
 		<baby>
-			じゃおじゃお
-			じゃーぉ じゃーぉ♪
+			JaoJao
+			Jaao Jaao♪
 		</baby>
 		<child>
-			じゃおじゃお
-			じゃーぉ じゃーぉ♪
+			JaoJao
+			Jaao Jaao♪
 		</child>
 		<adult>
-			じゃおじゃお
-			じゃーぉ じゃーぉ♪
+			JaoJao
+			Jaao Jaao♪
 		</adult>
 	</normal>
 [/PeroPero]
@@ -849,16 +849,16 @@
 # 出産
 [Breed]
 	<normal>
-		じゃ、じゃおお、、、
+		Ja,Jaoo...
 	</normal>
 [/Breed]
 
 # 産後
 [Breed2]
 	<normal>
-		おちびちゃんっ！じゃおじゃおっ！
+		Little one! JaoJao!
 		<pants>
-			じゃおぉぉ、、、！
+			Jaooo...!
 		</pants>
 	</normal>
 [/Breed2]
@@ -867,41 +867,41 @@
 [HateShit]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</adult>
 	</rude>
@@ -911,10 +911,10 @@
 [ShitIntimidation]
 	<normal>
 		<baby>
-			ちゃおぉぉ！！ちゃおぉぉ！！
+			Chaooo!!Chaooo!!
 		</baby>
 		<child>
-			じゃおぉ！じゃおぉぉ！！
+			Jaoo!Jaooo!!
 		</child>
 		<adult>
 			%dummy
@@ -926,41 +926,41 @@
 [Hungry]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</adult>
 	</rude>
@@ -970,13 +970,13 @@
 [NoAccessory]
 	<normal>
 		<baby>
-			じゃお？！じゃおじゃおじゃおーん！
+			Jao?!JaoJaoJaoon!
 		</baby>
 		<child>
-			じゃお？！じゃおじゃおじゃおーん！
+			Jao?!JaoJaoJaoon!
 		</child>
 		<adult>
-			じゃお？！じゃおじゃおじゃおーん！
+			Jao?!JaoJaoJaoon!
 		</adult>
 	</normal>
 [/NoAccessory]
@@ -985,13 +985,13 @@
 [NoticeNoAccessory]
 	<normal>
 		<baby>
-			じゃお？！じゃおじゃおじゃおーん！？
+			Jao?!JaoJaoJaoon!?
 		</baby>
 		<child>
-			じゃお？！じゃおじゃおじゃおーん！？
+			Jao?!JaoJaoJaoon!?
 		</child>
 		<adult>
-			じゃお？！じゃおじゃおじゃおーん！？
+			Jao?!JaoJaoJaoon!?
 		</adult>
 	</normal>
 [/NoticeNoAccessory]
@@ -999,7 +999,7 @@
 # 他ゆんのおかざりをこっそり奪う
 [GetOtherAccessoryStealthily]
 	<normal>
-		じゃお！
+		Jao!
 	</normal>
 [/GetOtherAccessoryStealthily]
 
@@ -1007,24 +1007,24 @@
 [HateYukkuri]
 	<normal>
 		<baby>
-			じゃお？じゃおじゃお、じゃおーん？！
+			Jao?JaoJao,Jaoon?!
 		</baby>
 		<child>
-			じゃお？じゃおじゃお、じゃおーん？！
+			Jao?JaoJao,Jaoon?!
 		</child>
 		<adult>
-			じゃお？じゃおじゃお、じゃおーん？！
+			Jao?JaoJao,Jaoon?!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</baby>
 		<child>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</child>
 		<adult>
-			じゃお？じゃおじゃお、じゃおーん！
+			Jao?JaoJao,Jaoon!
 		</adult>
 	</rude>
 [/HateYukkuri]
@@ -1033,13 +1033,13 @@
 [Flying]
 	<normal>
 		<baby>
-			じゃおーん！
+			Jaoon!
 		</baby>
 		<child>
-			じゃおーん！
+			Jaoon!
 		</child>
 		<adult>
-			じゃおーん！
+			Jaoon!
 		</adult>
 	</normal>
 [/Flying]
@@ -1047,28 +1047,28 @@
 # 子供死亡
 [SadnessForChild]
 	<normal>
-		じゃおおぉぉ、、、
+		Jaoooo...
 	</normal>
 [/SadnessForChild]
 
 # つがい死亡
 [SadnessForPartner]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForPartner]
 
 # 姉死亡
 [SadnessForEldersister]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForEldersister]
 
 # 妹死亡
 [SadnessForSister]
 	<normal>
-		じゃおー！
+		Jaoo!
 	</normal>
 [/SadnessForSister]
 
@@ -1076,24 +1076,24 @@
 [BlockedByWall]
 	<normal>
 		<baby>
-			じゃおぉぉ？！
+			Jaooo?!
 		</baby>
 		<child>
-			じゃおぉぉ？！
+			Jaooo?!
 		</child>
 		<adult>
-			じゃおぉぉ？！
+			Jaooo?!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおぉぉ？！じゃおじゃお！！
+			Jaooo?!JaoJao!!
 		</baby>
 		<child>
-			じゃおぉぉ？！じゃじゃおじゃお！！
+			Jaooo?!JaJaoJao!!
 		</child>
 		<adult>
-			じゃおぉぉ？！じゃお！じゃお！！
+			Jaooo?!Jao!Jao!!
 		</adult>
 	</rude>
 [/BlockedByWall]
@@ -1102,13 +1102,13 @@
 [GetTreasure]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/GetTreasure]
@@ -1117,13 +1117,13 @@
 [LostTreasure]
 	<normal>
 		<baby>
-			じゃお？！
+			Jao?!
 		</baby>
 		<child>
-			じゃお？！
+			Jao?!
 		</child>
 		<adult>
-			じゃお？！
+			Jao?!
 		</adult>
 	</normal>
 [/LostTreasure]
@@ -1132,13 +1132,13 @@
 [Inflation]
 	<normal>
 		<baby>
-			じゃおおおおおお！
+			Jaoooooo!
 		</baby>
 		<child>
-			じゃおおおおおお！
+			Jaoooooo!
 		</child>
 		<adult>
-			じゃおおおおおお！
+			Jaoooooo!
 		</adult>
 	</normal>
 [/Inflation]
@@ -1147,13 +1147,13 @@
 [AbuseBaby]
 	<normal>
 		<baby>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</baby>
 		<child>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</child>
 		<adult>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</adult>
 	</normal>
 [/AbuseBaby]
@@ -1162,13 +1162,13 @@
 [AbuseBabyKilled]
 	<normal>
 		<baby>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</baby>
 		<child>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</child>
 		<adult>
-			じゃおおおぉぉー！
+			Jaoooooo!
 		</adult>
 	</normal>
 [/AbuseBabyKilled]
@@ -1177,16 +1177,16 @@
 [Nobinobi]
 	<normal>
 		<baby>
-			じゃーおじゃーお
-			じゃ～お～♪
+			JaaoJaao
+			Ja~o~♪
 		</baby>
 		<child>
-			じゃーおじゃーお
-			じゃ～お～♪
+			JaaoJaao
+			Ja~o~♪
 		</child>
 		<adult>
-			じゃーおじゃーお
-			じゃ～お～♪
+			JaaoJaao
+			Ja~o~♪
 		</adult>
 	</normal>
 [/Nobinobi]
@@ -1195,13 +1195,13 @@
 [NearToBirth]
 	<normal>
 		<baby>
-			じゃお！
+			Jao!
 		</baby>
 		<child>
-			じゃお！
+			Jao!
 		</child>
 		<adult>
-			じゃお！
+			Jao!
 		</adult>
 	</normal>
 [/NearToBirth]
@@ -1210,21 +1210,21 @@
 [PoisonDamage]
 	<normal>
 		<baby>
-			じゃおー!
+			Jaoo!
 			<damage>
-				だお
+				Dao
 			</damage>
 		</baby>
 		<child>
-			じゃおー!
+			Jaoo!
 			<damage>
-				だお
+				Dao
 			</damage>
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 			<damage>
-				だお
+				Dao
 			</damage>
 		</adult>
 	</normal>
@@ -1234,13 +1234,13 @@
 [CantShit]
 	<normal>
 		<baby>
-			じゃおー!
+			Jaoo!
 		</baby>
 		<child>
-			じゃおー!
+			Jaoo!
 		</child>
 		<adult>
-			じゃおー！
+			Jaoo!
 		</adult>
 	</normal>
 [/CantShit]
@@ -1249,26 +1249,26 @@
 [NoPregnancy]
 	<normal>
 		<baby>
-			じゃおー!
+			Jaoo!
 		</baby>
 		<child>
-			じゃおー!
+			Jaoo!
 		</child>
 		<adult>
-			じゃおん、、、
-		じゃおー!
+			Jaon...
+		Jaoo!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおー!
+			Jaoo!
 		</baby>
 		<child>
-			じゃおー!
+			Jaoo!
 		</child>
 		<adult>
-			じゃおん、、、
-		じゃおー!
+			Jaon...
+		Jaoo!
 		</adult>
 	</rude>
 [/NoPregnancy]
@@ -1277,13 +1277,13 @@
 [Fear]
 	<normal>
 		<baby>
-			じゃおぉぉ！！！
+			Jaooo!!!
 		</baby>
 		<child>
-			じゃおぉぉ！！！
+			Jaooo!!!
 		</child>
 		<adult>
-			じゃおぉぉ！！！
+			Jaooo!!!
 		</adult>
 	</normal>
 [/Fear]
@@ -1292,14 +1292,14 @@
 [Burning]
 	<normal>
 		<baby>
-			じゃおじゃおじゃおーーん！！！
+			JaoJaoJaooon!!!
 		</baby>
 		<child>
-			じゃおじゃおじゃおーーん！！！
+			JaoJaoJaooon!!!
 		</child>
 		<adult>
-			じゃおじゃおじゃおーーん！！！
-			じゃおー！じゃおー！じゃおーー！！！
+			JaoJaoJaooon!!!
+			Jaoo!Jaoo!Jaooo!!!
 		</adult>
 	</normal>
 [/Burning]
@@ -1308,13 +1308,13 @@
 [Wet]
 	<normal>
 		<baby>
-			じゃおぉぉ、、、
+			Jaooo...
 		</baby>
 		<child>
-			じゃおぉぉ、、、
+			Jaooo...
 		</child>
 		<adult>
-			じゃおぉぉ、、、
+			Jaooo...
 		</adult>
 	</normal>
 [/Wet]
@@ -1323,13 +1323,13 @@
 [WetInShallowWater]
 	<normal>
 		<baby>
-			じゃおぉぉ、、、
+			Jaooo...
 		</baby>
 		<child>
-			じゃおぉぉ、、、
+			Jaooo...
 		</child>
 		<adult>
-			じゃおぉぉ、、、
+			Jaooo...
 		</adult>
 	</normal>
 [/WetInShallowWater]
@@ -1338,13 +1338,13 @@
 [WetInDeepwWater]
 	<normal>
 		<baby>
-			じゃおぉぉ、、、
+			Jaooo...
 		</baby>
 		<child>
-			じゃおぉぉ、、、
+			Jaooo...
 		</child>
 		<adult>
-			じゃおぉぉ、、、
+			Jaooo...
 		</adult>
 	</normal>
 [/WetInDeepwWater]
@@ -1353,30 +1353,30 @@
 [AnalSealed]
 	<normal>
 		<baby>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</baby>
 		<child>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</child>
 		<adult>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</baby>
 		<child>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</child>
 		<adult>
-			じゃおっじゃおっ！
-			じゃ、じゃお～！、、
+			Jao Jao!
+			Ja,Jao~!..
 		</adult>
 	</rude>
 [/AnalSealed]
@@ -1385,19 +1385,19 @@
 [NeedleStick]
 	<normal>
 		<baby>
-			じゃおぉぉおおん！
-			じゃおっ？
-			じゃお？じゃおっ？
+			Jaooooon!
+			Jao?
+			Jao?Jao?
 		</baby>
 		<child>
-			じゃおぉぉおおん！
-			じゃおっ？
-			じゃお？じゃおっ？
+			Jaooooon!
+			Jao?
+			Jao?Jao?
 		</child>
 		<adult>
-			じゃおぉぉおおん！
-			じゃおっ？
-			じゃお？じゃおっ？
+			Jaooooon!
+			Jao?
+			Jao?Jao?
 		</adult>
 	</normal>
 [/NeedleStick]
@@ -1406,19 +1406,19 @@
 [NeedleScream]
 	<normal>
 		<baby>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</baby>
 		<child>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</child>
 		<adult>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</adult>
 	</normal>
 [/NeedleScream]
@@ -1427,19 +1427,19 @@
 [NeedleScreamInAnal]
 	<normal>
 		<baby>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</baby>
 		<child>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</child>
 		<adult>
-			じゃーおー！
-			じゃおー！じゃおー！じゃおー！
-			じゃおぉぉ、、、
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
 		</adult>
 	</normal>
 [/NeedleScreamInAnal]
@@ -1448,19 +1448,19 @@
 [ExtractingNeedlePartner]
 	<normal>
 		<baby>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</baby>
 		<child>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</child>
 		<adult>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</adult>
 	</normal>
 [/ExtractingNeedlePartner]
@@ -1469,19 +1469,19 @@
 [ExtractingNeedleChild]
 	<normal>
 		<baby>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</baby>
 		<child>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</child>
 		<adult>
-			じゃーお！じゃーお！
-			じゃおーじゃおー！
-			じゃおぉぉ！じゃおぉぉ！！！
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
 		</adult>
 	</normal>
 [/ExtractingNeedleChild]
@@ -1490,19 +1490,19 @@
 [NeedlePain]
 	<normal>
 		<baby>
-			じゃおん？じゃおぉおお！！！
-			じゃおん？じゃおん？じゃーおー！！！
-			じゃおぉぉ、、、ピギィィィィィィイ！
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jaooo...Pigiiiiiiii!
 		</baby>
 		<child>
-			じゃおん？じゃおぉおお！！！
-			じゃおん？じゃおん？じゃーおー！！！
-			じゃおぉぉ、、、ピギィィィィィィイ！
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jaooo...Pigiiiiiiii!
 		</child>
 		<adult>
-			じゃおん？じゃおぉおお！！！
-			じゃおん？じゃおん？じゃーおー！！！
-			じゃお、、、じゃおぉぉおおお！
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jao...Jaoooooo!
 		</adult>
 	</normal>
 [/NeedlePain]
@@ -1511,16 +1511,16 @@
 [NeedleRemove]
 	<normal>
 		<baby>
-			じゃおじゃお、じゃおーん、、、
-			じゃおーん、、、
+			JaoJao,Jaoon...
+			Jaoon...
 		</baby>
 		<child>
-			じゃおじゃお、じゃおーん、、、
-			じゃおーん、、、
+			JaoJao,Jaoon...
+			Jaoon...
 		</child>
 		<adult>
-			じゃおじゃお、じゃおーん、、、
-			じゃおーん、、、
+			JaoJao,Jaoon...
+			Jaoon...
 		</adult>
 	</normal>
 [/NeedleRemove]
@@ -1529,13 +1529,13 @@
 [WantAmaama]
 	<normal>
 		<baby>
-			じゃおっ！じゃおっ！じゃおーん！！！
+			Jao!Jao!Jaoon!!!
 		</baby>
 		<child>
-			じゃおっ！じゃおっ！じゃおーん！！！
+			Jao!Jao!Jaoon!!!
 		</child>
 		<adult>
-			じゃおっ！じゃおっ！じゃおーん！！！
+			Jao!Jao!Jaoon!!!
 		</adult>
 	</normal>
 [/WantAmaama]
@@ -1544,24 +1544,24 @@
 [CantMove]
 	<normal>
 		<baby>
-			じゃおっ？
+			Jao?
 		</baby>
 		<child>
-			じゃおっ？
+			Jao?
 		</child>
 		<adult>
-			じゃおっ？
+			Jao?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおっ？
+			Jao?
 		</baby>
 		<child>
-			じゃおっ？
+			Jao?
 		</child>
 		<adult>
-			じゃおっ？
+			Jao?
 		</adult>
 	</rude>
 [/CantMove]
@@ -1570,24 +1570,24 @@
 [CantMove2]
 	<normal>
 		<baby>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</baby>
 		<child>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</child>
 		<adult>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</baby>
 		<child>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</child>
 		<adult>
-			じゃおっ？じゃお～ん！
+			Jao?Jao~n!
 		</adult>
 	</rude>
 [/CantMove2]
@@ -1596,41 +1596,41 @@
 [BLINDING]
 	<normal>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！じゃおーん？！
+			Jao!Jaoon?!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん？！
+			JaoJao!Jaoon?!
 			<damage>
-				じゃおーん、、、
+				Jaoon...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃぉ、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！！！
+			Jao!!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん！！
+			JaoJao!Jaoon!!
 			<damage>
-				じゃおじゃお、、、
+				JaoJao...
 			</damage>
 		</adult>
 	</rude>
@@ -1640,24 +1640,24 @@
 [CANTSEE]
 	<normal>
 		<baby>
-			ちゃおお・・・
+			Chaoo...
 		</baby>
 		<child>
-			じゃお・・・
+			Jao...
 		</child>
 		<adult>
-			じゃお・・・
+			Jao...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ちゃおお・・・
+			Chaoo...
 		</baby>
 		<child>
-			じゃお・・・
+			Jao...
 		</child>
 		<adult>
-			じゃお・・・
+			Jao...
 	</rude>
 [/CANTSEE]
 
@@ -1665,41 +1665,41 @@
 [PLUNCKING]
 	<normal>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！じゃおーん？！
+			Jao!Jaoon?!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん？！
+			JaoJao!Jaoon?!
 			<damage>
-				じゃおーん、、、
+				Jaoon...
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお！！
+			Jao!!
 			<damage>
-				じゃぉ、、、
+				Jao...
 			</damage>
 		</baby>
 		<child>
-			じゃお！！！
+			Jao!!!
 			<damage>
-				じゃお、、、
+				Jao...
 			</damage>
 		</child>
 		<adult>
-			じゃおじゃお！じゃおーん！！
+			JaoJao!Jaoon!!
 			<damage>
-				じゃおじゃお、、、
+				JaoJao...
 			</damage>
 		</adult>
 	</rude>
@@ -1709,13 +1709,13 @@
 [BaryInUnderGround]
 	<normal>
 		<baby>
-			じゃおー、、、じゃおー、、、
+			Jaoo...Jaoo...
 		</baby>
 		<child>
-			じゃおー、、、じゃおー、、、
+			Jaoo...Jaoo...
 		</child>
 		<adult>
-			じゃおー、、、じゃおー、、、
+			Jaoo...Jaoo...
 		</adult>
 	</normal>
 [/BaryInUnderGround]
@@ -1724,24 +1724,24 @@
 [Pull]
 	<normal>
 		<baby>
-			じゃおっ？
+			Jao?
 		</baby>
 		<child>
-			じゃおっ？
+			Jao?
 		</child>
 		<adult>
-			じゃおっ？
+			Jao?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおっ？
+			Jao?
 		</baby>
 		<child>
-			じゃおっ？
+			Jao?
 		</child>
 		<adult>
-			じゃおっ？
+			Jao?
 		</adult>
 	</rude>
 [/Pull]
@@ -1750,30 +1750,30 @@
 [Pull2]
 	<normal>
 		<baby>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</baby>
 		<child>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</child>
 		<adult>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</baby>
 		<child>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</child>
 		<adult>
-			じゃおおぉぉ！！！
-			じゃおっ！じゃおっ！！！！
+			Jaoooo!!!
+			Jao!Jao!!!!
 		</adult>
 	</rude>
 [/Pull2]
@@ -1782,24 +1782,24 @@
 [Press]
 	<normal>
 		<baby>
-			じゃお？
+			Jao?
 		</baby>
 		<child>
-			じゃお？
+			Jao?
 		</child>
 		<adult>
-			じゃお？じゃお？
+			Jao?Jao?
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃお？
+			Jao?
 		</baby>
 		<child>
-			じゃお？
+			Jao?
 		</child>
 		<adult>
-			じゃお？じゃお？
+			Jao?Jao?
 		</adult>
 	</rude>
 [/Press]
@@ -1808,16 +1808,16 @@
 [Press2]
 	<normal>
 		<baby>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</baby>
 		<child>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</child>
 		<adult>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</adult>
 	</normal>
 [/Press2]
@@ -1826,16 +1826,16 @@
 [KilledInFactory]
 	<normal>
 		<baby>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</baby>
 		<child>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</child>
 		<adult>
-			じゃお？じゃおおぉぉ！！！
-			じゃーおーぉーーー！！！
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
 		</adult>
 	</normal>
 [/KilledInFactory]
@@ -1844,13 +1844,13 @@
 [FindAmaama]
 	<normal>
 		<baby>
-			じゃおっ じゃおっ♪
+			Jao Jao♪
 		</baby>
 		<child>
-			じゃおっ じゃおっ♪
+			Jao Jao♪
 		</child>
 		<adult>
-			じゃおっ じゃおっ♪
+			Jao Jao♪
 		</adult>
 	</normal>
 [/FindAmaama]
@@ -1859,16 +1859,16 @@
 [EatingAmaama]
 	<normal>
 		<baby>
-			じゃーおー♪
-			じゃおじゃお じゃおーん♪
+			Jaaoo♪
+			JaoJao Jaoon♪
 		</baby>
 		<child>
-			じゃーおー♪
-			じゃおじゃお じゃおーん♪
+			Jaaoo♪
+			JaoJao Jaoon♪
 		</child>
 		<adult>
-			じゃーおー♪
-			じゃおじゃお じゃおーん♪
+			Jaaoo♪
+			JaoJao Jaoon♪
 		</adult>
 	</normal>
 [/EatingAmaama]
@@ -1877,13 +1877,13 @@
 [FindVegetable]
 	<normal>
 		<baby>
-			じゃーおー♪
+			Jaaoo♪
 		</baby>
 		<child>
-			じゃーおー♪
+			Jaaoo♪
 		</child>
 		<adult>
-			じゃーおー♪
+			Jaaoo♪
 		</adult>
 	</normal>
 [/FindVegetable]
@@ -1892,16 +1892,16 @@
 [Vomit]
 	<normal>
 		<baby>
-			じゃおぉぉっ！！！
-			ぐべぇ！
+			Jaooo!!!
+			Gubee!
 		</baby>
 		<child>
-			じゃおぉぉっ！！！
-			ぐべぇ！
+			Jaooo!!!
+			Gubee!
 		</child>
 		<adult>
-			じゃおぉぉっ！！！
-			ぐべぇ！
+			Jaooo!!!
+			Gubee!
 		</adult>
 	</normal>
 [/Vomit]
@@ -1910,13 +1910,13 @@
 [Dying2]
 	<normal>
 		<baby>
-			じゃ・・・じゃおっ・・・
+			Ja...Jao...
 		</baby>
 		<child>
-			じゃ・・・じゃおっ・・・
+			Ja...Jao...
 		</child>
 		<adult>
-			じゃ・・・じゃおっ・・・
+			Ja...Jao...
 		</adult>
 	</normal>
 [/Dying2]
@@ -1925,13 +1925,13 @@
 [Surprise]
 	<normal>
 		<baby>
-			じゃおぉぉん？！
+			Jaooon?!
 		</baby>
 		<child>
-			じゃおぉぉん？！
+			Jaooon?!
 		</child>
 		<adult>
-			じゃおぉぉん？！
+			Jaooon?!
 		</adult>
 	</normal>
 [/Surprise]
@@ -1940,24 +1940,24 @@
 [PEALING]
 	<normal>
 		<baby>
-			ちゃぉぉぉぉぉぉぉ！！！
+			Chaooooooo!!!
 		</baby>
 		<child>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</child>
 		<adult>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ちゃぉぉぉぉぉぉぉ！！！
+			Chaooooooo!!!
 		</baby>
 		<child>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</child>
 		<adult>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</adult>
 	</rude>
 [/PEALING]
@@ -1966,13 +1966,13 @@
 [LamentLowYukkuri]
 	<normal>
 		<baby>
-			ちゃおぉ、、、
+			Chaoo...
 		</baby>
 		<child>
-			じゃおぉ、、、
+			Jaoo...
 		</child>
 		<adult>
-			じゃお、、、
+			Jao...
 		</adult>
 	</normal>
 [/LamentLowYukkuri]
@@ -1981,16 +1981,16 @@
 [LamentNoYukkuri]
 	<normal>
 		<baby>
-			ちゃおぉぉぉ！
-			ちゃおぉぉぉ？！！
+			Chaoooo!
+			Chaoooo?!!
 		</baby>
 		<child>
-			じゃおぉぉぉ！
-			じゃおおぉぉぉ？！！
+			Jaoooo!
+			Jaooooo?!!
 		</child>
 		<adult>
-			じゃおぉぉぉ！
-			じゃおおぉぉぉ？！！
+			Jaoooo!
+			Jaooooo?!!
 		</adult>
 	</normal>
 [/LamentNoYukkuri]
@@ -1998,7 +1998,7 @@
 # ゆんやああ
 [Yunnyaa]
 	<normal>
-		じゃおぉぉぉぉぉぉぉぉぉぉ！！！！！
+		Jaooooooooooo!!!!!
 	</normal>
 [/Yunnyaa]
 
@@ -2006,14 +2006,14 @@
 [NonYukkuriDiseaseNear]
 	<normal>
 		･････････
-		じゃお、、、、、
+		Jao.....
 	</normal>
 [/NonYukkuriDiseaseNear]
 
 # 非ゆっくり症
 [NonYukkuriDisease]
 	<normal>
-		じゃおっ！！じゃおっ！！じゃおっ！！じゃおっ！！じゃおっ！！じゃおっ！！
+		Jao!!Jao!!Jao!!Jao!!Jao!!Jao!!
 	</normal>
 [/NonYukkuriDisease]
 
@@ -2021,22 +2021,22 @@
 [RevengeAttack]
 	<normal>
 		<baby>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</baby>
 		<child>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</child>
 		<adult>
-			じゃっ！
-			じゃおっ！
-			じゃおらっ！！！
-			じゃおらららぁっ！！！
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
 		</adult>
 	</normal>
 [/RevengeAttack]
@@ -2045,13 +2045,13 @@
 [BraidCut]
 	<normal>
 		<baby>
-			じゃおじゃおっ？！
+			JaoJao?!
 		</baby>
 		<child>
-			じゃおじゃおっ？！
+			JaoJao?!
 		</child>
 		<adult>
-			じゃおじゃおっ？！
+			JaoJao?!
 		</adult>
 	</normal>
 [/BraidCut]
@@ -2060,13 +2060,13 @@
 [EatenByBody]
 	<normal>
 		<baby>
-			じゃおぉぉ！じゃおぉぉ！
+			Jaooo!Jaooo!
 		</baby>
 		<child>
-			じゃおぉぉ！じゃおぉぉ！
+			Jaooo!Jaooo!
 		</child>
 		<adult>
-			じゃおぉぉ！じゃおぉぉ！
+			Jaooo!Jaooo!
 		</adult>
 	</normal>
 [/EatenByBody]
@@ -2075,13 +2075,13 @@
 [EatenByBody2]
 	<normal>
 		<baby>
-			じゃおぉぉ、、、
+			Jaooo...
 		</baby>
 		<child>
-			じゃおぉぉ、、、
+			Jaooo...
 		</child>
 		<adult>
-			じゃおぉぉ、、、
+			Jaooo...
 		</adult>
 	</normal>
 [/EatenByBody2]
@@ -2090,16 +2090,16 @@
 [EscapeFromRemirya]
 	<normal>
 		<baby>
-			じゃおぉぉぉぉ！！！
-			じゃお？じゃお？じゃお～ん！！！
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
 		</baby>
 		<child>
-			じゃおぉぉぉぉ！！！
-			じゃお？じゃお？じゃお～ん！！！
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
 		</child>
 		<adult>
-			じゃおぉぉぉぉ！！！
-			じゃお？じゃお？じゃお～ん！！！
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
 		</adult>
 	</normal>
 [/EscapeFromRemirya]
@@ -2108,19 +2108,19 @@
 [CantTalk]
 	<normal>
 		<baby>
-			むーー！！
-			ーーーーー！！！
-			ゆむーー！！ゆむむーー！！
+			Mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
 		</baby>
 		<child>
-			むーー！！
-			ーーーーー！！！
-			ゆむーー！！ゆむむーー！！
+			Mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
 		</child>
 		<adult>
-			むーー！！
-			ーーーーー！！！
-			ゆぐーー！！ゆむぐーー！！
+			Mu--!!
+			-----!!!
+			Yuguuu!!Yumuguuu!!
 		</adult>
 	</normal>
 [/CantTalk]
@@ -2129,24 +2129,24 @@
 [NYDCantTalk]
 	<normal>
 		<baby>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</baby>
 		<child>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</child>
 		<adult>
-			ゆぐむっ！ゆぐむっ！ゆぐむっ！ゆぐむっ！
-			ゆむぐっ！ゆむぐっ！ゆむぐっ！ゆむぐっ！
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
 			<damage>
-				ゆむっ！ゆぐっ！ゆむっ！ゆぐっ！ゆむっ！
+				Yumu!Yugu!Yumu!Yugu!Yumu!
 			</damage>
 		</adult>
 	</normal>
@@ -2156,7 +2156,7 @@
 [Dirty]
 	<normal>
 		<baby>
-			ちゃぉぉ、、、
+			Chaoo...
 		</baby>
 		<child>
 			%dummy
@@ -2167,10 +2167,10 @@
 	</normal>
 	<rude>
 		<baby>
-			ちゃぉぉぉぉぉぉぉ！！！
+			Chaooooooo!!!
 		</baby>
 		<child>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</child>
 		<adult>
 			%dummy
@@ -2182,13 +2182,13 @@
 [Moldy]
 	<normal>
 		<baby>
-			じゃおん、、、
+			Jaon...
 		</baby>
 		<child>
-			じゃおん、、、
+			Jaon...
 		</child>
 		<adult>
-			じゃおん、、、
+			Jaon...
 		</adult>
 	</normal>
 [/Moldy]
@@ -2197,24 +2197,24 @@
 [MoldrySeriousry]
 	<normal>
 		<baby>
-			ちゃぉぉぉぉぉぉぉ！！！
+			Chaooooooo!!!
 		</baby>
 		<child>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</child>
 		<adult>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ちゃぉぉぉぉぉぉぉ！！！
+			Chaooooooo!!!
 		</baby>
 		<child>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</child>
 		<adult>
-			じゃぉぉぉぉぉぉぉ！！！
+			Jaooooooo!!!
 		</adult>
 	</rude>
 [/MoldrySeriousry]
@@ -2224,106 +2224,106 @@
 [Nightmare]
 	<normal>
 		<baby>
-			ちゃぉぉぉぉぉぉ、、、、
-			ちゃぁぁぁぁぁぁぁぁ、、、
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Chaoooooo....
+			Chaaaaaaaaa...
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</baby>
 		<child>
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</child>
 		<adult>
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			ちゃぉぉぉぉぉぉ、、、、
-			ちゃぁぁぁぁぁぁぁぁ、、、
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Chaoooooo....
+			Chaaaaaaaaa...
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</baby>
 		<child>
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</child>
 		<adult>
-			じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおじゃおじゃおじゃおぉぉぉぉぉ、、、
-			じゃおぉ、じゃおぉぉぉぉぉ、、、
-			じゃおんじゃおぉぉぉぉぉ、、、
-			じゃおぉぉぉぉぉ、じゃおぉぉぉぉ、、、
-			じゃおじゃおじゃおぉぉぉ、、じゃおじゃおぉぉぉ、、
-			ちゃぉぉぉーーー、、、、
-			ちゃぁぁぁーーー、、、
-			じゃおぉぉ～～、、、
-			じゃおじゃおじゃおぉぉーーー、、、
-			じゃおぉ、じゃおぉぉーーー、、、
-			じゃおんじゃおぉぉーーー、、、
-			じゃおぉぉぉ～～、じゃおぉぉ～～、、、
-			じゃおじゃおぉーー、、じゃおじゃおぉーー、、
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
 		</adult>
 	</rude>
 [/Nightmare]
@@ -2332,24 +2332,24 @@
 [DontThrowMeAway]
 	<normal>
 		<baby>
-			ちゃおっ！？ぢゃおっ、、、ぢゃおおーーーん！！！
+			Chao!?Jao...Jaooooon!!!
 		</baby>
 		<child>
-			じゃおっ！？じゃおっ、、、じゃおおーーーん！！！
+			Jao!?Jao...Jaooooon!!!
 		</child>
 		<adult>
-			じゃおっ！？じゃおっ、、、じゃおおーーーん！！！
+			Jao!?Jao...Jaooooon!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			じゃおっ！？じゃおっ、、、じゃおおーーー！！！
+			Jao!?Jao...Jaooooo!!!
 		</baby>
 		<child>
-			じゃおっ！？じゃおっ、、、じゃおおーーー！！！
+			Jao!?Jao...Jaooooo!!!
 		</child>
 		<adult>
-			じゃおっ！？じゃおっ、、、じゃおおーーーん！！！
+			Jao!?Jao...Jaooooon!!!
 		</adult>
 	</rude>
 [/DontThrowMeAway]
@@ -2358,42 +2358,42 @@
 [KilledInFactory]
 	<normal>
 		<baby>
-			にんげんさみゃ゛ぁぁぁぁぁ！！！
-			おどーちゃぁぁぁぁぁ！！！！おがーじゃぁぁぁぁぁ！！
-			おどーちゃぁぁぁーーーじゃおおぉぉぉ！！
-			おがーちゃぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Pyapyaaaaaaaa!!!!Myamyaaaaaaaa!!
+			PyapyaaaaaaaaaaaJaooooo!!
+			Myamyaaaaaaaa!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</baby>
 		<child>
-			にんげんさみゃ゛ぁぁぁぁぁ！！！
-			おどーちゃぁぁぁぁぁ！！！！おがーじゃぁぁぁぁぁ！！
-			おどーちゃぁぁぁーーーじゃおおぉぉぉ！！
-			おがーちゃぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Dwaddieeeeeeee!!!!Mommieeeeeeee!!
+			Dwaddieeeeeeee!!! Jaooooo!!
+			Mommieeeeeeee!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</child>
 		<adult>
-			にんげんさま゛ぁぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			にんげんさみゃ゛ぁぁぁぁぁ！！！
-			おどーちゃぁぁぁぁぁ！！！！おがーじゃぁぁぁぁぁ！！
-			おどーちゃぁぁぁーーーじゃおおぉぉぉ！！
-			おがーちゃぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Pyapyaaaaaaaa!!!!Myamyaaaaaaaa!!
+			PyapyaaaaaaaaaaaJaooooo!!
+			Myamyaaaaaaaa!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</baby>
 		<child>
-			にんげんさみゃ゛ぁぁぁぁぁ！！！
-			おどーちゃぁぁぁぁぁ！！！！おがーじゃぁぁぁぁぁ！！
-			おどーちゃぁぁぁーーーじゃおおぉぉぉ！！
-			おがーちゃぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Dwaddieeeeeeee!!!!Mommieeeeeeee!!
+			Dwaddieeeeeeee!!! Jaooooo!!
+			Mommieeeeeeee!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</child>
 		<adult>
-			にんげんさま゛ぁぁぁぁぁ！！！
-			じゃおっ！じゃおっ！じゃおっ！じゃおじゃおじゃおぉぉぉぉぉ！！！
+			Humaaaaaaaaan!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
 		</adult>
 	</rude>
 [/KilledInFactory]
@@ -2402,22 +2402,22 @@
 [BeingQuiet]
 	<normal>
 		<baby>
-			ゆう、、じゃーお、、、
-			ゆむむ、、、
-			ゆう、しー、じゃおじゃお、、、
-			ゆゆう、、
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
 		</baby>
 		<child>
-			ゆう、、じゃーお、、、
-			ゆむむ、、、
-			ゆう、しー、じゃおじゃお、、、
-			ゆゆう、、
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
 		</child>
 		<adult>
-			ゆう、、じゃーお、、、
-			ゆむむ、、、
-			ゆう、しー、じゃおじゃお、、、
-			ゆゆう、、
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
 		</adult>
 	</normal>
 [/BeingQuiet]
@@ -2427,31 +2427,31 @@
 [SpitFood]
 	<normal>
 		<baby>
-			ゆぇぇぇぇぇ、、
-			ゆげぇぇぇぇ、、、
-			ゆげぇぇぇぇ、、、
-			ゆびぇぇぇぇ、、、
-			ゆおろろろろろろろ、、、
-			ゆびゅびゅびゅびゅ、、、
-			じゃおぉぉぉ、、、
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeee...
+			Yuorororororororo...
+			Yubyubyubyubyu...
+			Jaoooo...
 		</baby>
 		<child>
-			ゆぇぇぇぇぇ、、
-			ゆげぇぇぇぇ、、、
-			ゆげぇぇぇぇ、、、
-			ゆべぇぇぇぇ、、、
-			ゆおろろろろろろろ、、、
-			ゆぶぶぶぶ、、、
-			じゃおぉぉぉ、、、
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeeee...
+			Yuorororororororo...
+			Yububububu...
+			Jaoooo...
 		</child>
 		<adult>
-			ゆぇぇぇぇぇ、、
-			ゆげぇぇぇぇ、、、
-			ゆげぇぇぇぇ、、、
-			ゆべぇぇぇぇ、、、
-			ゆおろろろろろろろ、、、
-			ゆぶぶぶぶ、、、
-			じゃおぉぉぉ、、、
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeeee...
+			Yuorororororororo...
+			Yububububu...
+			Jaoooo...
 		</adult>
 	</normal>
 
